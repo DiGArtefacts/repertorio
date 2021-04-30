@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>664188</docId>
+    <title>Repertorio clean</title>
+    <uploadTimestamp>1619529370714</uploadTimestamp>
+    <uploader>frederik.elwert@rub.de</uploader>
+    <uploaderId>34878</uploaderId>
+    <nrOfPages>257</nrOfPages>
+    <pageId>25697344</pageId>
+    <url>https://files.transkribus.eu/Get?id=UAASRAVNXSBMRZXICHMSMHZI&amp;fileType=view</url>
+    <thumbUrl>https://files.transkribus.eu/Get?id=UAASRAVNXSBMRZXICHMSMHZI&amp;fileType=thumb</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_664188</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>93660</colId>
+            <colName>DiGA</colName>
+            <description>created by frederik.elwert@rub.de</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

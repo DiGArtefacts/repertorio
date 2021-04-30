@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Transkribus print 0.3(htr_id=29418)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-04-27T15:54:32.074+02:00</Created>
+        <LastChange>2021-04-29T11:36:06.189+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="664188" pageId="25697375" pageNr="32" tsid="57430916" status="DONE" userId="34878" imgUrl="https://files.transkribus.eu/Get?id=SPPLAJEJQNMWNHGFCDWDORUW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WRTMVCUBOSHCNWCWCQJQLPEQ" imageId="19733717"/>
+    </Metadata>
+    <Page imageFilename="Repertorio-032.tif" imageWidth="2573" imageHeight="3582">
+        <PrintSpace>
+            <Coords points="270,413 2215,413 2215,3254 270,3254"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1619797377194" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="4" regionRef="r_5_1"/>
+                <RegionRefIndexed index="5" regionRef="r_7_1"/>
+                <RegionRefIndexed index="7" regionRef="r_6_1"/>
+                <RegionRefIndexed index="8" regionRef="r_8_1"/>
+                <RegionRefIndexed index="10" regionRef="r_10_1"/>
+                <RegionRefIndexed index="11" regionRef="r_11_1"/>
+                <RegionRefIndexed index="12" regionRef="TextRegion_1619532581853_152"/>
+                <RegionRefIndexed index="13" regionRef="TextRegion_1619532598985_159"/>
+                <RegionRefIndexed index="14" regionRef="r_13_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" type="paragraph" id="r_1_1" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="289,415 905,415 905,472 289,472"/>
+            <TextLine id="r_1_1l1" custom="readingOrder {index:0;}">
+                <Coords points="294,462 904,472 904,426 294,420"/>
+                <Baseline points="299,458 329,456 359,456 389,456 419,456 449,455 479,455 509,455 539,455 569,455 599,456 629,456 659,456 689,456 719,456 749,456 779,456 809,455 839,455 869,455 899,455"/>
+                <TextEquiv>
+                    <Unicode>La pietra scolpita | Carved stone</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>La pietra scolpita | Carved stone</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_2_1" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1912,413 2215,413 2215,470 1912,470"/>
+            <TextLine id="r_2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1917,469 1940,461 2025,469 2063,461 2100,470 2209,461 2209,419 2200,417 2084,409 1977,427 1966,418 1917,415"/>
+                <Baseline points="1922,452 1947,453 1973,453 1998,455 2024,455 2050,455 2075,455 2101,455 2127,455 2152,454 2178,453 2204,452"/>
+                <TextEquiv>
+                    <Unicode>Tav. 11 | Pl. 11</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tav. 11 | Pl. 11</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="heading" id="r_3_1" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="923,575 1577,575 1577,645 923,645"/>
+            <TextLine id="r_3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="921,640 1573,633 1573,586 1207,580 1146,603 1084,581 1054,604 1021,582 921,587"/>
+                <Baseline points="926,626 958,626 990,626 1022,626 1054,626 1086,626 1118,626 1150,626 1182,626 1214,626 1247,626 1279,626 1311,626 1343,626 1375,626 1407,626 1439,626 1471,626 1503,626 1535,626 1568,626"/>
+                <TextEquiv>
+                    <Unicode>1.3.2 - LA STATUA | STATUE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1.3.2 - LA STATUA | STATUE</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1619536250824_208" custom="readingOrder {index:3;}">
+            <Coords points="309,727 1055,727 1055,1479 309,1479"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="r_5_1" custom="readingOrder {index:4;} structure {type:column-italiano;}">
+            <Coords points="1167,752 1662,752 1662,1113 1167,1113"/>
+            <TextLine id="r_5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1164,786 1188,801 1230,787 1249,802 1285,795 1298,805 1340,794 1381,804 1414,793 1544,795 1544,759 1523,747 1444,764 1357,747 1314,766 1247,746 1213,766 1164,753"/>
+                <Baseline points="1169,783 1195,785 1221,786 1248,786 1274,788 1301,788 1327,788 1354,788 1380,788 1406,788 1433,788 1459,788 1486,788 1512,786 1539,786"/>
+                <TextEquiv>
+                    <Unicode>1 - Statua [con sola</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1203,844 1279,845 1290,854 1325,846 1341,858 1369,846 1466,846 1489,855 1516,847 1516,807 1500,804 1486,816 1466,803 1451,816 1392,815 1368,803 1333,817 1311,807 1269,805 1237,817 1203,808"/>
+                <Baseline points="1208,837 1233,839 1258,840 1283,840 1309,840 1334,840 1359,839 1384,839 1410,839 1435,839 1460,840 1485,841 1511,843"/>
+                <TextEquiv>
+                    <Unicode>veduta frontale]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1173,898 1659,910 1658,855 1610,868 1427,854 1390,871 1318,856 1247,870 1173,861"/>
+                <Baseline points="1178,891 1203,893 1228,894 1253,894 1278,894 1303,894 1328,894 1353,894 1378,894 1403,893 1428,893 1453,893 1478,892 1503,891 1528,891 1553,891 1578,892 1603,893 1628,894 1653,896"/>
+                <TextEquiv>
+                    <Unicode>1.1: [faccia ant. (=fronte)]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1164,948 1249,952 1267,968 1492,949 1652,962 1652,912 1392,928 1356,911 1309,923 1265,910 1248,924 1164,914"/>
+                <Baseline points="1169,945 1194,947 1219,947 1244,947 1269,947 1294,947 1319,947 1345,947 1370,946 1395,945 1420,945 1445,945 1470,944 1496,944 1521,944 1546,945 1571,945 1596,947 1621,949 1647,950"/>
+                <TextEquiv>
+                    <Unicode>1.2: [faccia post. (=retro)]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1167,1014 1186,1016 1205,1010 1213,1002 1235,1011 1243,1005 1269,1010 1306,1006 1306,971 1287,969 1278,974 1267,969 1262,974 1242,975 1228,965 1168,970"/>
+                <Baseline points="1173,995 1198,998 1224,998 1249,996 1275,997 1301,1002"/>
+                <TextEquiv>
+                    <Unicode>a: base</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1165,1056 1215,1056 1228,1064 1241,1059 1260,1072 1293,1058 1326,1060 1351,1048 1351,1037 1339,1037 1321,1022 1279,1029 1251,1025 1237,1013 1218,1024 1165,1016"/>
+                <Baseline points="1170,1050 1195,1050 1220,1052 1245,1052 1270,1052 1295,1052 1320,1051 1346,1049"/>
+                <TextEquiv>
+                    <Unicode>b: figura</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_5_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1173,1119 1234,1123 1332,1108 1406,1126 1417,1120 1417,1095 1388,1073 1331,1086 1301,1069 1276,1081 1251,1081 1226,1063 1207,1082 1173,1080"/>
+                <Baseline points="1178,1104 1204,1104 1230,1106 1256,1106 1282,1106 1308,1106 1334,1106 1360,1106 1386,1106 1412,1107"/>
+                <TextEquiv>
+                    <Unicode>c: faccia ant.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1 - Statua [con sola
+veduta frontale]
+1.1: [faccia ant. (=fronte)]
+1.2: [faccia post. (=retro)]
+a: base
+b: figura
+c: faccia ant.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r_7_1" custom="readingOrder {index:5;} structure {type:column-english;}">
+            <Coords points="1704,751 2111,751 2111,1112 1704,1112"/>
+            <TextLine id="r_7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1701,803 1725,811 1757,791 1822,792 1886,795 1913,811 2009,788 2084,801 2102,795 2102,752 2073,761 2044,745 2016,760 1895,748 1816,763 1794,750 1770,764 1718,752 1701,765"/>
+                <Baseline points="1706,783 1732,785 1758,786 1784,786 1810,787 1836,788 1862,786 1888,786 1914,786 1940,786 1966,785 1992,785 2018,785 2044,785 2070,785 2097,786"/>
+                <TextEquiv>
+                    <Unicode>1 - Statue [front-view</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1726,847 1761,844 1800,851 1815,845 1831,855 1859,855 1871,850 1872,802 1862,802 1844,817 1828,810 1820,814 1791,811 1783,817 1771,808 1766,813 1752,811 1735,828 1727,828"/>
+                <Baseline points="1731,839 1758,839 1785,839 1812,839 1839,840 1866,842"/>
+                <TextEquiv>
+                    <Unicode>statue)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1707,902 1783,896 1804,909 1845,897 1933,897 2011,906 2010,853 1991,853 1979,866 1923,856 1906,868 1888,858 1866,869 1826,854 1776,864 1754,857 1744,866 1707,859"/>
+                <Baseline points="1712,894 1738,894 1765,893 1792,893 1818,892 1845,891 1872,891 1899,891 1925,891 1952,891 1979,891 2006,891"/>
+                <TextEquiv>
+                    <Unicode>1.1: [front facel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l4" custom="readingOrder {index:3;}">
+                <Coords points="1701,955 1789,955 1808,965 1819,954 1839,963 1871,953 1931,964 1971,952 1986,966 2011,961 2011,907 1952,921 1922,907 1901,919 1875,911 1855,926 1807,909 1787,921 1701,913"/>
+                <Baseline points="1706,945 1731,947 1756,947 1781,947 1806,947 1831,947 1856,945 1881,945 1906,945 1931,945 1956,945 1981,947 2006,950"/>
+                <TextEquiv>
+                    <Unicode>1.2: [back face</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l5" custom="readingOrder {index:4;}">
+                <Coords points="1702,1007 1737,1010 1750,999 1765,1010 1781,1005 1804,1010 1815,1004 1845,1008 1845,967 1823,975 1778,975 1759,960 1741,972 1728,975 1721,969 1702,976"/>
+                <Baseline points="1707,995 1733,996 1759,995 1786,995 1812,995 1839,998"/>
+                <TextEquiv>
+                    <Unicode>a: base</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l6" custom="readingOrder {index:5;}">
+                <Coords points="1701,1057 1721,1065 1752,1054 1803,1069 1821,1057 1877,1066 1876,1026 1832,1022 1818,1028 1775,1012 1742,1025 1724,1018 1701,1019"/>
+                <Baseline points="1706,1050 1733,1053 1761,1053 1789,1052 1816,1050 1844,1050 1872,1052"/>
+                <TextEquiv>
+                    <Unicode>b: figure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_7_1l7" custom="readingOrder {index:6;}">
+                <Coords points="1704,1115 1750,1108 1798,1114 1815,1127 1828,1115 1925,1116 1945,1104 1945,1086 1907,1074 1895,1080 1876,1065 1851,1082 1834,1071 1786,1079 1770,1066 1744,1079 1704,1074"/>
+                <Baseline points="1709,1104 1734,1103 1760,1103 1786,1103 1811,1104 1837,1104 1863,1104 1888,1104 1914,1104 1940,1103"/>
+                <TextEquiv>
+                    <Unicode>c: front face</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1 - Statue [front-view
+statue)
+1.1: [front facel
+1.2: [back face
+a: base
+b: figure
+c: front face</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1619536280979_211" custom="readingOrder {index:6;}">
+            <Coords points="304,1537 1123,1537 1123,2190 304,2190"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="r_6_1" custom="readingOrder {index:7;} structure {type:column-italiano;}">
+            <Coords points="1166,1543 1660,1543 1660,1703 1166,1703"/>
+            <TextLine id="r_6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1171,1590 1621,1583 1620,1547 1587,1539 1362,1562 1316,1544 1294,1555 1171,1536"/>
+                <Baseline points="1176,1580 1201,1580 1227,1580 1253,1580 1279,1580 1305,1580 1331,1580 1357,1580 1383,1580 1408,1580 1434,1580 1460,1579 1486,1578 1512,1578 1538,1578 1564,1578 1590,1577 1616,1577"/>
+                <TextEquiv>
+                    <Unicode>2 - Statua a tutto tondo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1164,1640 1658,1649 1658,1599 1642,1590 1613,1609 1519,1594 1456,1616 1439,1601 1381,1612 1353,1596 1312,1611 1281,1597 1164,1602"/>
+                <Baseline points="1169,1632 1194,1632 1219,1632 1245,1632 1270,1632 1296,1632 1321,1632 1347,1632 1372,1631 1398,1631 1423,1631 1449,1631 1474,1631 1500,1631 1525,1631 1551,1631 1576,1632 1602,1634 1627,1634 1653,1637"/>
+                <TextEquiv>
+                    <Unicode>2.1: [faccia ant. (=fronte)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1165,1699 1655,1699 1655,1653 1643,1651 1165,1652"/>
+                <Baseline points="1170,1685 1195,1686 1220,1686 1245,1686 1271,1686 1296,1686 1321,1686 1346,1686 1372,1685 1397,1685 1422,1685 1447,1685 1473,1685 1498,1685 1523,1685 1548,1685 1574,1685 1599,1686 1624,1688 1650,1689"/>
+                <TextEquiv>
+                    <Unicode>2.2: [faccia post. (=retro)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2 - Statua a tutto tondo
+2.1: [faccia ant. (=fronte)
+2.2: [faccia post. (=retro)</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r_8_1" custom="readingOrder {index:8;} structure {type:column-english;}">
+            <Coords points="1703,1543 2135,1543 2135,1699 1703,1699"/>
+            <TextLine id="r_8_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1706,1592 1745,1580 1829,1593 2132,1588 2133,1538 2062,1555 1963,1538 1944,1557 1911,1544 1877,1555 1776,1544 1757,1564 1707,1543"/>
+                <Baseline points="1712,1577 1737,1577 1763,1578 1789,1578 1815,1578 1841,1579 1867,1580 1893,1580 1919,1580 1945,1580 1971,1580 1997,1580 2023,1580 2049,1580 2075,1580 2101,1580 2127,1580"/>
+                <TextEquiv>
+                    <Unicode>2- Statue in the round</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1702,1640 1784,1636 1803,1647 1844,1636 1918,1646 1934,1637 2002,1648 2001,1596 1951,1610 1926,1591 1900,1606 1837,1607 1821,1596 1772,1607 1759,1597 1702,1602"/>
+                <Baseline points="1707,1632 1733,1632 1759,1632 1786,1632 1812,1632 1838,1632 1865,1632 1891,1631 1917,1631 1944,1631 1970,1631 1997,1632"/>
+                <TextEquiv>
+                    <Unicode>2.1: [front face</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_8_1l3" custom="readingOrder {index:2;}">
+                <Coords points="1705,1695 1766,1691 1803,1704 1832,1692 1948,1691 1993,1700 2006,1696 2007,1651 1915,1649 1898,1663 1880,1650 1828,1660 1817,1648 1788,1657 1753,1645 1705,1649"/>
+                <Baseline points="1710,1685 1736,1686 1762,1686 1789,1686 1815,1686 1842,1685 1868,1685 1895,1685 1921,1685 1948,1686 1974,1687 2001,1688"/>
+                <TextEquiv>
+                    <Unicode>2.2: [back facel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2- Statue in the round
+2.1: [front face
+2.2: [back facel</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <GraphicRegion id="r_9" custom="readingOrder {index:9;}">
+            <Coords points="605,2297 811,2297 809,2922 603,2922"/>
+        </GraphicRegion>
+        <TextRegion orientation="0.0" id="r_10_1" custom="readingOrder {index:10;} structure {type:column-italiano;}">
+            <Coords points="1164,2292 1516,2292 1516,2397 1164,2397"/>
+            <TextLine id="r_10_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1159,2335 1177,2342 1225,2329 1243,2341 1255,2332 1337,2334 1443,2346 1513,2334 1513,2295 1437,2302 1405,2292 1389,2304 1159,2294"/>
+                <Baseline points="1164,2325 1190,2325 1216,2325 1243,2327 1269,2327 1296,2328 1322,2328 1349,2329 1375,2330 1402,2330 1428,2330 1455,2328 1481,2328 1508,2327"/>
+                <TextEquiv>
+                    <Unicode>3 - Statua a figure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_10_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1197,2389 1283,2390 1294,2400 1313,2391 1364,2391 1381,2380 1381,2357 1356,2349 1340,2348 1326,2355 1269,2347 1213,2355 1197,2363"/>
+                <Baseline points="1202,2381 1231,2382 1260,2381 1289,2381 1318,2381 1347,2381 1376,2384"/>
+                <TextEquiv>
+                    <Unicode>attergate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3 - Statua a figure
+attergate</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r_11_1" custom="readingOrder {index:11;} structure {type:column-english;}">
+            <Coords points="1698,2290 2142,2290 2142,2396 1698,2396"/>
+            <TextLine id="r_11_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1695,2331 1872,2343 1891,2331 2016,2342 2146,2329 2146,2299 2077,2284 2044,2301 1997,2283 1975,2301 1933,2288 1895,2303 1695,2292"/>
+                <Baseline points="1700,2322 1725,2324 1751,2325 1777,2325 1803,2327 1829,2327 1855,2328 1881,2328 1907,2328 1933,2328 1959,2328 1985,2327 2011,2327 2037,2327 2063,2325 2089,2325 2115,2325 2141,2324"/>
+                <TextEquiv>
+                    <Unicode>3 - Statue with back-to-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_11_1l2" custom="readingOrder {index:1;}">
+                <Coords points="1731,2393 1854,2393 1873,2404 1922,2387 1957,2395 1983,2382 1982,2355 1889,2355 1851,2343 1833,2357 1819,2345 1786,2357 1731,2347"/>
+                <Baseline points="1736,2378 1762,2379 1789,2379 1816,2380 1843,2381 1869,2381 1896,2381 1923,2380 1950,2378 1977,2376"/>
+                <TextEquiv>
+                    <Unicode>back figures</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3 - Statue with back-to-
+back figures</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1619532581853_152" custom="readingOrder {index:12;} structure {type:paragraph;}">
+            <Coords points="270,3208 578,3208 578,3254 270,3254"/>
+            <TextLine id="line_1619532581868_155" custom="readingOrder {index:0;}">
+                <Coords points="278,3211 578,3223 578,3247 278,3248"/>
+                <Baseline points="284,3239 325,3239 366,3239 407,3240 448,3240 489,3240 530,3240 571,3240 578,3240"/>
+                <TextEquiv>
+                    <Unicode>1 - Kurita II: n. 586.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1 - Kurita II: n. 586.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="TextRegion_1619532598985_159" custom="readingOrder {index:13;} structure {type:paragraph;}">
+            <Coords points="630,3208 1115,3208 1115,3254 630,3254"/>
+            <TextLine id="line_1619532598996_162" custom="readingOrder {index:0;}">
+                <Coords points="630,3223 1109,3201 1109,3247 630,3247"/>
+                <Baseline points="630,3240 653,3240 694,3240 735,3240 776,3240 817,3240 858,3240 899,3239 940,3239 981,3239 1022,3239 1063,3237 1104,3237"/>
+                <TextEquiv>
+                    <Unicode>2 - Ingholt 1957: nn. 347-348.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2 - Ingholt 1957: nn. 347-348.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" type="paragraph" id="r_13_1" custom="readingOrder {index:14;} structure {type:paragraph;}">
+            <Coords points="1205,3207 1567,3207 1567,3247 1205,3247"/>
+            <TextLine id="r_13_1l1" custom="readingOrder {index:0;}">
+                <Coords points="1201,3254 1237,3245 1458,3251 1475,3240 1561,3252 1568,3206 1511,3209 1500,3220 1417,3200 1378,3215 1201,3211"/>
+                <Baseline points="1206,3240 1231,3240 1257,3240 1282,3240 1308,3239 1333,3239 1359,3239 1384,3239 1410,3239 1435,3239 1461,3239 1486,3239 1512,3239 1537,3239 1563,3240"/>
+                <TextEquiv>
+                    <Unicode>3 -Russek 1987: n. 60.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3 -Russek 1987: n. 60.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
