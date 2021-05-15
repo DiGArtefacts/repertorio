@@ -9,6 +9,7 @@ treelib = "*"
 setuptools = "*"
 lxml = "*"
 tinycss2 = "*"
+pillow = "*"
 
 [dev-packages]
 
