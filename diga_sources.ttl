@@ -1,0 +1,10 @@
+@prefix bibo: <http://purl.org/ontology/bibo/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix diga_source: <https://w3id.org/diga/source/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+diga_source:repertorio a bibo:Document ;
+    dct:title "Repertorio terminologico per la schedatura delle sculture dell’arte gandharica" ;
+    bibo:shortTitle "Faccenna and Filigenzi. Repertorio. 2007" ;
+    skos:note "Faccenna, Domenico, and Anna Filigenzi. 2007. Repertorio terminologico per la schedatura delle sculture dell’arte gandharica – Sulla base dei materiali provenienti dagli scavi della Missione Archeologica Italiana dell’IsIAO nello Swat, Pakistan. Rome: IsIAO." .
+
