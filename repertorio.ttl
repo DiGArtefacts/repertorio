@@ -24588,10 +24588,6 @@ diga_terms:1450151918 a skosxl:Label ;
     dct:source diga_source:repertorio ;
     skosxl:literalForm "trapano ad arco"@it .
 
-diga_terms:1450272434 a skosxl:Label ;
-    dct:source diga_source:repertorio ;
-    skosxl:literalForm "strumenti per la lavorazione della pietra"@it .
-
 diga_terms:1450512073 a skosxl:Label ;
     dct:source diga_source:repertorio ;
     skosxl:literalForm "rolled"@en .
@@ -26814,10 +26810,6 @@ diga_terms:1775652860 a skosxl:Label ;
 diga_terms:1775883073 a skosxl:Label ;
     dct:source diga_source:repertorio ;
     skosxl:literalForm "faccia post."@it .
-
-diga_terms:1776174043 a skosxl:Label ;
-    dct:source diga_source:repertorio ;
-    skosxl:literalForm "tools for working stone"@en .
 
 diga_terms:1776570546 a skosxl:Label ;
     dct:source diga_source:repertorio ;
@@ -51134,9 +51126,7 @@ diga_terms:2838159259 a skos:Concept ;
     skos:editorialNote "Figure label in repertorio: 1.1"@en ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1135055502,
-        diga_terms:1266854144,
-        diga_terms:1450272434,
-        diga_terms:1776174043 .
+        diga_terms:1266854144 .
 
 diga_terms:2842322978 a skos:Concept ;
     dc:identifier "2842322978" ;
