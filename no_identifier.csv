@@ -1,6 +1,10 @@
 concept,it_str,en_str
+https://w3id.org/diga/terms/c_b0bbdbe7,veste monastica,monastic robe
+https://w3id.org/diga/terms/c_c615f3d7,pettinatura monastica,monastic hair
+https://w3id.org/diga/terms/c_31e65c80,liuto,lute
+https://w3id.org/diga/terms/c_9971ea14,"con pollice, indice e medio della mano dx. tesi, uniti","with right hand thumb, index and middle finger extended and joined"
+https://w3id.org/diga/terms/c_1379d070,con mano dx. semichiusa con pollice e indice uniti per le punte,with right hand partially clenched with thumb and index finger joined at tips
 https://w3id.org/diga/terms/c_c81bb8c2,il lavoro dello scultore,the sculptor's work
-https://w3id.org/diga/terms/c_f55b180f,architettura,architecture
 https://w3id.org/diga/terms/c_0d640c10,motivi decorativi,decorative motifs
 https://w3id.org/diga/terms/c_ef524e8b,persone,people
 https://w3id.org/diga/terms/c_90b07019,fauna,fauna
@@ -11,6 +15,24 @@ https://w3id.org/diga/terms/c_7c1d4a8d,oggetti di vita quotidiana,everyday objec
 https://w3id.org/diga/terms/c_81f28c3c,mobilio,furniture
 https://w3id.org/diga/terms/c_68962d06,mezzi di trasporto,means of transport
 https://w3id.org/diga/terms/c_db8e50a9,nave,ship
-https://w3id.org/diga/terms/c_a7cd0947,panoplia,panoply
+https://w3id.org/diga/terms/c_b62cf088,barca,boat
+https://w3id.org/diga/terms/c_a7cd0947,armi,weapons
 https://w3id.org/diga/terms/c_96d20f5c,"lancia, giavellotto, tridente","spear, javelin, trident"
 https://w3id.org/diga/terms/c_cff8466e,"colonna e pilastro, semicolonna e parasta","column and pillar, semi-column and pilaster"
+https://w3id.org/diga/terms/c_22e938b0,brahmano anziano,elderly brahmin
+https://w3id.org/diga/terms/c_6e4023c8,asceta anziano,elderly ascetic
+https://w3id.org/diga/terms/c_dfd86b01,asceta giovane,young ascetic
+https://w3id.org/diga/terms/c_8fd9afde,brahmano giovane,young brahmin
+https://w3id.org/diga/terms/c_6081519c,carro con cassa decorata,cart with decorated body
+https://w3id.org/diga/terms/c_f42bca53,carro con cassa alata,cart with winged decorated body
+https://w3id.org/diga/terms/c_54313c41,timone laterale,side rudder
+https://w3id.org/diga/terms/c_5879430c,scafo,hull
+https://w3id.org/diga/terms/c_1a47911b,braccio,shaft
+https://w3id.org/diga/terms/c_a76aedfc,pala quadrata,square oar-blade
+https://w3id.org/diga/terms/c_0840d643,prua,bow
+https://w3id.org/diga/terms/c_3140e040,prua con acrostolio,bow with acrostilium
+https://w3id.org/diga/terms/c_3cbfb085,acrostolio,acrostilium
+https://w3id.org/diga/terms/c_794f3277,tavola da fasciame,hull plank
+https://w3id.org/diga/terms/c_9b99c454,placca,tenon
+https://w3id.org/diga/terms/c_85f8dd29,timone laterale,side rudder
+https://w3id.org/diga/terms/c_fc7b3ba1,barca fluviale,river boat

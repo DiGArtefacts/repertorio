@@ -1,16 +1,38 @@
 ,concept,it_str,en_str,id
-0,https://w3id.org/diga/terms/c_c81bb8c2,il lavoro dello scultore,the sculptor's work,2642759048
-1,https://w3id.org/diga/terms/c_f55b180f,architettura,architecture,1629844188
-2,https://w3id.org/diga/terms/c_0d640c10,motivi decorativi,decorative motifs,2896914945
-3,https://w3id.org/diga/terms/c_ef524e8b,persone,people,234251970
-4,https://w3id.org/diga/terms/c_90b07019,fauna,fauna,3945627877
-5,https://w3id.org/diga/terms/c_41a4be3f,flora,flora,2298336107
-6,https://w3id.org/diga/terms/c_4ba24f3c,strumenti musicali,musical instruments,2054426851
-7,https://w3id.org/diga/terms/c_6c3d7bae,oggetti da cerimonia,ceremonial objects,3066298879
-8,https://w3id.org/diga/terms/c_7c1d4a8d,oggetti di vita quotidiana,everyday objects,1022807358
-9,https://w3id.org/diga/terms/c_81f28c3c,mobilio,furniture,573338218
-10,https://w3id.org/diga/terms/c_68962d06,mezzi di trasporto,means of transport,2251868554
-11,https://w3id.org/diga/terms/c_db8e50a9,nave,ship,1443780080
-12,https://w3id.org/diga/terms/c_a7cd0947,panoplia,panoply,426478292
-13,https://w3id.org/diga/terms/c_96d20f5c,"lancia, giavellotto, tridente","spear, javelin, trident",1704937405
-14,https://w3id.org/diga/terms/c_cff8466e,"colonna e pilastro, semicolonna e parasta","column and pillar, semi-column and pilaster",292026662
+0,https://w3id.org/diga/terms/c_b0bbdbe7,veste monastica,monastic robe,2320100902
+1,https://w3id.org/diga/terms/c_c615f3d7,pettinatura monastica,monastic hair,545163129
+2,https://w3id.org/diga/terms/c_31e65c80,liuto,lute,3508558499
+3,https://w3id.org/diga/terms/c_9971ea14,"con pollice, indice e medio della mano dx. tesi, uniti","with right hand thumb, index and middle finger extended and joined",905621637
+4,https://w3id.org/diga/terms/c_1379d070,con mano dx. semichiusa con pollice e indice uniti per le punte,with right hand partially clenched with thumb and index finger joined at tips,2108185351
+5,https://w3id.org/diga/terms/c_c81bb8c2,il lavoro dello scultore,the sculptor's work,2642759048
+6,https://w3id.org/diga/terms/c_0d640c10,motivi decorativi,decorative motifs,2896914945
+7,https://w3id.org/diga/terms/c_ef524e8b,persone,people,234251970
+8,https://w3id.org/diga/terms/c_90b07019,fauna,fauna,3945627877
+9,https://w3id.org/diga/terms/c_41a4be3f,flora,flora,2298336107
+10,https://w3id.org/diga/terms/c_4ba24f3c,strumenti musicali,musical instruments,2054426851
+11,https://w3id.org/diga/terms/c_6c3d7bae,oggetti da cerimonia,ceremonial objects,3066298879
+12,https://w3id.org/diga/terms/c_7c1d4a8d,oggetti di vita quotidiana,everyday objects,1022807358
+13,https://w3id.org/diga/terms/c_81f28c3c,mobilio,furniture,573338218
+14,https://w3id.org/diga/terms/c_68962d06,mezzi di trasporto,means of transport,2251868554
+15,https://w3id.org/diga/terms/c_db8e50a9,nave,ship,1443780080
+16,https://w3id.org/diga/terms/c_b62cf088,barca,boat,4083475564
+17,https://w3id.org/diga/terms/c_a7cd0947,armi,weapons,3269212881
+18,https://w3id.org/diga/terms/c_96d20f5c,"lancia, giavellotto, tridente","spear, javelin, trident",1704937405
+19,https://w3id.org/diga/terms/c_cff8466e,"colonna e pilastro, semicolonna e parasta","column and pillar, semi-column and pilaster",292026662
+20,https://w3id.org/diga/terms/c_22e938b0,brahmano anziano,elderly brahmin,1963118738
+21,https://w3id.org/diga/terms/c_6e4023c8,asceta anziano,elderly ascetic,3231805110
+22,https://w3id.org/diga/terms/c_dfd86b01,asceta giovane,young ascetic,4161140608
+23,https://w3id.org/diga/terms/c_8fd9afde,brahmano giovane,young brahmin,2234494597
+24,https://w3id.org/diga/terms/c_6081519c,carro con cassa decorata,cart with decorated body,171881259
+25,https://w3id.org/diga/terms/c_f42bca53,carro con cassa alata,cart with winged decorated body,2669998381
+26,https://w3id.org/diga/terms/c_54313c41,timone laterale,side rudder,3361798727
+27,https://w3id.org/diga/terms/c_5879430c,scafo,hull,603997620
+28,https://w3id.org/diga/terms/c_1a47911b,braccio,shaft,1063048129
+29,https://w3id.org/diga/terms/c_a76aedfc,pala quadrata,square oar-blade,3360668993
+30,https://w3id.org/diga/terms/c_0840d643,prua,bow,3354158434
+31,https://w3id.org/diga/terms/c_3140e040,prua con acrostolio,bow with acrostilium,2184156646
+32,https://w3id.org/diga/terms/c_3cbfb085,acrostolio,acrostilium,1954977915
+33,https://w3id.org/diga/terms/c_794f3277,tavola da fasciame,hull plank,874988481
+34,https://w3id.org/diga/terms/c_9b99c454,placca,tenon,1449126805
+35,https://w3id.org/diga/terms/c_85f8dd29,timone laterale,side rudder,3361798727
+36,https://w3id.org/diga/terms/c_fc7b3ba1,barca fluviale,river boat,2058223302
