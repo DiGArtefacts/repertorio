@@ -46,11 +46,14 @@ diga_terms:1001583333 a skos:Concept;
 diga_terms:1001756703 a skos:Concept;
   dc:identifier "1001756703";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1571927151, diga_terms:170224749, diga_terms:1994966187,
-    diga_terms:2439333662, diga_terms:3992533263;
+  skos-thes:broaderPartitive diga_terms:1571927151, diga_terms:170224749, diga_terms:1994966187;
   skos:editorialNote "Figure label in repertorio: a6"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2556811448, diga_terms:3106394203 .
+
+diga_terms:c_1379d070 dct:source source:repertorio .
+
+diga_terms:c_c81bb8c2 dct:source source:repertorio .
 
 diga_terms:100479688 a skos:Concept;
   dc:identifier "100479688";
@@ -484,13 +487,21 @@ diga_terms:1107648326 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:22251058, diga_terms:2593692674 .
 
-diga_terms:1108353561 a skos:Concept;
-  dc:identifier "1108353561";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1174518413;
-  skos:editorialNote "Figure label in repertorio: c"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:195507018, diga_terms:4016117569 .
+diga_terms:xl_it_eaf2649a dct:source source:repertorio .
+
+diga_terms:xl_en_1586e23b dct:source source:repertorio .
+
+diga_terms:xl_en_e8ea48df dct:source source:repertorio .
+
+diga_terms:xl_en_64f81059 dct:source source:repertorio .
+
+diga_terms:xl_en_3129d958 dct:source source:repertorio .
+
+diga_terms:xl_it_ea68e287 dct:source source:repertorio .
+
+diga_terms:xl_en_5545e473 dct:source source:repertorio .
+
+diga_terms:xl_en_71c959e0 dct:source source:repertorio .
 
 diga_terms:1113409695 a skos:Concept;
   dc:identifier "1113409695";
@@ -622,8 +633,7 @@ diga_terms:1133034121 a skos:Concept;
 diga_terms:113356157 a skos:Concept;
   dc:identifier "113356157";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
+  skos-thes:broaderPartitive diga_terms:358097268;
   skos:editorialNote "Figure label in repertorio: d3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2315794539, diga_terms:3858380217 .
@@ -883,11 +893,14 @@ diga_terms:556246902 skos:editorialNote "can be vertical or horizontal"@en, "pu�
 diga_terms:1172366176 a skos:Concept;
   dc:identifier "1172366176";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3375198833, diga_terms:3379380403,
-    diga_terms:3760931020, diga_terms:4185145018;
+  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3375198833, diga_terms:3760931020;
   skos:editorialNote "Figure label in repertorio: c1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1545436365, diga_terms:2104847168 .
+
+diga_terms:xl_it_ca2de372 dct:source source:repertorio .
+
+diga_terms:xl_it_ae37b6fe dct:source source:repertorio .
 
 diga_terms:1175877344 a skos:Concept;
   dc:identifier "1175877344";
@@ -952,11 +965,14 @@ diga_terms:11840102 a skos:Concept;
 diga_terms:1186011842 a skos:Concept;
   dc:identifier "1186011842";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1571927151, diga_terms:170224749, diga_terms:1994966187,
-    diga_terms:2439333662, diga_terms:3992533263;
+  skos-thes:broaderPartitive diga_terms:1994966187, diga_terms:2439333662, diga_terms:3992533263;
   skos:editorialNote "Figure label in repertorio: a"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3942667786, diga_terms:4116755609 .
+
+diga_terms:c_68962d06 dct:source source:repertorio .
+
+diga_terms:c_db8e50a9 dct:source source:repertorio .
 
 diga_terms:118737288 a skos:Concept;
   dc:identifier "118737288";
@@ -1158,7 +1174,7 @@ diga_terms:1229329640 a skos:Concept;
 diga_terms:1231092889 a skos:Concept;
   dc:identifier "1231092889";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c26"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:30405355, diga_terms:725417099 .
@@ -1367,7 +1383,7 @@ diga_terms:1266639578 a skos:Concept;
 diga_terms:1267403065 a skos:Concept;
   dc:identifier "1267403065";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c17"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2125001374, diga_terms:4293588791 .
@@ -1789,7 +1805,7 @@ diga_terms:1367741582 a skos:Concept;
 diga_terms:137293945 a skos:Concept;
   dc:identifier "137293945";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c14"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1298567043, diga_terms:4081617198 .
@@ -1814,7 +1830,7 @@ diga_terms:1375560646 a skos:Concept;
 diga_terms:1378198571 a skos:Concept;
   dc:identifier "1378198571";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1791345897;
+  skos-thes:broaderGeneric diga_terms:2425818388;
   skos:editorialNote "Figure label in repertorio: 1.1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2796137667, diga_terms:4136482761 .
@@ -1897,7 +1913,7 @@ diga_terms:1393775299 a skos:Concept;
 diga_terms:1394891171 a skos:Concept;
   dc:identifier "1394891171";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c9"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2279754807, diga_terms:3325633213 .
@@ -2162,7 +2178,7 @@ diga_terms:1455825836 a skos:Concept;
 diga_terms:1457332954 a skos:Concept;
   dc:identifier "1457332954";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: d"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2075196373, diga_terms:87501516 .
@@ -2178,7 +2194,7 @@ diga_terms:1457577075 a skos:Concept;
 diga_terms:1457640642 a skos:Concept;
   dc:identifier "1457640642";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c15"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:165171150, diga_terms:2650751289 .
@@ -2363,11 +2379,15 @@ diga_terms:1481573601 a skos:Concept;
 diga_terms:1483042317 a skos:Concept;
   dc:identifier "1483042317";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2077325386, diga_terms:2198716609, diga_terms:2679812627,
-    diga_terms:3080511734;
+  skos-thes:broaderPartitive diga_terms:3080511734;
   skos:editorialNote "Figure label in repertorio: h1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2323805717, diga_terms:3402825204 .
+
+diga_terms:xl_en_443575d4 a skosxl:Label;
+  skosxl:literalForm "stair-side element"@en .
+
+diga_terms:4195473341 skosxl:altLabel diga_terms:xl_en_443575d4 .
 
 diga_terms:1483637870 a skos:Concept;
   dc:identifier "1483637870";
@@ -2564,7 +2584,7 @@ diga_terms:1527685319 a skos:Concept;
 diga_terms:1529936300 a skos:Concept;
   dc:identifier "1529936300";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c24"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3224864951, diga_terms:4152680633 .
@@ -2659,7 +2679,7 @@ diga_terms:1561115705 a skos:Concept;
 diga_terms:1563593587 a skos:Concept;
   dc:identifier "1563593587";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c23"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3172922156, diga_terms:948888926 .
@@ -2852,8 +2872,7 @@ diga_terms:1605358624 a skos:Concept;
 diga_terms:1605387988 a skos:Concept;
   dc:identifier "1605387988";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
+  skos-thes:broaderPartitive diga_terms:358097268;
   skos:editorialNote "Figure label in repertorio: d2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1990423412, diga_terms:3340407183 .
@@ -2989,8 +3008,7 @@ diga_terms:xl_en_1586e23b a skosxl:Label .
 diga_terms:163866495 a skos:Concept;
   dc:identifier "163866495";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
+  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929;
   skos:editorialNote "Figure label in repertorio: c11"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1122499145, diga_terms:2797447080 .
@@ -3310,7 +3328,7 @@ diga_terms:1697052381 a skos:Concept;
 diga_terms:1697248587 a skos:Concept;
   dc:identifier "1697248587";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c25"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1190066576, diga_terms:3348780588 .
@@ -3360,7 +3378,7 @@ diga_terms:1700205106 a skos:Concept;
 diga_terms:1700286955 a skos:Concept;
   dc:identifier "1700286955";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: a"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:154486761, diga_terms:2750412692 .
@@ -4411,14 +4429,7 @@ diga_terms:1891275532 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1304573, diga_terms:685698868 .
 
-diga_terms:1896212548 a skos:Concept;
-  dc:identifier "1896212548";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
-  skos:editorialNote "Figure label in repertorio: d"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2553451386, diga_terms:397779671 .
+diga_terms:1629844188 skos:topConceptOf <https://w3id.org/diga/terms> .
 
 diga_terms:1897648414 a skos:Concept;
   dc:identifier "1897648414";
@@ -4480,12 +4491,23 @@ diga_terms:1914898348 a skos:Concept;
 diga_terms:1914936649 a skos:Concept;
   dc:identifier "1914936649";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1021598324, diga_terms:1654725584, diga_terms:1873348725,
-    diga_terms:2096464760, diga_terms:2513841656, diga_terms:3562176971, diga_terms:3635680875,
-    diga_terms:3976382086, diga_terms:4061836949, diga_terms:665452079;
+  skos-thes:broaderPartitive diga_terms:2096464760, diga_terms:2513841656, diga_terms:3635680875,
+    diga_terms:665452079;
   skos:editorialNote "Figure label in repertorio: b5"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1917558516, diga_terms:3460034779 .
+
+diga_terms:xl_en_78e01bc4 dct:source source:repertorio .
+
+diga_terms:xl_en_534b434c dct:source source:repertorio .
+
+diga_terms:xl_it_eb850e96 dct:source source:repertorio .
+
+diga_terms:xl_it_13b7f67d dct:source source:repertorio .
+
+diga_terms:xl_it_d76587bb dct:source source:repertorio .
+
+diga_terms:xl_en_9fb5cdae dct:source source:repertorio .
 
 diga_terms:1916018644 a skos:Concept;
   dc:identifier "1916018644";
@@ -4559,11 +4581,13 @@ diga_terms:1926682327 a skos:Concept;
 diga_terms:1926783586 a skos:Concept;
   dc:identifier "1926783586";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3375198833, diga_terms:3379380403,
-    diga_terms:3760931020, diga_terms:4185145018;
+  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3379380403, diga_terms:3760931020,
+    diga_terms:4185145018;
   skos:editorialNote "Figure label in repertorio: c"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2649440392, diga_terms:633807614 .
+
+diga_terms:xl_it_4c9a6fcc dct:source source:repertorio .
 
 diga_terms:1927572629 a skos:Concept;
   dc:identifier "1927572629";
@@ -4584,7 +4608,7 @@ diga_terms:1929287070 a skos:Concept;
 diga_terms:1929590923 a skos:Concept;
   dc:identifier "1929590923";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:3217111580;
+  skos-thes:broaderPartitive diga_terms:1067107259;
   skos:editorialNote "Figure label in repertorio: b1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1854950828, diga_terms:3296308693 .
@@ -4768,12 +4792,22 @@ diga_terms:1961069242 a skos:Concept;
 diga_terms:1962664187 a skos:Concept;
   dc:identifier "1962664187";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1114218658, diga_terms:1471549509, diga_terms:1607200660,
-    diga_terms:1674753413, diga_terms:2212650629, diga_terms:3766214644, diga_terms:4969261,
-    diga_terms:560163955;
+  skos-thes:broaderPartitive diga_terms:1114218658, diga_terms:4969261;
   skos:editorialNote "Figure label in repertorio: b1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1680701453, diga_terms:465698970 .
+
+diga_terms:xl_en_351eb1e3 dct:source source:repertorio .
+
+diga_terms:xl_en_722c4dbd dct:source source:repertorio .
+
+diga_terms:xl_en_aab1386e dct:source source:repertorio .
+
+diga_terms:xl_en_3075f0ea dct:source source:repertorio .
+
+diga_terms:xl_en_ca22e524 dct:source source:repertorio .
+
+diga_terms:xl_it_cf7bdb3f dct:source source:repertorio .
 
 diga_terms:1964555203 a skos:Concept;
   dc:identifier "1964555203";
@@ -5478,8 +5512,7 @@ diga_terms:2091032569 a skos:Concept;
 diga_terms:2094696302 a skos:Concept;
   dc:identifier "2094696302";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
+  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929;
   skos:editorialNote "Figure label in repertorio: c9"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2084177126, diga_terms:309545398 .
@@ -5661,18 +5694,26 @@ diga_terms:2128423993 a skos:Concept;
   skosxl:prefLabel diga_terms:2275408869, diga_terms:2848365565;
   foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-095_Graphic_1621405560551_295.png> .
 
-diga_terms:2132617079 a skos:Concept;
-  dc:identifier "2132617079";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1174518413;
-  skos:editorialNote "Figure label in repertorio: b"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2222639339, diga_terms:3085744631 .
+diga_terms:c_0840d643 dct:source source:repertorio .
+
+diga_terms:c_3140e040 dct:source source:repertorio .
+
+diga_terms:c_3cbfb085 dct:source source:repertorio .
+
+diga_terms:c_794f3277 dct:source source:repertorio .
+
+diga_terms:c_9b99c454 dct:source source:repertorio .
+
+diga_terms:c_85f8dd29 dct:source source:repertorio .
+
+diga_terms:c_fc7b3ba1 dct:source source:repertorio .
+
+diga_terms:xl_it_2eba0734 dct:source source:repertorio .
 
 diga_terms:2132644085 a skos:Concept;
   dc:identifier "2132644085";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: f"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1026138145, diga_terms:3093825414 .
@@ -5940,11 +5981,14 @@ diga_terms:2186788292 a skos:Concept;
 diga_terms:21911877 a skos:Concept;
   dc:identifier "21911877";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2077325386, diga_terms:2198716609, diga_terms:2679812627,
-    diga_terms:3080511734;
+  skos-thes:broaderPartitive diga_terms:3080511734;
   skos:editorialNote "Figure label in repertorio: e, e1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:444790552, diga_terms:938280737 .
+
+diga_terms:1866144762 skos-thes:broaderPartitive diga_terms:1878016304, diga_terms:2290519443,
+    diga_terms:2889773034;
+  skosxl:altLabel diga_terms:xl_it_bf957b08 .
 
 diga_terms:2193302713 a skos:Concept;
   dc:identifier "2193302713";
@@ -5957,11 +6001,14 @@ diga_terms:2193302713 a skos:Concept;
 diga_terms:2194059626 a skos:Concept;
   dc:identifier "2194059626";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2077325386, diga_terms:2198716609, diga_terms:2679812627,
-    diga_terms:3080511734;
+  skos-thes:broaderPartitive diga_terms:3080511734;
   skos:editorialNote "Figure label in repertorio: d1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2690096514, diga_terms:2827896249 .
+
+diga_terms:xl_it_bf957b08 a skosxl:Label .
+
+diga_terms:xl_en_a5b8346b skosxl:literalForm "pillar"@en .
 
 diga_terms:2198950730 a skos:Concept;
   dc:identifier "2198950730";
@@ -6344,13 +6391,21 @@ diga_terms:2283611413 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1811248357, diga_terms:857447026 .
 
-diga_terms:2283838105 a skos:Concept;
-  dc:identifier "2283838105";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1398818814;
-  skos:editorialNote "Figure label in repertorio: c"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:3057829905, diga_terms:3548690719 .
+diga_terms:xl_it_864890af dct:source source:repertorio .
+
+diga_terms:xl_en_18bd7010 dct:source source:repertorio .
+
+diga_terms:xl_it_cc0893f4 dct:source source:repertorio .
+
+diga_terms:xl_it_b5a79026 dct:source source:repertorio .
+
+diga_terms:xl_en_99578c37 dct:source source:repertorio .
+
+diga_terms:xl_it_c6f65eac dct:source source:repertorio .
+
+diga_terms:xl_it_6108a297 dct:source source:repertorio .
+
+diga_terms:xl_en_31d66e3f dct:source source:repertorio .
 
 diga_terms:2286937805 a skos:Concept;
   dc:identifier "2286937805";
@@ -6432,11 +6487,13 @@ diga_terms:2300768724 a skos:Concept;
 diga_terms:2305159262 a skos:Concept;
   dc:identifier "2305159262";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3375198833, diga_terms:3379380403,
-    diga_terms:3760931020, diga_terms:4185145018;
+  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3379380403, diga_terms:3760931020,
+    diga_terms:4185145018;
   skos:editorialNote "Figure label in repertorio: c3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1111806807, diga_terms:3153224152 .
+
+diga_terms:xl_en_337f3e45 dct:source source:repertorio .
 
 diga_terms:2305606032 a skos:Concept;
   dc:identifier "2305606032";
@@ -6561,12 +6618,13 @@ diga_terms:2329368347 a skos:Concept;
 diga_terms:2331538105 a skos:Concept;
   dc:identifier "2331538105";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1114218658, diga_terms:1471549509, diga_terms:1607200660,
-    diga_terms:1674753413, diga_terms:2212650629, diga_terms:3766214644, diga_terms:4969261,
-    diga_terms:560163955;
+  skos-thes:broaderPartitive diga_terms:1674753413, diga_terms:4969261;
   skos:editorialNote "Figure label in repertorio: b4"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3097584990, diga_terms:32008980 .
+
+diga_terms:1962664187 skos-thes:broaderPartitive diga_terms:1471549509, diga_terms:1607200660,
+    diga_terms:1674753413, diga_terms:2212650629, diga_terms:3766214644, diga_terms:560163955 .
 
 diga_terms:2332440262 a skos:Concept;
   dc:identifier "2332440262";
@@ -6639,7 +6697,7 @@ diga_terms:234925975 a skos:Concept;
 diga_terms:2351674463 a skos:Concept;
   dc:identifier "2351674463";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c11"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3021229840, diga_terms:437800783 .
@@ -6760,13 +6818,21 @@ diga_terms:2370872098 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1193654913, diga_terms:1240020115 .
 
-diga_terms:2373316690 a skos:Concept;
-  dc:identifier "2373316690";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:30527277;
-  skos:editorialNote "Figure label in repertorio: b"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:3068996236, diga_terms:3817169769 .
+diga_terms:xl_en_c58ff198 dct:source source:repertorio .
+
+diga_terms:xl_en_6bac9ab1 dct:source source:repertorio .
+
+diga_terms:xl_en_846fbb45 dct:source source:repertorio .
+
+diga_terms:xl_it_681a8de2 dct:source source:repertorio .
+
+diga_terms:xl_en_fe45dbd6 dct:source source:repertorio .
+
+diga_terms:xl_it_fc0e5c50 dct:source source:repertorio .
+
+diga_terms:xl_en_d4c5d42a dct:source source:repertorio .
+
+diga_terms:xl_it_81fa403e dct:source source:repertorio .
 
 diga_terms:2378140427 a skos:Concept;
   dc:identifier "2378140427";
@@ -7114,11 +7180,13 @@ diga_terms:24422888 a skos:Concept;
 diga_terms:2443830430 a skos:Concept;
   dc:identifier "2443830430";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3375198833, diga_terms:3379380403,
-    diga_terms:3760931020, diga_terms:4185145018;
+  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3379380403, diga_terms:3760931020,
+    diga_terms:4185145018;
   skos:editorialNote "Figure label in repertorio: c2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1219338019, diga_terms:502779949 .
+
+diga_terms:xl_en_c172131a dct:source source:repertorio .
 
 diga_terms:2445568440 a skos:Concept;
   dc:identifier "2445568440";
@@ -7253,13 +7321,21 @@ diga_terms:2460535253 a skos:Concept;
   skosxl:prefLabel diga_terms:1313194432, diga_terms:1733652524;
   foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-192_Graphic_1621263311062_2196.png> .
 
-diga_terms:2461949782 a skos:Concept;
-  dc:identifier "2461949782";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1174518413;
-  skos:editorialNote "Figure label in repertorio: a"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2707206853, diga_terms:3968283396 .
+diga_terms:xl_it_d69e1a30 dct:source source:repertorio .
+
+diga_terms:xl_it_a9c490fc dct:source source:repertorio .
+
+diga_terms:xl_en_6d19991a dct:source source:repertorio .
+
+diga_terms:xl_it_0e1180fa dct:source source:repertorio .
+
+diga_terms:xl_it_5b011729 dct:source source:repertorio .
+
+diga_terms:xl_it_ad294d3c dct:source source:repertorio .
+
+diga_terms:xl_it_055d62bd dct:source source:repertorio .
+
+diga_terms:xl_it_1a7f6669 dct:source source:repertorio .
 
 diga_terms:2465814807 a skos:Concept;
   dc:identifier "2465814807";
@@ -7592,7 +7668,7 @@ diga_terms:2533669971 a skos:Concept;
 diga_terms:2538290455 a skos:Concept;
   dc:identifier "2538290455";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c16"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1769297518, diga_terms:2576254799 .
@@ -7691,7 +7767,7 @@ diga_terms:2547733684 a skos:Concept;
 diga_terms:2549035124 a skos:Concept;
   dc:identifier "2549035124";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1398818814;
+  skos-thes:broaderPartitive diga_terms:646227285;
   skos:editorialNote "Figure label in repertorio: a"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1514580642, diga_terms:3617888246 .
@@ -7814,7 +7890,7 @@ diga_terms:2573070957 a skos:Concept;
 diga_terms:2574390928 a skos:Concept;
   dc:identifier "2574390928";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c4"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2805280620, diga_terms:428783743 .
@@ -7834,15 +7910,6 @@ diga_terms:257659494 a skos:Concept;
   skos:editorialNote "Figure label in repertorio: 4.2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2764145872, diga_terms:2937077128 .
-
-diga_terms:2580947534 a skos:Concept;
-  dc:identifier "2580947534";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
-  skos:editorialNote "Figure label in repertorio: c"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2960692060, diga_terms:3237979664 .
 
 diga_terms:2582874280 a skos:Concept;
   dc:identifier "2582874280";
@@ -8029,7 +8096,7 @@ diga_terms:2613496805 a skos:Concept;
 diga_terms:2615679343 a skos:Concept;
   dc:identifier "2615679343";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1522205105, diga_terms:705417402 .
@@ -8202,7 +8269,7 @@ diga_terms:2653994919 a skos:Concept;
 diga_terms:2659843975 a skos:Concept;
   dc:identifier "2659843975";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2966956410;
+  skos-thes:broaderGeneric diga_terms:2776284763;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3210771716, diga_terms:3737595632;
@@ -8254,11 +8321,14 @@ diga_terms:266974128 a skos:Concept;
 diga_terms:2670638794 a skos:Concept;
   dc:identifier "2670638794";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1571927151, diga_terms:170224749, diga_terms:1994966187,
-    diga_terms:2439333662, diga_terms:3992533263;
+  skos-thes:broaderPartitive diga_terms:1994966187, diga_terms:2439333662, diga_terms:3992533263;
   skos:editorialNote "Figure label in repertorio: a4"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2076874470, diga_terms:2875313977 .
+
+diga_terms:c_90b07019 dct:source source:repertorio .
+
+diga_terms:c_41a4be3f dct:source source:repertorio .
 
 diga_terms:2672148213 a skos:Concept;
   dc:identifier "2672148213";
@@ -8477,7 +8547,7 @@ diga_terms:2720628800 a skos:Concept;
 diga_terms:2721659521 a skos:Concept;
   dc:identifier "2721659521";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3309147013, diga_terms:3932907633 .
@@ -8664,13 +8734,18 @@ diga_terms:2751001300 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2837985710, diga_terms:699949347 .
 
-diga_terms:2752513743 a skos:Concept;
-  dc:identifier "2752513743";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
-  skos:editorialNote "Figure label in repertorio: c"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2067191234, diga_terms:390393719 .
+diga_terms:c_b702b7bc skos-thes:broaderGeneric diga_terms:1851166334;
+  skosxl:prefLabel diga_terms:xl_it_6295b09c .
+
+diga_terms:c_f47e2c00 skosxl:prefLabel diga_terms:xl_it_f73362f8 .
+
+diga_terms:xl_it_f73362f8 a skosxl:Label;
+  skosxl:literalForm "capitello figurato"@it .
+
+diga_terms:xl_it_6295b09c a skosxl:Label;
+  skosxl:literalForm "capitello non figurato"@it .
+
+diga_terms:3304155071 skos-thes:broaderPartitive diga_terms:c_f47e2c00 .
 
 diga_terms:2754598693 a skos:Concept;
   dc:identifier "2754598693";
@@ -8762,7 +8837,7 @@ diga_terms:2774012580 a skos:Concept;
 diga_terms:2776284763 a skos:Concept;
   dc:identifier "2776284763";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2412577815;
+  skos-thes:broaderGeneric diga_terms:2966956410;
   skos:editorialNote "Figure label in repertorio: 2.6.5.1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1667512244, diga_terms:1698020232 .
@@ -8884,11 +8959,14 @@ diga_terms:2802353942 a skos:Concept;
 diga_terms:2803977064 a skos:Concept;
   dc:identifier "2803977064";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2077325386, diga_terms:2198716609, diga_terms:2679812627,
-    diga_terms:3080511734;
+  skos-thes:broaderPartitive diga_terms:3080511734;
   skos:editorialNote "Figure label in repertorio: c"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1954405829, diga_terms:3708367417 .
+
+diga_terms:3215586604 skos-thes:broaderPartitive diga_terms:3742487414 .
+
+diga_terms:1866144762 skos-thes:broaderPartitive diga_terms:2038610064, diga_terms:647329180 .
 
 diga_terms:2806161289 a skos:Concept;
   dc:identifier "2806161289";
@@ -9056,7 +9134,7 @@ diga_terms:28376491 a skos:Concept;
 diga_terms:283987457 a skos:Concept;
   dc:identifier "283987457";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c5"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1996603652, diga_terms:84202772 .
@@ -9080,11 +9158,14 @@ diga_terms:2840533260 a skos:Concept;
 diga_terms:2842211830 a skos:Concept;
   dc:identifier "2842211830";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2077325386, diga_terms:2198716609, diga_terms:2679812627,
-    diga_terms:3080511734;
+  skos-thes:broaderPartitive diga_terms:3080511734;
   skos:editorialNote "Figure label in repertorio: d"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2477111092, diga_terms:3057141998 .
+
+diga_terms:3215586604 skos-thes:broaderPartitive diga_terms:1878016304, diga_terms:2290519443 .
+
+diga_terms:xl_it_bf957b08 skosxl:literalForm "pilastro"@it .
 
 diga_terms:2842314444 a skos:Concept;
   dc:identifier "2842314444";
@@ -9098,7 +9179,7 @@ diga_terms:2842314444 a skos:Concept;
 diga_terms:2843076796 a skos:Concept;
   dc:identifier "2843076796";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2966956410;
+  skos-thes:broaderGeneric diga_terms:2776284763;
   skos:editorialNote "Figure label in repertorio: 3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2327844044, diga_terms:300964224;
@@ -9216,7 +9297,7 @@ diga_terms:2865354235 a skos:Concept;
 diga_terms:2869695187 a skos:Concept;
   dc:identifier "2869695187";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c21"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2145161059, diga_terms:2601645015 .
@@ -9405,15 +9486,16 @@ diga_terms:2902447931 a skos:Concept;
 diga_terms:2903565633 a skos:Concept;
   dc:identifier "2903565633";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1114218658, diga_terms:1471549509, diga_terms:1607200660,
-    diga_terms:1674753413, diga_terms:2212650629, diga_terms:3766214644, diga_terms:4969261,
-    diga_terms:560163955;
+  skos-thes:broaderPartitive diga_terms:1607200660, diga_terms:4969261;
   skos:editorialNote "Figure label in repertorio: b5"@en;
   skos:inScheme <https://w3id.org/diga/terms> .
 
-diga_terms:xl_en_d330617f skosxl:literalForm "bulbous drum, decorated (type), separate"@en .
+diga_terms:852827312 skos-thes:broaderPartitive diga_terms:1471549509, diga_terms:1607200660,
+    diga_terms:1674753413, diga_terms:2212650629, diga_terms:3766214644, diga_terms:560163955 .
 
-diga_terms:xl_it_77dad3ab skosxl:literalForm "rocchio a bulbo, decorato (tipo), separato"@it .
+diga_terms:xl_en_d330617f skosxl:literalForm "bulbous drum, decorated, separate"@en .
+
+diga_terms:xl_it_77dad3ab skosxl:literalForm "rocchio a bulbo, decorato, separato"@it .
 
 diga_terms:2904562198 a skos:Concept;
   dc:identifier "2904562198";
@@ -9537,11 +9619,13 @@ diga_terms:2930026290 a skos:Concept;
 diga_terms:2930491951 a skos:Concept;
   dc:identifier "2930491951";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3375198833, diga_terms:3379380403,
-    diga_terms:3760931020, diga_terms:4185145018;
+  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3379380403, diga_terms:3760931020,
+    diga_terms:4185145018;
   skos:editorialNote "Figure label in repertorio: a"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3973729929, diga_terms:62365070 .
+
+diga_terms:xl_en_b3ad9243 dct:source source:repertorio .
 
 diga_terms:2930584809 a skos:Concept;
   dc:identifier "2930584809";
@@ -9588,11 +9672,14 @@ diga_terms:2933151472 a skos:Concept;
 diga_terms:2933152133 a skos:Concept;
   dc:identifier "2933152133";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1571927151, diga_terms:170224749, diga_terms:1994966187,
-    diga_terms:2439333662, diga_terms:3992533263;
+  skos-thes:broaderPartitive diga_terms:1994966187, diga_terms:2439333662, diga_terms:3992533263;
   skos:editorialNote "Figure label in repertorio: a5"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2694554956, diga_terms:422528787 .
+
+diga_terms:c_0d640c10 dct:source source:repertorio .
+
+diga_terms:c_ef524e8b dct:source source:repertorio .
 
 diga_terms:2935264786 a skos:Concept;
   dc:identifier "2935264786";
@@ -9631,7 +9718,7 @@ diga_terms:293916981 a skos:Concept;
 diga_terms:2945298700 a skos:Concept;
   dc:identifier "2945298700";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c13"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1377377178, diga_terms:215836715 .
@@ -9810,7 +9897,7 @@ diga_terms:2972467361 a skos:Concept;
 diga_terms:2973375334 a skos:Concept;
   dc:identifier "2973375334";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: e"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3518415341, diga_terms:998150768 .
@@ -9882,12 +9969,23 @@ diga_terms:2994836117 a skos:Concept;
 diga_terms:2997530399 a skos:Concept;
   dc:identifier "2997530399";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1021598324, diga_terms:1654725584, diga_terms:1873348725,
-    diga_terms:2096464760, diga_terms:2513841656, diga_terms:3562176971, diga_terms:3635680875,
-    diga_terms:3976382086, diga_terms:4061836949, diga_terms:665452079;
+  skos-thes:broaderPartitive diga_terms:2096464760, diga_terms:2513841656, diga_terms:3635680875,
+    diga_terms:665452079;
   skos:editorialNote "Figure label in repertorio: b4"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2542557193, diga_terms:84070771 .
+
+diga_terms:xl_it_62550a9c dct:source source:repertorio .
+
+diga_terms:xl_en_d330617f dct:source source:repertorio .
+
+diga_terms:xl_it_0b744781 dct:source source:repertorio .
+
+diga_terms:xl_en_79d715d2 dct:source source:repertorio .
+
+diga_terms:xl_it_4a590d41 dct:source source:repertorio .
+
+diga_terms:xl_it_82283426 dct:source source:repertorio .
 
 diga_terms:2998654090 a skos:Concept;
   dc:identifier "2998654090";
@@ -10070,10 +10168,14 @@ diga_terms:3031667654 a skos:Concept;
 diga_terms:3032515171 a skos:Concept;
   dc:identifier "3032515171";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: i"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2504307911, diga_terms:4214335905 .
+
+diga_terms:xl_en_7bbf3b43 a skosxl:Label .
+
+diga_terms:3514443732 skosxl:altLabel diga_terms:xl_en_7bbf3b43 .
 
 diga_terms:3034859423 a skos:Concept;
   dc:identifier "3034859423";
@@ -10102,7 +10204,7 @@ diga_terms:3036930777 a skos:Concept;
 diga_terms:303771736 a skos:Concept;
   dc:identifier "303771736";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:3217111580;
+  skos-thes:broaderPartitive diga_terms:1067107259;
   skos:editorialNote "Figure label in repertorio: b3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1026181010, diga_terms:1217693355 .
@@ -10220,12 +10322,23 @@ diga_terms:2320100902 skosxl:altLabel diga_terms:xl_it_5b011729 .
 diga_terms:3061770193 a skos:Concept;
   dc:identifier "3061770193";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1021598324, diga_terms:1654725584, diga_terms:1873348725,
-    diga_terms:2096464760, diga_terms:2513841656, diga_terms:3562176971, diga_terms:3635680875,
-    diga_terms:3976382086, diga_terms:4061836949, diga_terms:665452079;
+  skos-thes:broaderPartitive diga_terms:2096464760, diga_terms:2513841656, diga_terms:3635680875,
+    diga_terms:665452079;
   skos:editorialNote "Figure label in repertorio: b2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1657528624, diga_terms:3765838065 .
+
+diga_terms:xl_it_0bfd9558 dct:source source:repertorio .
+
+diga_terms:xl_en_fa6ac27d dct:source source:repertorio .
+
+diga_terms:xl_en_151d0e4d dct:source source:repertorio .
+
+diga_terms:xl_it_3302c3a2 dct:source source:repertorio .
+
+diga_terms:xl_it_4dcce0af dct:source source:repertorio .
+
+diga_terms:xl_en_3e6e067e dct:source source:repertorio .
 
 diga_terms:3062948492 a skos:Concept;
   dc:identifier "3062948492";
@@ -10238,7 +10351,7 @@ diga_terms:3062948492 a skos:Concept;
 diga_terms:3063368649 a skos:Concept;
   dc:identifier "3063368649";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:c_f47e2c00;
   skos:editorialNote "Figure label in repertorio: c19"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2029780296, diga_terms:3023104060 .
@@ -10286,13 +10399,21 @@ diga_terms:3073551047 a skos:Concept;
   skosxl:altLabel diga_terms:2770983720;
   skosxl:prefLabel diga_terms:2238789873, diga_terms:2613009368 .
 
-diga_terms:307405239 a skos:Concept;
-  dc:identifier "307405239";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1398818814;
-  skos:editorialNote "Figure label in repertorio: b"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2104490393, diga_terms:3394773571 .
+diga_terms:xl_it_122acea9 dct:source source:repertorio .
+
+diga_terms:xl_en_196fb6e2 dct:source source:repertorio .
+
+diga_terms:xl_it_8ac4d001 dct:source source:repertorio .
+
+diga_terms:xl_en_c62af28e dct:source source:repertorio .
+
+diga_terms:xl_it_74308e29 dct:source source:repertorio .
+
+diga_terms:xl_en_cdcb8444 dct:source source:repertorio .
+
+diga_terms:xl_it_d9d91e4a dct:source source:repertorio .
+
+diga_terms:xl_en_de80bf3c dct:source source:repertorio .
 
 diga_terms:3076829280 a skos:Concept;
   dc:identifier "3076829280";
@@ -10331,8 +10452,7 @@ diga_terms:3078699757 a skos:Concept;
 diga_terms:3078945091 a skos:Concept;
   dc:identifier "3078945091";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
+  skos-thes:broaderPartitive diga_terms:358097268;
   skos:editorialNote "Figure label in repertorio: d1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1101120072, diga_terms:1345436440 .
@@ -10429,7 +10549,7 @@ diga_terms:3092069322 a skos:Concept;
 diga_terms:3093164858 a skos:Concept;
   dc:identifier "3093164858";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: b"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2602824041, diga_terms:3247327531 .
@@ -10607,7 +10727,7 @@ diga_terms:3133756079 a skos:Concept;
 diga_terms:3134744863 a skos:Concept;
   dc:identifier "3134744863";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1791345897;
+  skos-thes:broaderGeneric diga_terms:2425818388;
   skos:editorialNote "Figure label in repertorio: 1.2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1687798098, diga_terms:2755910426 .
@@ -10656,7 +10776,7 @@ diga_terms:3144220710 a skos:Concept;
 diga_terms:3144613333 a skos:Concept;
   dc:identifier "3144613333";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c10"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2119946127, diga_terms:3106957131 .
@@ -10722,11 +10842,16 @@ diga_terms:1817294312 skos:example "straight cramp"@en .
 diga_terms:315362540 a skos:Concept;
   dc:identifier "315362540";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2077325386, diga_terms:2198716609, diga_terms:2679812627,
-    diga_terms:3080511734;
+  skos-thes:broaderPartitive diga_terms:3080511734;
   skos:editorialNote "Figure label in repertorio: g"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2431552143, diga_terms:2981529094 .
+
+diga_terms:xl_en_a5b8346b a skosxl:Label .
+
+diga_terms:3215586604 skos-thes:broaderPartitive diga_terms:3524331071 .
+
+diga_terms:1866144762 skosxl:altLabel diga_terms:xl_en_a5b8346b .
 
 diga_terms:3162275223 a skos:Concept;
   dc:identifier "3162275223";
@@ -11249,7 +11374,7 @@ diga_terms:3260773409 a skos:Concept;
 diga_terms:3261655903 a skos:Concept;
   dc:identifier "3261655903";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: m"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1976256654, diga_terms:2295749502 .
@@ -11299,7 +11424,7 @@ diga_terms:3266629866 a skos:Concept;
 diga_terms:3267079175 a skos:Concept;
   dc:identifier "3267079175";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:3217111580;
+  skos-thes:broaderPartitive diga_terms:1319266649;
   skos:editorialNote "Figure label in repertorio: a1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2830788800, diga_terms:404303095 .
@@ -11495,7 +11620,7 @@ diga_terms:3299690574 a skos:Concept;
 diga_terms:3304155071 a skos:Concept;
   dc:identifier "3304155071";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:138797522, diga_terms:2724445537 .
@@ -11843,7 +11968,7 @@ diga_terms:3385536650 a skos:Concept;
 diga_terms:3396357983 a skos:Concept;
   dc:identifier "3396357983";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: n"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1240174346, diga_terms:3691745754 .
@@ -11851,8 +11976,7 @@ diga_terms:3396357983 a skos:Concept;
 diga_terms:3397648348 a skos:Concept;
   dc:identifier "3397648348";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
+  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929;
   skos:editorialNote "Figure label in repertorio: c10"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:altLabel diga_terms:1304359723, diga_terms:1636443412;
@@ -12272,7 +12396,7 @@ diga_terms:349289938 a skos:Concept;
 diga_terms:3497129903 a skos:Concept;
   dc:identifier "3497129903";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: a1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3526812370, diga_terms:3993431026 .
@@ -12310,12 +12434,23 @@ diga_terms:3504984198 a skos:Concept;
 diga_terms:3505115656 a skos:Concept;
   dc:identifier "3505115656";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1021598324, diga_terms:1654725584, diga_terms:1873348725,
-    diga_terms:2096464760, diga_terms:2513841656, diga_terms:3562176971, diga_terms:3635680875,
-    diga_terms:3976382086, diga_terms:4061836949, diga_terms:665452079;
+  skos-thes:broaderPartitive diga_terms:2096464760, diga_terms:2513841656, diga_terms:3635680875,
+    diga_terms:665452079;
   skos:editorialNote "Figure label in repertorio: b2, b3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2008224798, diga_terms:2632430228 .
+
+diga_terms:xl_it_77dad3ab dct:source source:repertorio .
+
+diga_terms:xl_it_fef978f5 dct:source source:repertorio .
+
+diga_terms:xl_en_94b992eb dct:source source:repertorio .
+
+diga_terms:xl_en_d356a31b dct:source source:repertorio .
+
+diga_terms:xl_it_65f6e5c3 dct:source source:repertorio .
+
+diga_terms:xl_it_a9de12cb dct:source source:repertorio .
 
 diga_terms:350659585 a skos:Concept;
   dc:identifier "350659585";
@@ -12388,7 +12523,7 @@ diga_terms:3514076596 a skos:Concept;
 diga_terms:3514443732 a skos:Concept;
   dc:identifier "3514443732";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: a2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1930601123, diga_terms:400912092 .
@@ -12557,10 +12692,13 @@ diga_terms:3552166214 a skos:Concept;
 diga_terms:3554180017 a skos:Concept;
   dc:identifier "3554180017";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: l"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2775887875, diga_terms:3741104012 .
+
+diga_terms:xl_it_91e5aae1 a skosxl:Label;
+  skosxl:literalForm "modanature"@it .
 
 diga_terms:3555697852 a skos:Concept;
   dc:identifier "3555697852";
@@ -12675,11 +12813,14 @@ diga_terms:3568715690 a skos:Concept;
 diga_terms:3569376240 a skos:Concept;
   dc:identifier "3569376240";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2077325386, diga_terms:2198716609, diga_terms:2679812627,
-    diga_terms:3080511734;
+  skos-thes:broaderPartitive diga_terms:3080511734;
   skos:editorialNote "Figure label in repertorio: h"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1348650374, diga_terms:1494085714 .
+
+diga_terms:1866144762 skos-thes:broaderPartitive diga_terms:3524331071, diga_terms:3742487414 .
+
+diga_terms:3060322372 skos-thes:broaderPartitive diga_terms:647329180 .
 
 diga_terms:3570878108 a skos:Concept;
   dc:identifier "3570878108";
@@ -12700,7 +12841,7 @@ diga_terms:3579453032 a skos:Concept;
 diga_terms:358097268 a skos:Concept;
   dc:identifier "358097268";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1174518413;
+  skos-thes:broaderPartitive diga_terms:1645388688;
   skos:editorialNote "Figure label in repertorio: d"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3843037559, diga_terms:3905760620 .
@@ -13094,11 +13235,16 @@ diga_terms:3667331091 a skos:Concept;
 diga_terms:3667796493 a skos:Concept;
   dc:identifier "3667796493";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2931383568, diga_terms:3375198833, diga_terms:3379380403,
-    diga_terms:3760931020, diga_terms:4185145018;
+  skos-thes:broaderPartitive diga_terms:3375198833, diga_terms:3760931020;
   skos:editorialNote "Figure label in repertorio: a1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1268489541, diga_terms:2431802491 .
+
+diga_terms:xl_en_0a1725fb dct:source source:repertorio .
+
+diga_terms:xl_it_3997c87d dct:source source:repertorio .
+
+diga_terms:xl_en_77a60309 dct:source source:repertorio .
 
 diga_terms:3668292192 a skos:Concept;
   dc:identifier "3668292192";
@@ -13401,7 +13547,7 @@ diga_terms:3724423620 a skos:Concept;
 diga_terms:3725792072 a skos:Concept;
   dc:identifier "3725792072";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:3217111580;
+  skos-thes:broaderPartitive diga_terms:1319266649;
   skos:editorialNote "Figure label in repertorio: a3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2554938036, diga_terms:3062605420 .
@@ -13452,7 +13598,7 @@ diga_terms:3730993343 a skos:Concept;
 diga_terms:3732343403 a skos:Concept;
   dc:identifier "3732343403";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c12"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3328672700, diga_terms:3620346318 .
@@ -13511,7 +13657,7 @@ diga_terms:3738842394 a skos:Concept;
 diga_terms:3740392507 a skos:Concept;
   dc:identifier "3740392507";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: g"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2669503077, diga_terms:4087503113 .
@@ -13528,12 +13674,16 @@ diga_terms:3740833293 a skos:Concept;
 diga_terms:3741334715 a skos:Concept;
   dc:identifier "3741334715";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2077325386, diga_terms:2198716609, diga_terms:2679812627,
-    diga_terms:3080511734;
+  skos-thes:broaderPartitive diga_terms:3080511734;
   skos:editorialNote "Figure label in repertorio: f"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:altLabel diga_terms:2084755203, diga_terms:3400635777;
   skosxl:prefLabel diga_terms:1616658908, diga_terms:3086597170 .
+
+diga_terms:xl_it_be732681 a skosxl:Label;
+  skosxl:literalForm "elemento laterale di scala"@it .
+
+diga_terms:4195473341 skosxl:altLabel diga_terms:xl_it_be732681 .
 
 diga_terms:3741905724 a skos:Concept;
   dc:identifier "3741905724";
@@ -13596,8 +13746,7 @@ diga_terms:3754820795 a skos:Concept;
 diga_terms:3756063540 a skos:Concept;
   dc:identifier "3756063540";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
+  skos-thes:broaderPartitive diga_terms:2097261459, diga_terms:3026927929;
   skos:editorialNote "Figure label in repertorio: c8"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2209100675, diga_terms:3339930570 .
@@ -13671,11 +13820,13 @@ diga_terms:3762323678 a skos:Concept;
 diga_terms:3763763230 a skos:Concept;
   dc:identifier "3763763230";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1571927151, diga_terms:170224749, diga_terms:1994966187,
-    diga_terms:2439333662, diga_terms:3992533263;
+  skos-thes:broaderPartitive diga_terms:1571927151, diga_terms:1994966187, diga_terms:2439333662,
+    diga_terms:3992533263;
   skos:editorialNote "Figure label in repertorio: a1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2294767364, diga_terms:3068868339 .
+
+diga_terms:c_81f28c3c dct:source source:repertorio .
 
 diga_terms:3768116399 a skos:Concept;
   dc:identifier "3768116399";
@@ -13723,11 +13874,15 @@ diga_terms:3774925538 a skos:Concept;
 diga_terms:3774968305 a skos:Concept;
   dc:identifier "3774968305";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2077325386, diga_terms:2198716609, diga_terms:2679812627,
-    diga_terms:3080511734;
+  skos-thes:broaderPartitive diga_terms:3080511734;
   skos:editorialNote "Figure label in repertorio: a"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2643132784, diga_terms:783807851 .
+
+diga_terms:xl_it_30b37e59 a skosxl:Label;
+  skosxl:literalForm "ringhiera"@it .
+
+diga_terms:4195473341 skosxl:altLabel diga_terms:xl_it_30b37e59 .
 
 diga_terms:3776685137 a skos:Concept;
   dc:identifier "3776685137";
@@ -13757,7 +13912,7 @@ diga_terms:3777517508 a skos:Concept;
 diga_terms:378185203 a skos:Concept;
   dc:identifier "378185203";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c7"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1743789713, diga_terms:3803334390 .
@@ -13840,7 +13995,7 @@ diga_terms:3797681210 a skos:Concept;
 diga_terms:3797922260 a skos:Concept;
   dc:identifier "3797922260";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c6"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1501151328, diga_terms:925937581 .
@@ -14027,8 +14182,7 @@ diga_terms:3831925472 a skos:Concept;
 diga_terms:3832497836 a skos:Concept;
   dc:identifier "3832497836";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
+  skos-thes:broaderPartitive diga_terms:2097261459, diga_terms:3026927929;
   skos:editorialNote "Figure label in repertorio: c6"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:249538754, diga_terms:3767973139 .
@@ -14213,7 +14367,7 @@ diga_terms:3884758547 a skos:Concept;
 diga_terms:3890679134 a skos:Concept;
   dc:identifier "3890679134";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:3217111580;
+  skos-thes:broaderPartitive diga_terms:1319266649;
   skos:editorialNote "Figure label in repertorio: a2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1861275012, diga_terms:725107369 .
@@ -14543,7 +14697,7 @@ diga_terms:3963211441 a skos:Concept;
 diga_terms:3963573713 a skos:Concept;
   dc:identifier "3963573713";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c20"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1391559248, diga_terms:953082467 .
@@ -14559,8 +14713,7 @@ diga_terms:3964158431 a skos:Concept;
 diga_terms:3971094654 a skos:Concept;
   dc:identifier "3971094654";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1228094629, diga_terms:2097261459, diga_terms:3026927929,
-    diga_terms:4204701864;
+  skos-thes:broaderPartitive diga_terms:2097261459, diga_terms:3026927929;
   skos:editorialNote "Figure label in repertorio: c7"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2624025784, diga_terms:281281367 .
@@ -14904,7 +15057,7 @@ diga_terms:4071732258 a skos:Concept;
 diga_terms:4072865396 a skos:Concept;
   dc:identifier "4072865396";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c18"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3861209607, diga_terms:4070720801 .
@@ -15162,10 +15315,14 @@ diga_terms:4129016331 a skos:Concept;
 diga_terms:4129329839 a skos:Concept;
   dc:identifier "4129329839";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: c"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1831045138, diga_terms:2143763372 .
+
+diga_terms:3514443732 skosxl:altLabel diga_terms:xl_it_91e5aae1 .
+
+diga_terms:xl_en_7bbf3b43 skosxl:literalForm "mouldings"@en .
 
 diga_terms:4133618765 a skos:Concept;
   dc:identifier "4133618765";
@@ -15775,12 +15932,21 @@ diga_terms:4237196047 a skos:Concept;
 diga_terms:4237586661 a skos:Concept;
   dc:identifier "4237586661";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1021598324, diga_terms:1654725584, diga_terms:1873348725,
-    diga_terms:2096464760, diga_terms:2513841656, diga_terms:3562176971, diga_terms:3635680875,
-    diga_terms:3976382086, diga_terms:4061836949, diga_terms:665452079;
+  skos-thes:broaderPartitive diga_terms:1873348725, diga_terms:2096464760, diga_terms:2513841656,
+    diga_terms:3635680875, diga_terms:665452079;
   skos:editorialNote "Figure label in repertorio: b1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2719252065, diga_terms:471490369 .
+
+diga_terms:xl_en_cc25e378 dct:source source:repertorio .
+
+diga_terms:xl_en_151531e5 dct:source source:repertorio .
+
+diga_terms:xl_it_c945fd2e dct:source source:repertorio .
+
+diga_terms:xl_en_93781ec0 dct:source source:repertorio .
+
+diga_terms:xl_it_e7df51de dct:source source:repertorio .
 
 diga_terms:4238554410 a skos:Concept;
   dc:identifier "4238554410";
@@ -15936,11 +16102,14 @@ diga_terms:4256946392 a skos:Concept;
 diga_terms:4257203650 a skos:Concept;
   dc:identifier "4257203650";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1571927151, diga_terms:170224749, diga_terms:1994966187,
-    diga_terms:2439333662, diga_terms:3992533263;
+  skos-thes:broaderPartitive diga_terms:1994966187, diga_terms:2439333662, diga_terms:3992533263;
   skos:editorialNote "Figure label in repertorio: a2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:119949956, diga_terms:3984152959 .
+
+diga_terms:c_4ba24f3c dct:source source:repertorio .
+
+diga_terms:c_6c3d7bae dct:source source:repertorio .
 
 diga_terms:4258254188 a skos:Concept;
   dc:identifier "4258254188";
@@ -16251,7 +16420,7 @@ diga_terms:475696486 a skos:Concept;
 diga_terms:477040034 a skos:Concept;
   dc:identifier "477040034";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: b3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3042449009, diga_terms:4230821106 .
@@ -16460,13 +16629,15 @@ diga_terms:526171269 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1028167555, diga_terms:3815653999 .
 
-diga_terms:527032408 a skos:Concept;
-  dc:identifier "527032408";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
-  skos:editorialNote "Figure label in repertorio: b"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:1199188706, diga_terms:3311093436 .
+diga_terms:959097403 skos-thes:broaderPartitive diga_terms:c_f47e2c00 .
+
+diga_terms:2721659521 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
+
+diga_terms:3732343403 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
+
+diga_terms:1231092889 skos-thes:broaderPartitive diga_terms:c_f47e2c00 .
+
+diga_terms:2615679343 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
 
 diga_terms:527294150 a skos:Concept;
   dc:identifier "527294150";
@@ -16750,7 +16921,7 @@ diga_terms:596669033 a skos:Concept;
 diga_terms:59763928 a skos:Concept;
   dc:identifier "59763928";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1398818814;
+  skos-thes:broaderPartitive diga_terms:646227285;
   skos:editorialNote "Figure label in repertorio: d"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1631541047, diga_terms:3918885240 .
@@ -16998,7 +17169,7 @@ diga_terms:651384072 a skos:Concept;
 diga_terms:654379883 a skos:Concept;
   dc:identifier "654379883";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c8"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2749338056, diga_terms:719914523 .
@@ -17022,7 +17193,7 @@ diga_terms:660920628 a skos:Concept;
 diga_terms:665179204 a skos:Concept;
   dc:identifier "665179204";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:3217111580;
+  skos-thes:broaderPartitive diga_terms:1067107259;
   skos:editorialNote "Figure label in repertorio: b2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2693592941, diga_terms:2769922166 .
@@ -17137,7 +17308,7 @@ diga_terms:679427253 a skos:Concept;
 diga_terms:680470947 a skos:Concept;
   dc:identifier "680470947";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2966956410;
+  skos-thes:broaderGeneric diga_terms:2776284763;
   skos:editorialNote "Figure label in repertorio: 4"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:909247529, diga_terms:974769645;
@@ -17155,12 +17326,23 @@ diga_terms:681183763 a skos:Concept;
 diga_terms:684568552 a skos:Concept;
   dc:identifier "684568552";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1021598324, diga_terms:1654725584, diga_terms:1873348725,
-    diga_terms:2096464760, diga_terms:2513841656, diga_terms:3562176971, diga_terms:3635680875,
-    diga_terms:3976382086, diga_terms:4061836949, diga_terms:665452079;
+  skos-thes:broaderPartitive diga_terms:2096464760, diga_terms:2513841656, diga_terms:3635680875,
+    diga_terms:665452079;
   skos:editorialNote "Figure label in repertorio: b3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:325860167, diga_terms:3823862616 .
+
+diga_terms:xl_en_baa506a9 dct:source source:repertorio .
+
+diga_terms:xl_it_22d66862 dct:source source:repertorio .
+
+diga_terms:xl_en_95ccbf4c dct:source source:repertorio .
+
+diga_terms:xl_it_3a88f86b dct:source source:repertorio .
+
+diga_terms:xl_en_a319a71c dct:source source:repertorio .
+
+diga_terms:xl_en_f106281e dct:source source:repertorio .
 
 diga_terms:684974931 a skos:Concept;
   dc:identifier "684974931";
@@ -17351,11 +17533,14 @@ diga_terms:750148333 a skos:Concept;
 diga_terms:752082796 a skos:Concept;
   dc:identifier "752082796";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:2077325386, diga_terms:2198716609, diga_terms:2679812627,
-    diga_terms:3080511734;
+  skos-thes:broaderPartitive diga_terms:3080511734;
   skos:editorialNote "Figure label in repertorio: b"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
+  skosxl:altLabel diga_terms:xl_it_0f0e73d0;
   skosxl:prefLabel diga_terms:2897846753, diga_terms:820315695 .
+
+diga_terms:xl_it_0f0e73d0 a skosxl:Label;
+  skosxl:literalForm "coda"@it .
 
 diga_terms:752536912 a skos:Concept;
   dc:identifier "752536912";
@@ -17687,7 +17872,7 @@ diga_terms:815438250 a skos:Concept;
   skosxl:prefLabel diga_terms:2179598235;
   foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-077_Graphic_1621324487948_330.png> .
 
-diga_terms:xl_it_e09a191b skosxl:literalForm "arco acuto [con spessore uniforme]"@it .
+diga_terms:xl_it_e09a191b skosxl:literalForm "arco acuto con spessore uniforme"@it .
 
 diga_terms:815637397 a skos:Concept;
   dc:identifier "815637397";
@@ -17782,11 +17967,13 @@ diga_terms:829245033 a skos:Concept;
 diga_terms:833595488 a skos:Concept;
   dc:identifier "833595488";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1571927151, diga_terms:170224749, diga_terms:1994966187,
-    diga_terms:2439333662, diga_terms:3992533263;
+  skos-thes:broaderPartitive diga_terms:1571927151, diga_terms:1994966187, diga_terms:2439333662,
+    diga_terms:3992533263;
   skos:editorialNote "Figure label in repertorio: a3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:195170667, diga_terms:2871787098 .
+
+diga_terms:c_7c1d4a8d dct:source source:repertorio .
 
 diga_terms:837944409 a skos:Concept;
   dc:identifier "837944409";
@@ -17848,12 +18035,22 @@ diga_terms:852012132 a skos:Concept;
 diga_terms:852827312 a skos:Concept;
   dc:identifier "852827312";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:1114218658, diga_terms:1471549509, diga_terms:1607200660,
-    diga_terms:1674753413, diga_terms:2212650629, diga_terms:3766214644, diga_terms:4969261,
-    diga_terms:560163955;
+  skos-thes:broaderPartitive diga_terms:1114218658, diga_terms:4969261;
   skos:editorialNote "Figure label in repertorio: b2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2889444811, diga_terms:3587065542 .
+
+diga_terms:xl_en_42f35bab dct:source source:repertorio .
+
+diga_terms:xl_it_f292c28d dct:source source:repertorio .
+
+diga_terms:xl_en_7ab37317 dct:source source:repertorio .
+
+diga_terms:xl_en_fb192d98 dct:source source:repertorio .
+
+diga_terms:xl_it_e5b550ad dct:source source:repertorio .
+
+diga_terms:xl_it_e5c11d4c dct:source source:repertorio .
 
 diga_terms:853088858 a skos:Concept;
   dc:identifier "853088858";
@@ -17959,7 +18156,7 @@ diga_terms:878884163 a skos:Concept;
 diga_terms:881249623 a skos:Concept;
   dc:identifier "881249623";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:4182043940, diga_terms:801462641, diga_terms:825001058;
+  skos-thes:broaderPartitive diga_terms:4182043940;
   skos:editorialNote "Figure label in repertorio: h"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1129696913, diga_terms:2773592855 .
@@ -18235,13 +18432,21 @@ diga_terms:94707813 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2044178285, diga_terms:3882438590 .
 
-diga_terms:948654621 a skos:Concept;
-  dc:identifier "948654621";
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:30527277;
-  skos:editorialNote "Figure label in repertorio: a"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2800469905, diga_terms:486102022 .
+diga_terms:xl_en_8281c396 dct:source source:repertorio .
+
+diga_terms:xl_it_88e61523 dct:source source:repertorio .
+
+diga_terms:xl_en_27ced985 dct:source source:repertorio .
+
+diga_terms:xl_it_2af34ce1 dct:source source:repertorio .
+
+diga_terms:xl_it_78ef5858 dct:source source:repertorio .
+
+diga_terms:xl_it_798447bf dct:source source:repertorio .
+
+diga_terms:xl_en_bede1ca2 dct:source source:repertorio .
+
+diga_terms:xl_it_a50786f1 dct:source source:repertorio .
 
 diga_terms:948936427 a skos:Concept;
   dc:identifier "948936427";
@@ -18304,7 +18509,7 @@ diga_terms:957673763 a skos:Concept;
 diga_terms:959097403 a skos:Concept;
   dc:identifier "959097403";
   dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:509610441;
+  skos-thes:broaderPartitive diga_terms:1851166334;
   skos:editorialNote "Figure label in repertorio: c22"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1195731310, diga_terms:40093389 .
@@ -18717,7 +18922,7 @@ diga_terms:1026111483 a skosxl:Label;
 
 diga_terms:1026138145 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "middle part: inner/outer face"@en .
+  skosxl:literalForm "middle part"@en .
 
 diga_terms:1026181010 a skosxl:Label;
   dct:source source:repertorio;
@@ -19173,9 +19378,11 @@ diga_terms:1085685252 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "voluta del semiarco dx./sn."@it .
 
-diga_terms:1085867427 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "parasta con capitello a modanature orizzontali (tuscanico)"@it .
+diga_terms:xl_en_4fdd1ec5 dct:source source:repertorio .
+
+diga_terms:xl_en_e4b64651 dct:source source:repertorio .
+
+diga_terms:xl_en_ce53bc0a dct:source source:repertorio .
 
 diga_terms:1087261566 a skosxl:Label;
   dct:source source:repertorio;
@@ -19201,9 +19408,7 @@ diga_terms:1090384524 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "guardia"@it .
 
-diga_terms:1090494496 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "front face"@en .
+diga_terms:3215586604 skos-thes:broaderPartitive diga_terms:2038610064, diga_terms:2889773034 .
 
 diga_terms:109131852 a skosxl:Label;
   dct:source source:repertorio;
@@ -19496,7 +19701,7 @@ diga_terms:1122968979 a skosxl:Label;
 
 diga_terms:1123248844 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "campo decorato/figurato"@it .
+  skosxl:literalForm "campo decorato triangolare"@it .
 
 diga_terms:1124128147 a skosxl:Label;
   dct:source source:repertorio;
@@ -19754,7 +19959,7 @@ diga_terms:1163689789 a skosxl:Label;
 
 diga_terms:1163841079 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "column and pillar, semi-column and pilaster of the gandharan-corinthian type c: capitello | c: capital"@en .
+  skosxl:literalForm "gandharan-corinthian capital"@en .
 
 diga_terms:1165050568 a skosxl:Label;
   dct:source source:repertorio;
@@ -19986,9 +20191,9 @@ diga_terms:1198963804 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "voluta del semiarco dx./sn."@it .
 
-diga_terms:1199188706 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "fusto"@it .
+diga_terms:2869695187 skos-thes:broaderPartitive diga_terms:c_f47e2c00 .
+
+diga_terms:1457640642 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
 
 diga_terms:119949956 a skosxl:Label;
   dct:source source:repertorio;
@@ -20268,9 +20473,10 @@ diga_terms:1233061051 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "abbigliamento con tunica lunga e sciarpa portata sul capo"@it .
 
-diga_terms:1236096980 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "colonna e semicolonna di tipo misto, applicato"@it .
+diga_terms:c_8ca9afcd skosxl:prefLabel diga_terms:xl_it_525dfff0 .
+
+diga_terms:xl_it_525dfff0 a skosxl:Label;
+  skosxl:literalForm "acroterio centrale"@it .
 
 diga_terms:1236860983 a skosxl:Label;
   dct:source source:repertorio;
@@ -20453,13 +20659,21 @@ diga_terms:1263045885 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "sommoscapo"@it .
 
-diga_terms:1263354499 a skos:Concept;
-  dc:identifier "1263354499";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:646227285;
-  skos:editorialNote "Figure label in repertorio: 2.6.3.3.3"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2449322653, diga_terms:3586419781 .
+diga_terms:xl_it_0af132c4 dct:source source:repertorio .
+
+diga_terms:xl_it_e92f8ca1 dct:source source:repertorio .
+
+diga_terms:xl_it_93b4d5d2 dct:source source:repertorio .
+
+diga_terms:xl_it_1a2691c9 dct:source source:repertorio .
+
+diga_terms:xl_it_76d702ed dct:source source:repertorio .
+
+diga_terms:xl_it_b4277a3a dct:source source:repertorio .
+
+diga_terms:xl_it_1c9f3848 dct:source source:repertorio .
+
+diga_terms:xl_en_cf501d56 dct:source source:repertorio .
 
 diga_terms:12639235 a skosxl:Label;
   dct:source source:repertorio;
@@ -20870,9 +21084,10 @@ diga_terms:1338931876 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "drappo"@it .
 
-diga_terms:134076244 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semicolonna di tipo gandharico-persepolitano, applicato"@it .
+diga_terms:xl_en_f3886d1c skosxl:literalForm "figured capital"@en .
+
+diga_terms:c_f47e2c00 skos-thes:broaderGeneric diga_terms:1851166334;
+  skos:inScheme <https://w3id.org/diga/terms> .
 
 diga_terms:1341572647 a skosxl:Label;
   dct:source source:repertorio;
@@ -20928,7 +21143,7 @@ diga_terms:1348115719 a skosxl:Label;
 
 diga_terms:1348650374 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "lowe face"@en .
+  skosxl:literalForm "lower face"@en .
 
 diga_terms:1348892467 a skosxl:Label;
   dct:source source:repertorio;
@@ -21341,7 +21556,7 @@ diga_terms:141155488 a skosxl:Label;
 
 diga_terms:1411612574 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "arco a tutto sesto a imposta rialzata con [linea dell'] estradosso a carena"@it .
+  skosxl:literalForm "arco a tutto sesto a imposta rialzata con estradosso a carena"@it .
 
 diga_terms:1412698022 a skosxl:Label;
   dct:source source:repertorio;
@@ -21403,9 +21618,7 @@ diga_terms:1418193879 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "open flame palmette with flowered tuft"@en .
 
-diga_terms:1418576819 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "arco"@it .
+diga_terms:3839506814 skosxl:altLabel diga_terms:xl_en_ff268cbe .
 
 diga_terms:1419470430 a skosxl:Label;
   dct:source source:repertorio;
@@ -21725,7 +21938,7 @@ diga_terms:1466739498 a skosxl:Label;
 
 diga_terms:1466847078 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "acroterio (centrale/ angolare)"@it .
+  skosxl:literalForm "acroterio"@it .
 
 diga_terms:1467474289 a skosxl:Label;
   dct:source source:repertorio;
@@ -21769,7 +21982,7 @@ diga_terms:1472165113 a skosxl:Label;
 
 diga_terms:1472629991 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "arco a tutto sesto con [linea dell'] estradosso a carena con volute"@it .
+  skosxl:literalForm "arco a tutto sesto con estradosso a carena con volute"@it .
 
 diga_terms:1472779958 a skosxl:Label;
   dct:source source:repertorio;
@@ -21862,10 +22075,6 @@ diga_terms:1483493401 a skosxl:Label;
 diga_terms:1485666029 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "fontana, pozzo, capanna"@it .
-
-diga_terms:1486653127 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "faccia inf."@it .
 
 diga_terms:1487572278 a skosxl:Label;
   dct:source source:repertorio;
@@ -22002,7 +22211,7 @@ diga_terms:1504961310 a skosxl:Label;
 
 diga_terms:1505706965 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "colonna/pilastro"@it .
+  skosxl:literalForm "colonna"@it .
 
 diga_terms:1505718884 a skosxl:Label;
   dct:source source:repertorio;
@@ -22405,9 +22614,10 @@ diga_terms:1563746488 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "turban"@en .
 
-diga_terms:1563973987 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "colonna e pilastro di tipo gandharico-corinzio, isolato"@it .
+diga_terms:c_8ca9afcd skosxl:prefLabel diga_terms:xl_en_53abb805 .
+
+diga_terms:xl_en_53abb805 a skosxl:Label;
+  skosxl:literalForm "central acroterion"@en .
 
 diga_terms:156415615 a skosxl:Label;
   dct:source source:repertorio;
@@ -22936,9 +23146,11 @@ diga_terms:1646246655 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "cushion"@en .
 
-diga_terms:1646361781 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semi-column of the gandharan-persepolitan type, engaged c: capitello; d: mensolone | c: capital; d: modillion"@en .
+diga_terms:xl_en_43bbf89f dct:source source:repertorio .
+
+diga_terms:xl_en_20c591f9 dct:source source:repertorio .
+
+diga_terms:xl_en_5a4d0e73 dct:source source:repertorio .
 
 diga_terms:1647011879 a skosxl:Label;
   dct:source source:repertorio;
@@ -23622,11 +23834,7 @@ diga_terms:1745851301 a skosxl:Label;
 
 diga_terms:1746597741 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "voluted, raised round arch [with uniform thickness]"@en .
-
-diga_terms:1748996342 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "projecting arch of niche or false-niche"@en .
+  skosxl:literalForm "voluted, raised round arch with uniform thickness"@en .
 
 diga_terms:1749259412 a skosxl:Label;
   dct:source source:repertorio;
@@ -23780,13 +23988,21 @@ diga_terms:1769703536 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "semicolonna"@it .
 
-diga_terms:1770385472 a skos:Concept;
-  dc:identifier "1770385472";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1645388688;
-  skos:editorialNote "Figure label in repertorio: 2.6.3.5.2"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:687134939, diga_terms:90850972 .
+diga_terms:xl_en_56405a59 dct:source source:repertorio .
+
+diga_terms:xl_it_88e6f1f9 dct:source source:repertorio .
+
+diga_terms:xl_en_068eb3fd dct:source source:repertorio .
+
+diga_terms:xl_it_e5439b4d dct:source source:repertorio .
+
+diga_terms:xl_it_22f2880a dct:source source:repertorio .
+
+diga_terms:xl_en_ff46d166 dct:source source:repertorio .
+
+diga_terms:xl_it_d0821651 dct:source source:repertorio .
+
+diga_terms:xl_it_25de666d dct:source source:repertorio .
 
 diga_terms:1770871893 a skosxl:Label;
   dct:source source:repertorio;
@@ -24154,9 +24370,10 @@ diga_terms:1828819037 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "cinta muraria"@it .
 
-diga_terms:1829591915 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "arch"@en .
+diga_terms:xl_en_ff268cbe a skosxl:Label;
+  skosxl:literalForm "rectangular figured field"@en .
+
+diga_terms:3839506814 skosxl:altLabel diga_terms:xl_it_7cc89fca .
 
 diga_terms:1829656456 a skosxl:Label;
   dct:source source:repertorio;
@@ -24224,7 +24441,7 @@ diga_terms:1838055499 a skosxl:Label;
 
 diga_terms:1838382682 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "arco a tutto sesto [con spessore uniforme] con volute"@it .
+  skosxl:literalForm "arco a tutto sesto con spessore uniforme con volute"@it .
 
 diga_terms:183970010 a skosxl:Label;
   dct:source source:repertorio;
@@ -24280,10 +24497,6 @@ diga_terms:1844996668 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3245510274, diga_terms:4007830415 .
 
-diga_terms:1845556596 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "pediment"@en .
-
 diga_terms:1845773530 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "colonna e semicolonna di tipo misto, applicato"@it .
@@ -24320,13 +24533,16 @@ diga_terms:1850728876 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "rounded narrow edge"@en .
 
-diga_terms:185134080 a skos:Concept;
-  dc:identifier "185134080";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:c_cff8466e;
-  skos:editorialNote "Figure label in repertorio: 2.6.3.2"@en;
+diga_terms:c_8ca9afcd skos:broader diga_terms:3622536210;
+  skos:inScheme <https://w3id.org/diga/terms> .
+
+diga_terms:c_d503d4d8 a skos:Concept;
+  skos:broader diga_terms:3622536210;
   skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:1563973987, diga_terms:4273902504 .
+  skosxl:prefLabel diga_terms:xl_en_9f8c2bdc .
+
+diga_terms:xl_en_9f8c2bdc a skosxl:Label;
+  skosxl:literalForm "angular acroterion"@en .
 
 diga_terms:1851608297 a skosxl:Label;
   dct:source source:repertorio;
@@ -24832,7 +25048,7 @@ diga_terms:192948932 a skosxl:Label;
 
 diga_terms:1930601123 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "decoration, mouldings"@en .
+  skosxl:literalForm "decoration"@en .
 
 diga_terms:1930842730 a skosxl:Label;
   dct:source source:repertorio;
@@ -25001,7 +25217,7 @@ diga_terms:1953185600 a skosxl:Label;
 
 diga_terms:1954405829 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "incasso [verticale continuo] per intermensola"@it .
+  skosxl:literalForm "incasso verticale continuo per intermensola"@it .
 
 diga_terms:1954536071 a skosxl:Label;
   dct:source source:repertorio;
@@ -25011,9 +25227,11 @@ diga_terms:1955049338 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "seated"@en .
 
-diga_terms:195507018 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "capital"@en .
+diga_terms:xl_it_5c2b6e38 dct:source source:repertorio .
+
+diga_terms:xl_en_b6cffeed dct:source source:repertorio .
+
+diga_terms:xl_it_5a7c0190 dct:source source:repertorio .
 
 diga_terms:195534921 a skosxl:Label;
   dct:source source:repertorio;
@@ -25459,7 +25677,7 @@ diga_terms:2016250122 a skosxl:Label;
 
 diga_terms:2016320728 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "colonna e pilastro, semicolonna e parasta di tipo gandharico-corinzio"@it .
+  skosxl:literalForm "capitello gandharico-corinzio"@it .
 
 diga_terms:2016556553 a skosxl:Label;
   dct:source source:repertorio;
@@ -25688,7 +25906,7 @@ diga_terms:2045906477 a skosxl:Label;
 
 diga_terms:204740137 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "voluted round arch [with uniform thickness]"@en .
+  skosxl:literalForm "voluted round arch with uniform thickness"@en .
 
 diga_terms:2047693477 a skosxl:Label;
   dct:source source:repertorio;
@@ -25802,9 +26020,9 @@ diga_terms:2066529994 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "face"@en .
 
-diga_terms:2067191234 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "capital"@en .
+diga_terms:3304155071 skos-thes:broaderPartitive diga_terms:c_b702b7bc .
+
+diga_terms:283987457 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
 
 diga_terms:2067267608 a skosxl:Label;
   dct:source source:repertorio;
@@ -26014,9 +26232,11 @@ diga_terms:2103846931 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "funerary monument"@en .
 
-diga_terms:2104490393 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "fusto"@it .
+diga_terms:xl_en_b6286167 dct:source source:repertorio .
+
+diga_terms:xl_it_0c7213a9 dct:source source:repertorio .
+
+diga_terms:xl_it_f7fc0143 dct:source source:repertorio .
 
 diga_terms:2104492273 a skosxl:Label;
   dct:source source:repertorio;
@@ -26528,13 +26748,16 @@ diga_terms:2177398566 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "wall of podium"@en .
 
-diga_terms:2177469534 a skos:Concept;
-  dc:identifier "2177469534";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2412577815;
-  skos:editorialNote "Figure label in repertorio: 2.6.4.1"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:1418576819, diga_terms:1829591915 .
+diga_terms:xl_it_7cc89fca a skosxl:Label;
+  skosxl:literalForm "campo figurato rettangolare"@it .
+
+diga_terms:2639822242 skosxl:altLabel diga_terms:xl_en_677f47ef, diga_terms:xl_it_2dd33c4f .
+
+diga_terms:xl_en_677f47ef a skosxl:Label;
+  skosxl:literalForm "triangular figured field"@en .
+
+diga_terms:xl_it_2dd33c4f a skosxl:Label;
+  skosxl:literalForm "campo figurato triangolare"@it .
 
 diga_terms:2177708183 a skosxl:Label;
   dct:source source:repertorio;
@@ -26542,7 +26765,7 @@ diga_terms:2177708183 a skosxl:Label;
 
 diga_terms:2179598235 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "pointed arch [with uniform thickness]"@en .
+  skosxl:literalForm "pointed arch with uniform thickness"@en .
 
 diga_terms:2180751139 a skosxl:Label;
   dct:source source:repertorio;
@@ -26742,7 +26965,7 @@ diga_terms:2217002788 a skosxl:Label;
 
 diga_terms:221710129 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "arco a tutto sesto a imposta rialzata [con spessore uniforme] con volute"@it .
+  skosxl:literalForm "arco a tutto sesto a imposta rialzata con spessore uniforme con volute"@it .
 
 diga_terms:2217235544 a skosxl:Label;
   dct:source source:repertorio;
@@ -26780,9 +27003,11 @@ diga_terms:2220867097 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "short tunic"@en .
 
-diga_terms:2222639339 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "shaft"@en .
+diga_terms:xl_it_b3c6f977 dct:source source:repertorio .
+
+diga_terms:xl_it_f8580eba dct:source source:repertorio .
+
+diga_terms:xl_en_7cedc732 dct:source source:repertorio .
 
 diga_terms:2223307885 a skosxl:Label;
   dct:source source:repertorio;
@@ -27195,9 +27420,11 @@ diga_terms:2287313520 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "monili"@it .
 
-diga_terms:2287480369 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semicolonna e parasta di tipo gandharico-corinzio, applicato"@it .
+diga_terms:xl_it_8d704fc7 dct:source source:repertorio .
+
+diga_terms:xl_en_946ef60d dct:source source:repertorio .
+
+diga_terms:xl_it_887974da dct:source source:repertorio .
 
 diga_terms:228770939 a skosxl:Label;
   dct:source source:repertorio;
@@ -27442,7 +27669,7 @@ diga_terms:2323302171 a skosxl:Label;
 
 diga_terms:2323805717 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "decorated (type) square on the lower face [plan]"@en .
+  skosxl:literalForm "decorated square on the lower face"@en .
 
 diga_terms:2325176887 a skosxl:Label;
   dct:source source:repertorio;
@@ -27480,9 +27707,11 @@ diga_terms:2329131655 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "orecchino"@it .
 
-diga_terms:2329977726 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semicolonna di tipo gandharico-persepolitano, applicato"@it .
+diga_terms:c_b62cf088 dct:source source:repertorio .
+
+diga_terms:c_a7cd0947 dct:source source:repertorio .
+
+diga_terms:c_96d20f5c dct:source source:repertorio .
 
 diga_terms:2330335112 a skosxl:Label;
   dct:source source:repertorio;
@@ -27490,7 +27719,7 @@ diga_terms:2330335112 a skosxl:Label;
 
 diga_terms:2332043882 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "a campana zoomorfo decorato (tipo)"@it .
+  skosxl:literalForm "a campana zoomorfo decorato"@it .
 
 diga_terms:2332326681 a skosxl:Label;
   dct:source source:repertorio;
@@ -27502,7 +27731,7 @@ diga_terms:2332562742 a skosxl:Label;
 
 diga_terms:2333150140 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "pilaster with capital composed of horizontal mouldings (tuscan type)"@en .
+  skosxl:literalForm "pilaster with capital composed of horizontal mouldings"@en .
 
 diga_terms:233372437 a skosxl:Label;
   dct:source source:repertorio;
@@ -27736,7 +27965,7 @@ diga_terms:2376424805 a skosxl:Label;
 
 diga_terms:2377550836 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "side band [of the lower part]"@en .
+  skosxl:literalForm "side band"@en .
 
 diga_terms:2378020662 a skosxl:Label;
   dct:source source:repertorio;
@@ -27748,7 +27977,7 @@ diga_terms:2378090295 a skosxl:Label;
 
 diga_terms:2378208648 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "colonna e semicolonna di tipo misto, applicato, con capitello gandharico-persepolitano e base gandharico-corinzia a toro"@it .
+  skosxl:literalForm "con capitello gandharico-persepolitano e base gandharico-corinzia a toro"@it .
 
 diga_terms:2378215226 a skosxl:Label;
   dct:source source:repertorio;
@@ -27904,7 +28133,7 @@ diga_terms:2401002162 a skosxl:Label;
 
 diga_terms:2403449817 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "round arch [with uniform thickness]"@en .
+  skosxl:literalForm "round arch with uniform thickness"@en .
 
 diga_terms:2403993358 a skosxl:Label;
   dct:source source:repertorio;
@@ -28101,7 +28330,7 @@ diga_terms:2430915393 a skosxl:Label;
 
 diga_terms:2431552143 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "vertical [central] groove"@en .
+  skosxl:literalForm "vertical central groove"@en .
 
 diga_terms:2431802491 a skosxl:Label;
   dct:source source:repertorio;
@@ -28199,9 +28428,11 @@ diga_terms:2448443996 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "exposed feet"@en .
 
-diga_terms:2449322653 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "parasta di tipo gandharico-corinzio, applicato"@it .
+diga_terms:xl_en_4981683d dct:source source:repertorio .
+
+diga_terms:xl_it_c359a73f dct:source source:repertorio .
+
+diga_terms:xl_en_50fd4f2d dct:source source:repertorio .
 
 diga_terms:2450588265 a skosxl:Label;
   dct:source source:repertorio;
@@ -28308,13 +28539,21 @@ diga_terms:2464867736 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "rosetta: fiore"@it .
 
-diga_terms:2465116122 a skos:Concept;
-  dc:identifier "2465116122";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1645388688;
-  skos:editorialNote "Figure label in repertorio: 2.6.3.5.3"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:1646361781, diga_terms:3416395615 .
+diga_terms:xl_en_5588af2a dct:source source:repertorio .
+
+diga_terms:xl_en_e2d3af76 dct:source source:repertorio .
+
+diga_terms:xl_en_2ab29af0 dct:source source:repertorio .
+
+diga_terms:xl_it_f0158211 dct:source source:repertorio .
+
+diga_terms:xl_it_c7b3f3b9 dct:source source:repertorio .
+
+diga_terms:xl_en_a8390abf dct:source source:repertorio .
+
+diga_terms:xl_en_1cff4d00 dct:source source:repertorio .
+
+diga_terms:xl_en_28967f7d dct:source source:repertorio .
 
 diga_terms:2465380671 a skosxl:Label;
   dct:source source:repertorio;
@@ -28596,7 +28835,7 @@ diga_terms:249538754 a skosxl:Label;
 
 diga_terms:2495689390 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "fascia laterale [della parte inf.]"@it .
+  skosxl:literalForm "fascia laterale"@it .
 
 diga_terms:2495795621 a skosxl:Label;
   dct:source source:repertorio;
@@ -28720,7 +28959,7 @@ diga_terms:2515400294 a skosxl:Label;
 
 diga_terms:2515719 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "raised round arch [with uniform thickness]"@en .
+  skosxl:literalForm "raised round arch with uniform thickness"@en .
 
 diga_terms:2515919617 a skosxl:Label;
   dct:source source:repertorio;
@@ -28987,9 +29226,10 @@ diga_terms:255326373 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "jug with vertical side handle, without foot"@en .
 
-diga_terms:2553451386 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "mensolone"@it .
+diga_terms:1629844188 dct:source source:repertorio;
+  skos:inScheme <https://w3id.org/diga/terms> .
+
+diga_terms:3940485442 skos-thes:broaderGeneric diga_terms:2320100902 .
 
 diga_terms:2553911059 a skosxl:Label;
   dct:source source:repertorio;
@@ -29522,7 +29762,7 @@ diga_terms:2638292832 a skosxl:Label;
 
 diga_terms:2639435023 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "parasta con capitello a modanature orizzontali (tuscanico)"@it .
+  skosxl:literalForm "parasta con capitello a modanature orizzontali"@it .
 
 diga_terms:2639963601 a skosxl:Label;
   dct:source source:repertorio;
@@ -29788,7 +30028,7 @@ diga_terms:2668177957 a skosxl:Label;
 
 diga_terms:2669503077 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "inserted part: inner/outer face"@en .
+  skosxl:literalForm "inserted part"@en .
 
 diga_terms:2670062864 a skosxl:Label;
   dct:source source:repertorio;
@@ -29814,9 +30054,10 @@ diga_terms:2674155797 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "lembo ripiegato"@it .
 
-diga_terms:2674399378 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semi-column of the gandharan-persepolitan type, engaged a: base | a: base"@en .
+diga_terms:c_b702b7bc a skos:Concept;
+  skosxl:prefLabel diga_terms:xl_en_a5e3859e .
+
+diga_terms:xl_en_a5e3859e a skosxl:Label .
 
 diga_terms:2675554384 a skosxl:Label;
   dct:source source:repertorio;
@@ -30043,9 +30284,11 @@ diga_terms:2704437306 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "fila di dischi separati"@it .
 
-diga_terms:2707206853 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "base"@it .
+diga_terms:xl_it_b2974a96 dct:source source:repertorio .
+
+diga_terms:xl_it_135286d3 dct:source source:repertorio .
+
+diga_terms:xl_en_3739ebbf dct:source source:repertorio .
 
 diga_terms:2708311504 a skosxl:Label;
   dct:source source:repertorio;
@@ -30373,9 +30616,11 @@ diga_terms:2760919032 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "column/pillar"@en .
 
-diga_terms:2760971552 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "column and semi-column of the mixed type, engaged"@en .
+diga_terms:xl_en_fca7daed dct:source source:repertorio .
+
+diga_terms:xl_it_fffac8b7 dct:source source:repertorio .
+
+diga_terms:xl_it_df2fdf09 dct:source source:repertorio .
 
 diga_terms:2762404303 a skosxl:Label;
   dct:source source:repertorio;
@@ -30455,7 +30700,7 @@ diga_terms:2770983720 a skosxl:Label;
 
 diga_terms:2771084917 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "colonna di tipo gandharico-ionico"@it .
+  skosxl:literalForm "parti di colonna di tipo gandharico-ionico"@it .
 
 diga_terms:2771257221 a skosxl:Label;
   dct:source source:repertorio;
@@ -30597,9 +30842,11 @@ diga_terms:2786547337 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "upper front boss"@en .
 
-diga_terms:2786672678 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semi-column of the gandharan-persepolitan type, engaged"@en .
+diga_terms:c_cff8466e dct:source source:repertorio .
+
+diga_terms:c_22e938b0 dct:source source:repertorio .
+
+diga_terms:c_6e4023c8 dct:source source:repertorio .
 
 diga_terms:2787846522 a skosxl:Label;
   dct:source source:repertorio;
@@ -30691,9 +30938,11 @@ diga_terms:2800386114 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "1st intermediate element: 1st disk"@en .
 
-diga_terms:2800469905 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "base"@it .
+diga_terms:xl_en_096b2d69 dct:source source:repertorio .
+
+diga_terms:xl_it_a93e5167 dct:source source:repertorio .
+
+diga_terms:2320100902 dc:identifier "2320100902" .
 
 diga_terms:2800479869 a skosxl:Label;
   dct:source source:repertorio;
@@ -30966,7 +31215,7 @@ diga_terms:2841451551 a skosxl:Label;
 
 diga_terms:2841498336 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "acroterion (central/angular)"@en .
+  skosxl:literalForm "acroterion"@en .
 
 diga_terms:2842182260 a skosxl:Label;
   dct:source source:repertorio;
@@ -31347,7 +31596,7 @@ diga_terms:289662903 a skosxl:Label;
 
 diga_terms:2897846753 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "fusto/coda"@it .
+  skosxl:literalForm "fusto"@it .
 
 diga_terms:2901422888 a skosxl:Label;
   dct:source source:repertorio;
@@ -31496,10 +31745,6 @@ diga_terms:2929663010 a skosxl:Label;
 diga_terms:2929704640 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "upright and cross-bar of railing"@en .
-
-diga_terms:2929715927 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "segmento: faccia dx./sn. di intradosso"@it .
 
 diga_terms:2929862761 a skosxl:Label;
   dct:source source:repertorio;
@@ -31718,10 +31963,6 @@ diga_terms:2960595286 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "lembo pendente dalla mano sn."@it .
 
-diga_terms:2960692060 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "capital"@en .
-
 diga_terms:2960982256 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "pettorale"@it .
@@ -31840,7 +32081,7 @@ diga_terms:2979530746 a skosxl:Label;
 
 diga_terms:2981529094 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "scanalatura [centrale] verticale"@it .
+  skosxl:literalForm "scanalatura centrale verticale"@it .
 
 diga_terms:2981699938 a skosxl:Label;
   dct:source source:repertorio;
@@ -31922,14 +32163,6 @@ diga_terms:2992724008 a skosxl:Label;
 diga_terms:2992962734 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "testa"@it .
-
-diga_terms:2992970105 a skos:Concept;
-  dc:identifier "2992970105";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1152735729;
-  skos:editorialNote "Figure label in repertorio: 2.6.7.7"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:4055303330, diga_terms:708411162 .
 
 diga_terms:2993504743 a skosxl:Label;
   dct:source source:repertorio;
@@ -32017,7 +32250,7 @@ diga_terms:3006688114 a skosxl:Label;
 
 diga_terms:3006919393 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "column of the gandharan-ionic type"@en .
+  skosxl:literalForm "parts of column of the gandharan-ionic type"@en .
 
 diga_terms:3007365858 a skosxl:Label;
   dct:source source:repertorio;
@@ -32364,9 +32597,11 @@ diga_terms:3057141998 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "lower volute"@en .
 
-diga_terms:3057829905 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "capital"@en .
+diga_terms:xl_it_ff901c2e dct:source source:repertorio .
+
+diga_terms:xl_en_fc48ed22 dct:source source:repertorio .
+
+diga_terms:xl_it_0fab511f dct:source source:repertorio .
 
 diga_terms:3057848484 a skosxl:Label;
   dct:source source:repertorio;
@@ -32476,9 +32711,11 @@ diga_terms:3068882182 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "piramide a gradini"@it .
 
-diga_terms:3068996236 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "shaft/drum of shaft"@en .
+diga_terms:xl_en_076389a1 dct:source source:repertorio .
+
+diga_terms:xl_en_e659f9d7 dct:source source:repertorio .
+
+diga_terms:xl_it_338b3d54 dct:source source:repertorio .
 
 diga_terms:3070220406 a skosxl:Label;
   dct:source source:repertorio;
@@ -32586,9 +32823,11 @@ diga_terms:308508050 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "barrel drum with v-crossed straps"@en .
 
-diga_terms:3085744631 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "fusto"@it .
+diga_terms:xl_it_b9a080cd dct:source source:repertorio .
+
+diga_terms:xl_it_a604ca36 dct:source source:repertorio .
+
+diga_terms:xl_en_067bfe89 dct:source source:repertorio .
 
 diga_terms:3086597170 a skosxl:Label;
   dct:source source:repertorio;
@@ -32620,7 +32859,7 @@ diga_terms:3093479622 a skosxl:Label;
 
 diga_terms:3093825414 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "parte mediana: faccia interna/ esterna"@it .
+  skosxl:literalForm "parte mediana"@it .
 
 diga_terms:3093945948 a skosxl:Label;
   dct:source source:repertorio;
@@ -33148,7 +33387,7 @@ diga_terms:3168587114 a skosxl:Label;
 
 diga_terms:3169152964 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "balaustra obliqua [di scala], elemento laterale di scala"@it .
+  skosxl:literalForm "balaustra obliqua"@it .
 
 diga_terms:317057075 a skosxl:Label;
   dct:source source:repertorio;
@@ -33557,10 +33796,6 @@ diga_terms:3237809691 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "pilastrino di pseudo balaustra"@it .
 
-diga_terms:3237979664 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "capitello"@it .
-
 diga_terms:3238177236 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "poggiapiedi con gambe"@it .
@@ -33847,14 +34082,6 @@ diga_terms:3275232277 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "lamina"@it .
 
-diga_terms:3275678495 a skos:Concept;
-  dc:identifier "3275678495";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2412577815;
-  skos:editorialNote "Figure label in repertorio: 2.6.4.5"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:1845556596, diga_terms:3302572896 .
-
 diga_terms:327750621 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "handle"@en .
@@ -33945,7 +34172,7 @@ diga_terms:3291478799 a skosxl:Label;
 
 diga_terms:3292474596 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "arco a tutto sesto a imposta rialzata [con spessore uniforme]"@it .
+  skosxl:literalForm "arco a tutto sesto a imposta rialzata con spessore uniforme"@it .
 
 diga_terms:3293486315 a skosxl:Label;
   dct:source source:repertorio;
@@ -34019,10 +34246,6 @@ diga_terms:3302568519 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "oblong palm-leaf sheet"@en .
 
-diga_terms:3302572896 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "frontone"@it .
-
 diga_terms:3303253023 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "cappotto manicato"@it .
@@ -34075,9 +34298,9 @@ diga_terms:3310690041 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "piano"@it .
 
-diga_terms:3311093436 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "shaft"@en .
+diga_terms:2351674463 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
+
+diga_terms:2538290455 skos-thes:broaderPartitive diga_terms:c_b702b7bc .
 
 diga_terms:3311375219 a skosxl:Label;
   dct:source source:repertorio;
@@ -34377,7 +34600,7 @@ diga_terms:3356163469 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "scimmia offerente"@it .
 
-diga_terms:xl_it_890661a2 skosxl:literalForm "arco ogivale [con spessore uniforme]"@it .
+diga_terms:xl_it_890661a2 skosxl:literalForm "arco ogivale con spessore uniforme"@it .
 
 diga_terms:815438250 skosxl:altLabel diga_terms:xl_it_3302c3a2 .
 
@@ -34596,13 +34819,7 @@ diga_terms:3385959395 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "finger-ring"@en .
 
-diga_terms:3385983409 a skos:Concept;
-  dc:identifier "3385983409";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2412577815;
-  skos:editorialNote "Figure label in repertorio: 2.6.4.3"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:1748996342, diga_terms:856662130 .
+<https://w3id.org/diga/terms/> owl:imports <http://purl.org/dc/terms/> .
 
 diga_terms:3386650529 a skosxl:Label;
   dct:source source:repertorio;
@@ -34653,9 +34870,11 @@ diga_terms:3393662845 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "muscoli addominali"@it .
 
-diga_terms:3394773571 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "shaft"@en .
+diga_terms:xl_en_b5f9d8aa dct:source source:repertorio .
+
+diga_terms:xl_it_166b5d19 dct:source source:repertorio .
+
+diga_terms:xl_en_93591f3f dct:source source:repertorio .
 
 diga_terms:3394802505 a skosxl:Label;
   dct:source source:repertorio;
@@ -34699,7 +34918,7 @@ diga_terms:3402712259 a skosxl:Label;
 
 diga_terms:3402825204 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "riquadro decorato (tipo) nella faccia inf. [pianta]"@it .
+  skosxl:literalForm "riquadro decorato nella faccia inf."@it .
 
 diga_terms:3404327757 a skosxl:Label;
   dct:source source:repertorio;
@@ -34769,9 +34988,11 @@ diga_terms:3415510017 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "heart-shaped"@en .
 
-diga_terms:3416395615 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semicolonna di tipo gandharico-persepolitano, applicato"@it .
+diga_terms:xl_en_d3416657 dct:source source:repertorio .
+
+diga_terms:xl_it_0c81ae21 dct:source source:repertorio .
+
+diga_terms:xl_en_7073652c dct:source source:repertorio .
 
 diga_terms:3416637539 a skosxl:Label;
   dct:source source:repertorio;
@@ -35102,7 +35323,7 @@ diga_terms:3461504514 a skosxl:Label;
 
 diga_terms:3462192604 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "balaustra [piana]"@it .
+  skosxl:literalForm "balaustra"@it .
 
 diga_terms:3462506196 a skosxl:Label;
   dct:source source:repertorio;
@@ -35126,7 +35347,7 @@ diga_terms:3464128609 a skosxl:Label;
 
 diga_terms:3464257599 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "stair railing, stair-side element"@en .
+  skosxl:literalForm "stair railing"@en .
 
 diga_terms:3465678216 a skosxl:Label;
   dct:source source:repertorio;
@@ -35498,7 +35719,7 @@ diga_terms:3518107406 a skosxl:Label;
 
 diga_terms:3518415341 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "parte aggettante: faccia interna/esterna"@it .
+  skosxl:literalForm "parte aggettante"@it .
 
 diga_terms:3519388886 a skosxl:Label;
   dct:source source:repertorio;
@@ -35620,9 +35841,11 @@ diga_terms:3548668158 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "flap"@en .
 
-diga_terms:3548690719 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "capitello"@it .
+diga_terms:xl_en_da2d1cde dct:source source:repertorio .
+
+diga_terms:xl_en_18a45973 dct:source source:repertorio .
+
+diga_terms:xl_it_c278bcad dct:source source:repertorio .
 
 diga_terms:3549920888 a skosxl:Label;
   dct:source source:repertorio;
@@ -35825,15 +36048,17 @@ diga_terms:3585372775 a skosxl:Label;
 
 diga_terms:3585424542 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "[horizontal] railing"@en .
+  skosxl:literalForm "railing"@en .
 
 diga_terms:358601939 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "pantaloni"@it .
 
-diga_terms:3586419781 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "pilaster of the gandharan-corinthian type, engaged b: fusto | b: shaft"@en .
+diga_terms:xl_it_b0cfcd2a dct:source source:repertorio .
+
+diga_terms:xl_en_a3e02ec9 dct:source source:repertorio .
+
+diga_terms:xl_it_2cabec52 dct:source source:repertorio .
 
 diga_terms:3586689841 a skosxl:Label;
   dct:source source:repertorio;
@@ -36263,7 +36488,7 @@ diga_terms:3652109348 a skosxl:Label;
 
 diga_terms:365261731 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "arco a tutto sesto con [linea dell'] estradosso a carena"@it .
+  skosxl:literalForm "arco a tutto sesto con estradosso a carena"@it .
 
 diga_terms:3654747545 a skosxl:Label;
   dct:source source:repertorio;
@@ -36277,9 +36502,11 @@ diga_terms:3655416936 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "uttar카ya"@it .
 
-diga_terms:3656530284 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semi-column of the gandharan-corinthian type, engaged b: fusto | b: shaft"@en .
+diga_terms:xl_en_fa7fbfca dct:source source:repertorio .
+
+diga_terms:xl_en_2a32b163 dct:source source:repertorio .
+
+diga_terms:xl_en_849d254e dct:source source:repertorio .
 
 diga_terms:3658032425 a skos:Concept;
   dc:identifier "3658032425";
@@ -36372,7 +36599,7 @@ diga_terms:3673209767 a skosxl:Label;
 
 diga_terms:3673544200 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "column and semi-column of the mixed type, engaged, with gandharan-persepolitan capital and gandharan-corinthian base of torus type"@en .
+  skosxl:literalForm "with gandharan-persepolitan capital and gandharan-corinthian base of torus type"@en .
 
 diga_terms:3674534179 a skosxl:Label;
   dct:source source:repertorio;
@@ -36497,7 +36724,7 @@ diga_terms:3692038700 a skosxl:Label;
 
 diga_terms:3692592575 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "arco aggettante di nicchia o di falsa nicchia"@it .
+  skosxl:literalForm "arco aggettante di nicchia"@it .
 
 diga_terms:3692763065 a skosxl:Label;
   dct:source source:repertorio;
@@ -36661,7 +36888,7 @@ diga_terms:3708216591 a skosxl:Label;
 
 diga_terms:3708367417 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "[vertical continuous] socket for bracket-spacer"@en .
+  skosxl:literalForm "vertical continuous socket for bracket-spacer"@en .
 
 diga_terms:3708462758 a skosxl:Label;
   dct:source source:repertorio;
@@ -37044,10 +37271,6 @@ diga_terms:3760402816 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "asta"@it .
 
-diga_terms:3760579438 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "profilo"@it .
-
 diga_terms:3760624241 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "plumb-level"@en .
@@ -37184,7 +37407,7 @@ diga_terms:3775471516 a skosxl:Label;
 
 diga_terms:3775948963 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "capital of the gandharan-persepolitan type (c), modillion (d)"@en .
+  skosxl:literalForm "capital of the gandharan-persepolitan type"@en .
 
 diga_terms:3776481976 a skosxl:Label;
   dct:source source:repertorio;
@@ -37371,9 +37594,11 @@ diga_terms:380012488 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "foglia"@it .
 
-diga_terms:380015636 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semi-column and pilaster of the gandharan-corinthian type, engaged"@en .
+diga_terms:xl_en_454b9c42 dct:source source:repertorio .
+
+diga_terms:xl_it_44c01619 dct:source source:repertorio .
+
+diga_terms:xl_en_c9e26656 dct:source source:repertorio .
 
 diga_terms:3800939624 a skosxl:Label;
   dct:source source:repertorio;
@@ -37467,9 +37692,11 @@ diga_terms:3815974106 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "field"@en .
 
-diga_terms:3817169769 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "fusto/rocchio del fusto"@it .
+diga_terms:xl_it_9bf9e09b dct:source source:repertorio .
+
+diga_terms:xl_en_b3dad2a5 dct:source source:repertorio .
+
+diga_terms:xl_it_7e5b45fd dct:source source:repertorio .
 
 diga_terms:3817724658 a skosxl:Label;
   dct:source source:repertorio;
@@ -37515,9 +37742,11 @@ diga_terms:3823862616 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "terminazione sup. concava"@it .
 
-diga_terms:3824973458 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "pilaster with capital composed of horizontal mouldings (tuscan type)"@en .
+diga_terms:xl_it_63a71b5b dct:source source:repertorio .
+
+diga_terms:xl_en_7cc0d886 dct:source source:repertorio .
+
+diga_terms:xl_en_27224902 dct:source source:repertorio .
 
 diga_terms:3825350692 a skosxl:Label;
   dct:source source:repertorio;
@@ -37734,7 +37963,7 @@ diga_terms:385577887 a skosxl:Label;
 
 diga_terms:3856796329 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "figure (type)"@en .
+  skosxl:literalForm "figure"@en .
 
 diga_terms:3856931588 a skosxl:Label;
   dct:source source:repertorio;
@@ -37891,7 +38120,7 @@ diga_terms:3872936709 a skosxl:Label;
 
 diga_terms:3873164757 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "segment: right/left face of extrados"@en .
+  skosxl:literalForm "segment"@en .
 
 diga_terms:3875010507 a skosxl:Label;
   dct:source source:repertorio;
@@ -38089,9 +38318,9 @@ diga_terms:3903788540 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "foglio rettangolare di palma"@it .
 
-diga_terms:390393719 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "capitello"@it .
+diga_terms:3963573713 skos-thes:broaderPartitive diga_terms:c_f47e2c00 .
+
+diga_terms:1394891171 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
 
 diga_terms:3904442875 a skosxl:Label;
   dct:source source:repertorio;
@@ -38229,7 +38458,7 @@ diga_terms:3927460793 a skosxl:Label;
 
 diga_terms:3927626742 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "arco a tutto sesto [con spessore uniforme]"@it .
+  skosxl:literalForm "arco a tutto sesto con spessore uniforme"@it .
 
 diga_terms:3928349978 a skosxl:Label;
   dct:source source:repertorio;
@@ -38424,7 +38653,7 @@ diga_terms:395609646 a skosxl:Label;
 
 diga_terms:3957062947 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "campo decorato/figurato (tipo)"@it .
+  skosxl:literalForm "campo decorato rettangolare"@it .
 
 diga_terms:3957178722 a skosxl:Label;
   dct:source source:repertorio;
@@ -38490,9 +38719,9 @@ diga_terms:3966034445 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "pettinatura di fanciullo a scuola"@it .
 
-diga_terms:3966217786 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "faccia ant."@it .
+diga_terms:3215586604 skos-thes:broaderPartitive diga_terms:647329180 .
+
+diga_terms:3457735595 skos-thes:broaderPartitive diga_terms:2290519443, diga_terms:3742487414 .
 
 diga_terms:3967384347 a skosxl:Label;
   dct:source source:repertorio;
@@ -38502,9 +38731,11 @@ diga_terms:3967960288 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "braccialetto"@it .
 
-diga_terms:3968283396 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "base"@en .
+diga_terms:xl_en_f387737f dct:source source:repertorio .
+
+diga_terms:xl_it_1475a1bf dct:source source:repertorio .
+
+diga_terms:xl_it_af3ec9f5 dct:source source:repertorio .
 
 diga_terms:3968903345 a skosxl:Label;
   dct:source source:repertorio;
@@ -38595,9 +38826,11 @@ diga_terms:3977553185 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "incasso per traversa"@it .
 
-diga_terms:397779671 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "modillion"@en .
+diga_terms:912360281 skos-thes:broaderGeneric diga_terms:545163129 .
+
+diga_terms:515477100 skos-thes:broaderGeneric diga_terms:3508558499 .
+
+diga_terms:c_9971ea14 dct:source source:repertorio .
 
 diga_terms:xl_it_22d66862 a skosxl:Label;
   skosxl:literalForm "pseudo vih훮ra a torre con copertura a quattro spioventi curvilinei e cupola"@it .
@@ -38679,7 +38912,7 @@ diga_terms:3989764729 a skos:Concept;
 
 diga_terms:3989981876 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "projecting arch of niche or false-niche"@en .
+  skosxl:literalForm "projecting arch of niche"@en .
 
 diga_terms:3990504685 a skosxl:Label;
   dct:source source:repertorio;
@@ -38787,7 +39020,7 @@ diga_terms:400871377 a skosxl:Label;
 
 diga_terms:400912092 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "decorazione, modanature"@it .
+  skosxl:literalForm "decorazione"@it .
 
 diga_terms:4009124015 a skosxl:Label;
   dct:source source:repertorio;
@@ -38857,9 +39090,11 @@ diga_terms:4016007463 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "moulded threshold"@en .
 
-diga_terms:4016117569 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "capitello"@it .
+diga_terms:xl_en_8f36552c dct:source source:repertorio .
+
+diga_terms:xl_it_c2e5f35d dct:source source:repertorio .
+
+diga_terms:xl_en_5fbd0465 dct:source source:repertorio .
 
 diga_terms:401726965 a skosxl:Label;
   dct:source source:repertorio;
@@ -38884,10 +39119,6 @@ diga_terms:4018814076 a skosxl:Label;
 diga_terms:4019178618 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "hair with coil and vertical knot"@en .
-
-diga_terms:4020498719 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "profile"@en .
 
 diga_terms:4023726262 a skosxl:Label;
   dct:source source:repertorio;
@@ -39100,10 +39331,6 @@ diga_terms:4053282547 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "con decorazione a fasce verticali contigue"@it .
 
-diga_terms:4055303330 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "cornice con piramidi a gradini"@it .
-
 diga_terms:4055339607 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "faccia inf."@it .
@@ -39298,7 +39525,7 @@ diga_terms:408710630 a skosxl:Label;
 
 diga_terms:4087503113 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "parte inserita: faccia interna/ esterna"@it .
+  skosxl:literalForm "parte inserita"@it .
 
 diga_terms:40876878 a skosxl:Label;
   dct:source source:repertorio;
@@ -39459,7 +39686,7 @@ diga_terms:4107988529 a skosxl:Label;
 
 diga_terms:410828807 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "figura (tipo)"@it .
+  skosxl:literalForm "figura"@it .
 
 diga_terms:4108917373 a skosxl:Label;
   dct:source source:repertorio;
@@ -39773,10 +40000,6 @@ diga_terms:4163550366 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "giogo"@it .
 
-diga_terms:4164042159 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "lower face"@en .
-
 diga_terms:416435637 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "fila di cespi di acanto dritti, alternati a mezze rosette"@it .
@@ -39893,21 +40116,21 @@ diga_terms:4182453823 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "socket"@en .
 
-diga_terms:4182982247 a skos:Concept;
-  dc:identifier "4182982247";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1645388688;
-  skos:editorialNote "Figure label in repertorio: 2.6.3.5.1"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:134076244, diga_terms:2674399378 .
+diga_terms:xl_en_a5e3859e skosxl:literalForm "not figured capital"@en .
+
+diga_terms:c_b702b7bc skos:inScheme <https://w3id.org/diga/terms> .
+
+diga_terms:1267403065 skos-thes:broaderPartitive diga_terms:c_f47e2c00 .
+
+diga_terms:2945298700 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
+
+diga_terms:477040034 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
+
+diga_terms:1529936300 skos-thes:broaderPartitive diga_terms:c_f47e2c00 .
 
 diga_terms:4183912094 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "gola rovescia"@it .
-
-diga_terms:4184045252 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "segment: right/left face of intrados"@en .
 
 diga_terms:4185971614 a skosxl:Label;
   dct:source source:repertorio;
@@ -39915,7 +40138,7 @@ diga_terms:4185971614 a skosxl:Label;
 
 diga_terms:4186329812 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "arco a tutto sesto a imposta rialzata con [linea dell'] estradosso a carena con volute"@it .
+  skosxl:literalForm "arco a tutto sesto a imposta rialzata con estradosso a carena con volute"@it .
 
 diga_terms:4186348554 a skosxl:Label;
   dct:source source:repertorio;
@@ -40041,9 +40264,9 @@ diga_terms:4202282070 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "ovolo [dritto]"@it .
 
-diga_terms:4202403431 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "gandharan-corinthian capital"@en .
+diga_terms:3063368649 skos-thes:broaderPartitive diga_terms:1851166334 .
+
+diga_terms:3144613333 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
 
 diga_terms:4202648421 a skosxl:Label;
   dct:source source:repertorio;
@@ -40572,9 +40795,10 @@ diga_terms:427361520 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "figure"@en .
 
-diga_terms:4273902504 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "column and pillar of the gandharan-corinthian type, free-standing"@en .
+diga_terms:c_d503d4d8 skosxl:prefLabel diga_terms:xl_it_9f0c7ac7 .
+
+diga_terms:xl_it_9f0c7ac7 a skosxl:Label;
+  skosxl:literalForm "acroterio angolare"@it .
 
 diga_terms:4274118142 a skosxl:Label;
   dct:source source:repertorio;
@@ -40823,7 +41047,7 @@ diga_terms:439108476 a skosxl:Label;
 
 diga_terms:439938760 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "segmento: faccia dx./sn. di estradosso"@it .
+  skosxl:literalForm "segmento"@it .
 
 diga_terms:44009680 a skosxl:Label;
   dct:source source:repertorio;
@@ -41069,7 +41293,7 @@ diga_terms:469705607 a skosxl:Label;
 
 diga_terms:471298469 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "decorated/figured (type) field"@en .
+  skosxl:literalForm "rectangular decorated field"@en .
 
 diga_terms:471490369 a skosxl:Label;
   dct:source source:repertorio;
@@ -41156,9 +41380,11 @@ diga_terms:485685155 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "thin"@en .
 
-diga_terms:486102022 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "base"@en .
+diga_terms:545163129 dc:identifier "545163129" .
+
+diga_terms:3508558499 dc:identifier "3508558499" .
+
+diga_terms:c_8ca9afcd a skos:Concept .
 
 diga_terms:486560766 a skosxl:Label;
   dct:source source:repertorio;
@@ -41244,13 +41470,21 @@ diga_terms:499730201 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "base del diadema a corte fasce orizzontali sovrapposte"@it .
 
-diga_terms:500217756 a skos:Concept;
-  dc:identifier "500217756";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:646227285;
-  skos:editorialNote "Figure label in repertorio: 2.6.3.3.2"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:3656530284, diga_terms:641148887 .
+diga_terms:xl_en_542cd0a2 dct:source source:repertorio .
+
+diga_terms:xl_en_e3fd09b4 dct:source source:repertorio .
+
+diga_terms:xl_en_6eec8505 dct:source source:repertorio .
+
+diga_terms:xl_en_79c2fe8e dct:source source:repertorio .
+
+diga_terms:xl_en_80a12c46 dct:source source:repertorio .
+
+diga_terms:xl_en_46110ed4 dct:source source:repertorio .
+
+diga_terms:xl_en_e1dfb3c2 dct:source source:repertorio .
+
+diga_terms:xl_en_4527cfed dct:source source:repertorio .
 
 diga_terms:501537475 a skosxl:Label;
   dct:source source:repertorio;
@@ -41536,7 +41770,7 @@ diga_terms:536077575 a skosxl:Label;
 
 diga_terms:536182888 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "decorated/figured field"@en .
+  skosxl:literalForm "triangular decorated field"@en .
 
 diga_terms:536267129 a skosxl:Label;
   dct:source source:repertorio;
@@ -41721,7 +41955,7 @@ diga_terms:566331590 a skosxl:Label;
 
 diga_terms:566717797 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "decorated (type) zoomorphic bell-like"@en .
+  skosxl:literalForm "decorated zoomorphic bell-like"@en .
 
 diga_terms:568150353 a skosxl:Label;
   dct:source source:repertorio;
@@ -42032,7 +42266,7 @@ diga_terms:622652541 a skosxl:Label;
 
 diga_terms:622924248 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "column/ pillar"@en .
+  skosxl:literalForm "column"@en .
 
 diga_terms:623289887 a skosxl:Label;
   dct:source source:repertorio;
@@ -42186,9 +42420,11 @@ diga_terms:63890318 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "chioma compatta"@it .
 
-diga_terms:641148887 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semicolonna di tipo gandharico-corinzio, applicato"@it .
+diga_terms:xl_it_6ba5959e dct:source source:repertorio .
+
+diga_terms:xl_it_868d14ab dct:source source:repertorio .
+
+diga_terms:xl_it_0dadab95 dct:source source:repertorio .
 
 diga_terms:642421616 a skosxl:Label;
   dct:source source:repertorio;
@@ -42493,9 +42729,11 @@ diga_terms:686961025 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "il corpo"@it .
 
-diga_terms:687134939 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semi-column of the gandharan-persepolitan type, engaged b: fusto | b: shaft"@en .
+diga_terms:xl_it_88a0ced1 dct:source source:repertorio .
+
+diga_terms:xl_en_ccc8893e dct:source source:repertorio .
+
+diga_terms:xl_en_699aee0e dct:source source:repertorio .
 
 diga_terms:687197366 a skosxl:Label;
   dct:source source:repertorio;
@@ -42591,7 +42829,7 @@ diga_terms:699949347 a skosxl:Label;
 
 diga_terms:700055899 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "capitello di tipo gandharico-persepolitano (c), mensolone (d)"@it .
+  skosxl:literalForm "capitello di tipo gandharico-persepolitano"@it .
 
 diga_terms:701483984 a skosxl:Label;
   dct:source source:repertorio;
@@ -42640,10 +42878,6 @@ diga_terms:707710798 a skosxl:Label;
 diga_terms:708271764 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "di tipo semplice"@it .
-
-diga_terms:708411162 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "cornice with stepped pyramids"@en .
 
 diga_terms:710920579 a skosxl:Label;
   dct:source source:repertorio;
@@ -43672,13 +43906,21 @@ diga_terms:845499061 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "serpente"@it .
 
-diga_terms:845773597 a skos:Concept;
-  dc:identifier "845773597";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:c_cff8466e;
-  skos:editorialNote "Figure label in repertorio: 2.6.3.9"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:1085867427, diga_terms:3824973458 .
+diga_terms:xl_it_08226ee4 dct:source source:repertorio .
+
+diga_terms:xl_it_8fa49163 dct:source source:repertorio .
+
+diga_terms:xl_en_8c0c0320 dct:source source:repertorio .
+
+diga_terms:xl_en_f8de9e23 dct:source source:repertorio .
+
+diga_terms:xl_en_60a17fd9 dct:source source:repertorio .
+
+diga_terms:xl_en_9d50c043 dct:source source:repertorio .
+
+diga_terms:xl_it_49d395ae dct:source source:repertorio .
+
+diga_terms:xl_it_b0dfca63 dct:source source:repertorio .
 
 diga_terms:847324090 a skosxl:Label;
   dct:source source:repertorio;
@@ -43744,10 +43986,6 @@ diga_terms:85562168 a skosxl:Label;
 diga_terms:856402078 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "with plain border"@en .
-
-diga_terms:856662130 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "arco aggettante di nicchia o di falsa nicchia"@it .
 
 diga_terms:857447026 a skosxl:Label;
   dct:source source:repertorio;
@@ -44055,13 +44293,14 @@ diga_terms:90818930 a skosxl:Label;
   dct:source source:repertorio;
   skosxl:literalForm "disco"@it .
 
-diga_terms:90850972 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "semicolonna di tipo gandharico-persepolitano, applicato"@it .
+diga_terms:c_f47e2c00 a skos:Concept;
+  skosxl:prefLabel diga_terms:xl_en_f3886d1c .
+
+diga_terms:xl_en_f3886d1c a skosxl:Label .
 
 diga_terms:909247529 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "porta di vih훮ra con architrave e arco a tutto sesto a imposta rialzata con [linea dell'] estradosso a carena"@it .
+  skosxl:literalForm "porta di vih훮ra con architrave e arco a tutto sesto a imposta rialzata con linea dell'estradosso a carena"@it .
 
 diga_terms:910347561 a skosxl:Label;
   dct:source source:repertorio;
@@ -44465,9 +44704,9 @@ diga_terms:966021296 a skos:Concept;
   skosxl:prefLabel diga_terms:3154275612, diga_terms:4026179931;
   foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-229_Graphic_1621692052034_1690.png> .
 
-diga_terms:966464559 a skosxl:Label;
-  dct:source source:repertorio;
-  skosxl:literalForm "capitello gandharico-corinzio"@it .
+diga_terms:1563593587 skos-thes:broaderPartitive diga_terms:c_f47e2c00 .
+
+diga_terms:137293945 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
 
 diga_terms:967269506 a skosxl:Label;
   dct:source source:repertorio;
@@ -44698,7 +44937,7 @@ diga_terms:997717661 a skosxl:Label;
 
 diga_terms:998150768 a skosxl:Label;
   dct:source source:repertorio;
-  skosxl:literalForm "projecting part: inner/outer face"@en .
+  skosxl:literalForm "projecting part"@en .
 
 diga_terms:998980258 a skosxl:Label;
   dct:source source:repertorio;
@@ -44727,7 +44966,7 @@ diga_terms:1153070907 a skos:Concept;
 diga_terms:1194249476 a skos:Concept;
   dc:identifier "1194249476";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1851166334;
+  skos-thes:broaderGeneric diga_terms:c_cff8466e;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1205292327, diga_terms:3762087399;
@@ -44970,14 +45209,19 @@ diga_terms:1775830788 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2293354520, diga_terms:3041129514 .
 
-diga_terms:1791345897 a skos:Concept;
-  dc:identifier "1791345897";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2425818388;
-  skos:editorialNote "Figure label in repertorio: 1"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:1236096980, diga_terms:2760971552;
-  foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-073_Graphic_1621324123979_132.png> .
+diga_terms:xl_it_28b6d30b dct:source source:repertorio .
+
+diga_terms:xl_it_1020650d dct:source source:repertorio .
+
+diga_terms:xl_en_724474e3 dct:source source:repertorio .
+
+diga_terms:3760931020 skosxl:altLabel diga_terms:xl_en_4ec042f9, diga_terms:xl_it_493cb648 .
+
+diga_terms:xl_en_4ec042f9 a skosxl:Label;
+  skosxl:literalForm "pilaster with tuscan type capital"@en .
+
+diga_terms:xl_it_493cb648 a skosxl:Label;
+  skosxl:literalForm "parasta con capitello di tipo tuscanico"@it .
 
 diga_terms:180726267 a skos:Concept;
   dc:identifier "180726267";
@@ -45684,7 +45928,7 @@ diga_terms:407944529 a skos:Concept;
 diga_terms:4095100333 a skos:Concept;
   dc:identifier "4095100333";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:3327345101;
+  skos-thes:broaderGeneric diga_terms:252269757;
   skos:editorialNote "Figure label in repertorio: 2.1.2.4"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3021111980, diga_terms:346936008 .
@@ -47039,14 +47283,23 @@ diga_terms:1085148567 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1223476117, diga_terms:3502711068 .
 
-diga_terms:1174518413 a skos:Concept;
-  dc:identifier "1174518413";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1645388688;
-  skos:editorialNote "Figure label in repertorio: 2"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2329977726, diga_terms:2786672678;
-  foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-070_Graphic_1621331391409_2791.png> .
+diga_terms:c_dfd86b01 dct:source source:repertorio .
+
+diga_terms:c_8fd9afde dct:source source:repertorio .
+
+diga_terms:c_6081519c dct:source source:repertorio .
+
+diga_terms:c_f42bca53 dct:source source:repertorio .
+
+diga_terms:c_54313c41 dct:source source:repertorio .
+
+diga_terms:c_5879430c dct:source source:repertorio .
+
+diga_terms:c_1a47911b dct:source source:repertorio .
+
+diga_terms:c_a76aedfc dct:source source:repertorio .
+
+diga_terms:c_9df20c73 dct:source source:repertorio .
 
 diga_terms:1189279913 a skos:Concept;
   dc:identifier "1189279913";
@@ -47083,14 +47336,23 @@ diga_terms:1315037710 a skos:Concept;
   skosxl:prefLabel diga_terms:2034593738, diga_terms:707710798;
   foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-176_r_4.png> .
 
-diga_terms:1398818814 a skos:Concept;
-  dc:identifier "1398818814";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:646227285;
-  skos:editorialNote "Figure label in repertorio: 2"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2287480369, diga_terms:380015636;
-  foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-064_Graphic_1621324976788_600.png> .
+diga_terms:xl_en_8fbf6adf dct:source source:repertorio .
+
+diga_terms:xl_en_501a5a5c dct:source source:repertorio .
+
+diga_terms:xl_it_0076d51b dct:source source:repertorio .
+
+diga_terms:xl_it_ef72e8cf dct:source source:repertorio .
+
+diga_terms:xl_it_e09a191b dct:source source:repertorio .
+
+diga_terms:xl_it_890661a2 dct:source source:repertorio .
+
+diga_terms:xl_it_be1e3df9 dct:source source:repertorio .
+
+diga_terms:xl_en_7d47f513 dct:source source:repertorio .
+
+diga_terms:xl_en_d3b7168a dct:source source:repertorio .
 
 diga_terms:1430675023 a skos:Concept;
   dc:identifier "1430675023";
@@ -48959,7 +49221,7 @@ diga_terms:3716004846 a skos:Concept;
 diga_terms:3742487414 a skos:Concept;
   dc:identifier "3742487414";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:3327345101;
+  skos-thes:broaderGeneric diga_terms:252269757;
   skos:editorialNote "Figure label in repertorio: 2.1.2.3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:247340706, diga_terms:999286064 .
@@ -48984,7 +49246,7 @@ diga_terms:383723673 a skos:Concept;
 diga_terms:4021609434 a skos:Concept;
   dc:identifier "4021609434";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:3327345101;
+  skos-thes:broaderGeneric diga_terms:252269757;
   skos:editorialNote "Figure label in repertorio: 2.1.2.2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3103610100, diga_terms:3318183655 .
@@ -49067,7 +49329,7 @@ diga_terms:960182387 a skos:Concept;
 diga_terms:1055879407 a skos:Concept;
   dc:identifier "1055879407";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2966956410;
+  skos-thes:broaderGeneric diga_terms:2776284763;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1822852009, diga_terms:2628233567;
@@ -49165,7 +49427,7 @@ diga_terms:3187904559 a skos:Concept;
 diga_terms:3217111580 a skos:Concept;
   dc:identifier "3217111580";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:185134080;
+  skos-thes:broaderGeneric diga_terms:c_cff8466e;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3116108628, diga_terms:706360881;
@@ -49266,7 +49528,7 @@ diga_terms:864303630 a skos:Concept;
 diga_terms:986724577 a skos:Concept;
   dc:identifier "986724577";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:3275678495;
+  skos-thes:broaderGeneric diga_terms:2412577815;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3611897201, diga_terms:925257687;
@@ -49384,7 +49646,7 @@ diga_terms:3448260243 a skos:Concept;
 diga_terms:3471662989 a skos:Concept;
   dc:identifier "3471662989";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1770385472;
+  skos-thes:broaderPartitive diga_terms:1645388688;
   skos:editorialNote "Figure label in repertorio: 2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1610293587, diga_terms:346951970;
@@ -49393,7 +49655,7 @@ diga_terms:3471662989 a skos:Concept;
 diga_terms:3482023374 a skos:Concept;
   dc:identifier "3482023374";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2966956410;
+  skos-thes:broaderGeneric diga_terms:2776284763;
   skos:editorialNote "Figure label in repertorio: 2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2489841930, diga_terms:2950902678;
@@ -49548,13 +49810,13 @@ diga_terms:2059185355 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1109250508, diga_terms:471824786 .
 
-diga_terms:2077325386 a skos:Concept;
-  dc:identifier "2077325386";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:3080511734;
-  skos:editorialNote "Figure label in repertorio: 1.2"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:1090494496, diga_terms:3966217786 .
+diga_terms:3457735595 skos-thes:broaderPartitive diga_terms:647329180 .
+
+diga_terms:2322167618 skos-thes:broaderPartitive diga_terms:2290519443, diga_terms:3742487414,
+    diga_terms:647329180 .
+
+diga_terms:3060322372 skos-thes:broaderPartitive diga_terms:2038610064, diga_terms:2290519443,
+    diga_terms:3524331071, diga_terms:3742487414 .
 
 diga_terms:2101082069 a skos:Concept;
   dc:identifier "2101082069";
@@ -49571,14 +49833,6 @@ diga_terms:2125510282 a skos:Concept;
   skos:editorialNote "Figure label in repertorio: 1.1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:138665235, diga_terms:1866816253 .
-
-diga_terms:2198716609 a skos:Concept;
-  dc:identifier "2198716609";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:3080511734;
-  skos:editorialNote "Figure label in repertorio: 1.1"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:3760579438, diga_terms:4020498719 .
 
 diga_terms:2311517077 a skos:Concept;
   dc:identifier "2311517077";
@@ -49612,14 +49866,6 @@ diga_terms:2623020308 a skos:Concept;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2282587578, diga_terms:511989384;
   foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-154_Graphic_1621419091803_7262.png> .
-
-diga_terms:2679812627 a skos:Concept;
-  dc:identifier "2679812627";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:3080511734;
-  skos:editorialNote "Figure label in repertorio: 1.3"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:1486653127, diga_terms:4164042159 .
 
 diga_terms:2732920964 a skos:Concept;
   dc:identifier "2732920964";
@@ -49850,7 +50096,7 @@ diga_terms:3029896713 a skos:Concept;
 diga_terms:3760931020 a skos:Concept;
   dc:identifier "3760931020";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:845773597;
+  skos-thes:broaderGeneric diga_terms:c_cff8466e;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:2333150140, diga_terms:2639435023;
@@ -49946,7 +50192,7 @@ diga_terms:1889466632 a skos:Concept;
 diga_terms:1994966187 a skos:Concept;
   dc:identifier "1994966187";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:4182982247;
+  skos-thes:broaderPartitive diga_terms:1645388688;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1444601816, diga_terms:3231119697;
@@ -49998,7 +50244,7 @@ diga_terms:4239748425 a skos:Concept;
 diga_terms:4969261 a skos:Concept;
   dc:identifier "4969261";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:500217756;
+  skos-thes:broaderGeneric diga_terms:646227285;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3450738176, diga_terms:3987804722;
@@ -50084,7 +50330,7 @@ diga_terms:3528407314 a skos:Concept;
 diga_terms:3772908100 a skos:Concept;
   dc:identifier "3772908100";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2177469534;
+  skos-thes:broaderGeneric diga_terms:2412577815;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3825350692, diga_terms:4215476777;
@@ -50093,7 +50339,7 @@ diga_terms:3772908100 a skos:Concept;
 diga_terms:753322088 a skos:Concept;
   dc:identifier "753322088";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2992970105;
+  skos-thes:broaderGeneric diga_terms:1152735729;
   skos:editorialNote "Figure label in repertorio: 3"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1471066376, diga_terms:3556848753;
@@ -50155,7 +50401,7 @@ diga_terms:4120369223 a skos:Concept;
 diga_terms:4182043940 a skos:Concept;
   dc:identifier "4182043940";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:801462641;
+  skos-thes:broaderPartitive diga_terms:801462641;
   skos:editorialNote "Figure label in repertorio: 1.2"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3873164757, diga_terms:439938760 .
@@ -50169,18 +50415,10 @@ diga_terms:603559952 a skos:Concept;
   skosxl:prefLabel diga_terms:4009531008, diga_terms:992221812;
   foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-210_r_7.png> .
 
-diga_terms:825001058 a skos:Concept;
-  dc:identifier "825001058";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:801462641;
-  skos:editorialNote "Figure label in repertorio: 1.1"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:2929715927, diga_terms:4184045252 .
-
 diga_terms:2513841656 a skos:Concept;
   dc:identifier "2513841656";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1263354499;
+  skos-thes:broaderGeneric diga_terms:646227285;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:1053200611, diga_terms:3300361295;
@@ -50256,7 +50494,7 @@ diga_terms:4204701864 a skos:Concept;
 diga_terms:801462641 a skos:Concept;
   dc:identifier "801462641";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:3385983409;
+  skos-thes:broaderGeneric diga_terms:2412577815;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3692592575, diga_terms:3989981876;
@@ -50298,7 +50536,7 @@ diga_terms:2740612014 a skos:Concept;
 diga_terms:2097261459 a skos:Concept;
   dc:identifier "2097261459";
   dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:2465116122;
+  skos-thes:broaderPartitive diga_terms:1645388688;
   skos:editorialNote "Figure label in repertorio: 1"@en;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:3775948963, diga_terms:700055899;
@@ -50414,14 +50652,17 @@ diga_terms:574935704 a skos:Concept;
   skosxl:prefLabel diga_terms:2008084275, diga_terms:38920307;
   foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-085_Graphic_1621325904298_1102.png> .
 
-diga_terms:509610441 a skos:Concept;
-  dc:identifier "509610441";
-  dct:source source:repertorio;
-  skos-thes:broaderGeneric diga_terms:1851166334;
-  skos:editorialNote "Figure label in repertorio: 1"@en;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skosxl:prefLabel diga_terms:4202403431, diga_terms:966464559;
-  foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-068_Graphic_1621325255242_755.png> .
+diga_terms:378185203 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
+
+diga_terms:1697248587 skos-thes:broaderPartitive diga_terms:c_f47e2c00 .
+
+diga_terms:4072865396 skos-thes:broaderPartitive diga_terms:c_f47e2c00 .
+
+diga_terms:3797922260 skos-thes:broaderPartitive diga_terms:c_b702b7bc .
+
+diga_terms:2574390928 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
+
+diga_terms:654379883 skos-thes:broaderPartitive diga_terms:c_b702b7bc, diga_terms:c_f47e2c00 .
 
 diga_terms:3237930001 a skos:Concept;
   dc:identifier "3237930001";
@@ -50828,7 +51069,7 @@ diga_terms:2903565633 skosxl:prefLabel diga_terms:xl_en_d330617f, diga_terms:xl_
 
 diga_terms:xl_it_65f6e5c3 skosxl:literalForm "훮malaka, decorato (tipo), separato"@it .
 
-diga_terms:xl_it_3302c3a2 skosxl:literalForm "arco a sesto acuto [con spessore uniforme]"@it .
+diga_terms:xl_it_3302c3a2 skosxl:literalForm "arco a sesto acuto con spessore uniforme"@it .
 
 diga_terms:815438250 skosxl:altLabel diga_terms:xl_it_890661a2;
   skosxl:prefLabel diga_terms:xl_it_e09a191b .
@@ -51250,9 +51491,8 @@ diga_terms:xl_it_9bf9e09b a skosxl:Label;
   skosxl:literalForm "tavola dello scafo"@it .
 
 diga_terms:c_9b99c454 a skos:Concept;
-  skos-thes:broaderPartitive diga_terms:c_0840d643, diga_terms:c_3140e040, diga_terms:c_5879430c;
-  dct:source source:repertorio;
-  skos-thes:broaderPartitive diga_terms:c_9df20c73;
+  skos-thes:broaderPartitive diga_terms:c_0840d643, diga_terms:c_3140e040, diga_terms:c_5879430c,
+    diga_terms:c_9df20c73;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:xl_en_b3dad2a5, diga_terms:xl_it_7e5b45fd .
 
@@ -51263,7 +51503,6 @@ diga_terms:xl_it_7e5b45fd a skosxl:Label;
   skosxl:literalForm "placca"@it .
 
 diga_terms:c_85f8dd29 a skos:Concept;
-  dct:source source:repertorio;
   skos-thes:broaderPartitive diga_terms:c_5879430c, diga_terms:c_9df20c73;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:xl_en_8281c396, diga_terms:xl_it_88e61523 .
@@ -51275,7 +51514,6 @@ diga_terms:xl_it_88e61523 a skosxl:Label;
   skosxl:literalForm "timone laterale"@it .
 
 diga_terms:c_fc7b3ba1 a skos:Concept;
-  dct:source source:repertorio;
   skos-thes:broaderGeneric diga_terms:c_b62cf088;
   skos:inScheme <https://w3id.org/diga/terms>;
   skosxl:prefLabel diga_terms:xl_en_27ced985, diga_terms:xl_it_2af34ce1 .
@@ -51286,8 +51524,7 @@ diga_terms:xl_en_27ced985 a skosxl:Label;
 diga_terms:xl_it_2af34ce1 a skosxl:Label;
   skosxl:literalForm "barca fluviale"@it .
 
-diga_terms:c_b62cf088 dct:source source:repertorio;
-  skosxl:prefLabel diga_terms:xl_it_78ef5858 .
+diga_terms:c_b62cf088 skosxl:prefLabel diga_terms:xl_it_78ef5858 .
 
 diga_terms:xl_it_78ef5858 a skosxl:Label;
   skosxl:literalForm "barca"@it .
@@ -51329,544 +51566,32 @@ diga_terms:xl_it_a93e5167 a skosxl:Label;
 diga_terms:3954081179 skos:example "curved upper edge"@en, "straight upper edge"@en,
     "terminazione sup. curvilinea"@it, "terminazione sup. rettilinea"@it .
 
-<https://w3id.org/diga/terms/> owl:imports <http://purl.org/dc/terms/> .
+diga_terms:801462641 skosxl:altLabel diga_terms:xl_en_d70f06c3, diga_terms:xl_it_c228a7aa .
 
-diga_terms:1629844188 dct:source source:repertorio;
-  skos:inScheme <https://w3id.org/diga/terms>;
-  skos:topConceptOf <https://w3id.org/diga/terms> .
+diga_terms:xl_en_d70f06c3 a skosxl:Label;
+  skosxl:literalForm "projecting arch of false niche"@en .
 
-diga_terms:3940485442 skos-thes:broaderGeneric diga_terms:2320100902 .
+diga_terms:xl_it_c228a7aa a skosxl:Label;
+  skosxl:literalForm "arco aggettante di falsa nicchia"@it .
 
-diga_terms:912360281 skos-thes:broaderGeneric diga_terms:545163129 .
+diga_terms:2410064592 skosxl:altLabel diga_terms:xl_it_50fc2535 .
 
-diga_terms:515477100 skos-thes:broaderGeneric diga_terms:3508558499 .
+diga_terms:xl_it_50fc2535 a skosxl:Label;
+  skosxl:literalForm "arco a tutto sesto a imposta rialzata con linea dell'estradosso a carena"@it .
 
-diga_terms:c_9971ea14 dct:source source:repertorio .
+diga_terms:614940407 skosxl:altLabel diga_terms:xl_it_49563c2c .
 
-diga_terms:c_1379d070 dct:source source:repertorio .
+diga_terms:xl_it_49563c2c a skosxl:Label;
+  skosxl:literalForm "arco a tutto sesto con linea dell'estradosso a carena"@it .
 
-diga_terms:c_c81bb8c2 dct:source source:repertorio .
+diga_terms:3051951188 skosxl:altLabel diga_terms:xl_it_054b6cba .
 
-diga_terms:c_0d640c10 dct:source source:repertorio .
+diga_terms:xl_it_054b6cba a skosxl:Label;
+  skosxl:literalForm "arco a tutto sesto a imposta rialzata con linea dell'estradosso a carena con volute"@it .
 
-diga_terms:c_ef524e8b dct:source source:repertorio .
+diga_terms:3104174327 skosxl:altLabel diga_terms:xl_it_b817550d .
 
-diga_terms:c_90b07019 dct:source source:repertorio .
+diga_terms:xl_it_b817550d a skosxl:Label;
+  skosxl:literalForm "arco a tutto sesto con linea dell'estradosso a carena con volute"@it .
 
-diga_terms:c_41a4be3f dct:source source:repertorio .
-
-diga_terms:c_4ba24f3c dct:source source:repertorio .
-
-diga_terms:c_6c3d7bae dct:source source:repertorio .
-
-diga_terms:c_7c1d4a8d dct:source source:repertorio .
-
-diga_terms:c_81f28c3c dct:source source:repertorio .
-
-diga_terms:c_68962d06 dct:source source:repertorio .
-
-diga_terms:c_db8e50a9 dct:source source:repertorio .
-
-diga_terms:c_a7cd0947 dct:source source:repertorio .
-
-diga_terms:c_96d20f5c dct:source source:repertorio .
-
-diga_terms:c_cff8466e dct:source source:repertorio .
-
-diga_terms:c_22e938b0 dct:source source:repertorio .
-
-diga_terms:c_6e4023c8 dct:source source:repertorio .
-
-diga_terms:c_dfd86b01 dct:source source:repertorio .
-
-diga_terms:c_8fd9afde dct:source source:repertorio .
-
-diga_terms:c_6081519c dct:source source:repertorio .
-
-diga_terms:c_f42bca53 dct:source source:repertorio .
-
-diga_terms:c_54313c41 dct:source source:repertorio .
-
-diga_terms:c_5879430c dct:source source:repertorio .
-
-diga_terms:c_1a47911b dct:source source:repertorio .
-
-diga_terms:c_a76aedfc dct:source source:repertorio .
-
-diga_terms:c_9df20c73 dct:source source:repertorio .
-
-diga_terms:c_0840d643 dct:source source:repertorio .
-
-diga_terms:c_3140e040 dct:source source:repertorio .
-
-diga_terms:c_3cbfb085 dct:source source:repertorio .
-
-diga_terms:c_794f3277 dct:source source:repertorio .
-
-diga_terms:xl_it_2eba0734 dct:source source:repertorio .
-
-diga_terms:xl_it_b3c6f977 dct:source source:repertorio .
-
-diga_terms:xl_it_f8580eba dct:source source:repertorio .
-
-diga_terms:xl_en_7cedc732 dct:source source:repertorio .
-
-diga_terms:xl_it_b9a080cd dct:source source:repertorio .
-
-diga_terms:xl_it_a604ca36 dct:source source:repertorio .
-
-diga_terms:xl_en_067bfe89 dct:source source:repertorio .
-
-diga_terms:xl_it_eaf2649a dct:source source:repertorio .
-
-diga_terms:xl_en_1586e23b dct:source source:repertorio .
-
-diga_terms:xl_en_e8ea48df dct:source source:repertorio .
-
-diga_terms:xl_en_64f81059 dct:source source:repertorio .
-
-diga_terms:xl_en_3129d958 dct:source source:repertorio .
-
-diga_terms:xl_it_ea68e287 dct:source source:repertorio .
-
-diga_terms:xl_en_5545e473 dct:source source:repertorio .
-
-diga_terms:xl_en_71c959e0 dct:source source:repertorio .
-
-diga_terms:xl_it_5c2b6e38 dct:source source:repertorio .
-
-diga_terms:xl_en_b6cffeed dct:source source:repertorio .
-
-diga_terms:xl_it_5a7c0190 dct:source source:repertorio .
-
-diga_terms:xl_en_8f36552c dct:source source:repertorio .
-
-diga_terms:xl_it_c2e5f35d dct:source source:repertorio .
-
-diga_terms:xl_en_5fbd0465 dct:source source:repertorio .
-
-diga_terms:xl_it_d69e1a30 dct:source source:repertorio .
-
-diga_terms:xl_it_a9c490fc dct:source source:repertorio .
-
-diga_terms:xl_en_6d19991a dct:source source:repertorio .
-
-diga_terms:xl_it_0e1180fa dct:source source:repertorio .
-
-diga_terms:xl_it_5b011729 dct:source source:repertorio .
-
-diga_terms:xl_it_ad294d3c dct:source source:repertorio .
-
-diga_terms:xl_it_055d62bd dct:source source:repertorio .
-
-diga_terms:xl_it_1a7f6669 dct:source source:repertorio .
-
-diga_terms:xl_it_b2974a96 dct:source source:repertorio .
-
-diga_terms:xl_it_135286d3 dct:source source:repertorio .
-
-diga_terms:xl_en_3739ebbf dct:source source:repertorio .
-
-diga_terms:xl_en_f387737f dct:source source:repertorio .
-
-diga_terms:xl_it_1475a1bf dct:source source:repertorio .
-
-diga_terms:xl_it_af3ec9f5 dct:source source:repertorio .
-
-diga_terms:xl_en_43bbf89f dct:source source:repertorio .
-
-diga_terms:xl_en_20c591f9 dct:source source:repertorio .
-
-diga_terms:xl_en_5a4d0e73 dct:source source:repertorio .
-
-diga_terms:xl_en_5588af2a dct:source source:repertorio .
-
-diga_terms:xl_en_e2d3af76 dct:source source:repertorio .
-
-diga_terms:xl_en_2ab29af0 dct:source source:repertorio .
-
-diga_terms:xl_it_f0158211 dct:source source:repertorio .
-
-diga_terms:xl_it_c7b3f3b9 dct:source source:repertorio .
-
-diga_terms:xl_en_a8390abf dct:source source:repertorio .
-
-diga_terms:xl_en_1cff4d00 dct:source source:repertorio .
-
-diga_terms:xl_en_28967f7d dct:source source:repertorio .
-
-diga_terms:xl_en_d3416657 dct:source source:repertorio .
-
-diga_terms:xl_it_0c81ae21 dct:source source:repertorio .
-
-diga_terms:xl_en_7073652c dct:source source:repertorio .
-
-diga_terms:xl_en_56405a59 dct:source source:repertorio .
-
-diga_terms:xl_it_88e6f1f9 dct:source source:repertorio .
-
-diga_terms:xl_en_068eb3fd dct:source source:repertorio .
-
-diga_terms:xl_it_e5439b4d dct:source source:repertorio .
-
-diga_terms:xl_it_22f2880a dct:source source:repertorio .
-
-diga_terms:xl_en_ff46d166 dct:source source:repertorio .
-
-diga_terms:xl_it_d0821651 dct:source source:repertorio .
-
-diga_terms:xl_it_25de666d dct:source source:repertorio .
-
-diga_terms:xl_it_88a0ced1 dct:source source:repertorio .
-
-diga_terms:xl_en_ccc8893e dct:source source:repertorio .
-
-diga_terms:xl_en_699aee0e dct:source source:repertorio .
-
-diga_terms:xl_it_82283426 dct:source source:repertorio .
-
-diga_terms:xl_en_d330617f dct:source source:repertorio .
-
-diga_terms:xl_en_79d715d2 dct:source source:repertorio .
-
-diga_terms:xl_it_4a590d41 dct:source source:repertorio .
-
-diga_terms:xl_it_62550a9c dct:source source:repertorio .
-
-diga_terms:xl_it_0b744781 dct:source source:repertorio .
-
-diga_terms:xl_it_e7df51de dct:source source:repertorio .
-
-diga_terms:xl_en_151531e5 dct:source source:repertorio .
-
-diga_terms:xl_it_c945fd2e dct:source source:repertorio .
-
-diga_terms:xl_en_93781ec0 dct:source source:repertorio .
-
-diga_terms:xl_en_cc25e378 dct:source source:repertorio .
-
-diga_terms:xl_en_3e6e067e dct:source source:repertorio .
-
-diga_terms:xl_en_fa6ac27d dct:source source:repertorio .
-
-diga_terms:xl_it_3302c3a2 dct:source source:repertorio .
-
-diga_terms:xl_it_4dcce0af dct:source source:repertorio .
-
-diga_terms:xl_it_0bfd9558 dct:source source:repertorio .
-
-diga_terms:xl_en_151d0e4d dct:source source:repertorio .
-
-diga_terms:xl_en_f106281e dct:source source:repertorio .
-
-diga_terms:xl_it_22d66862 dct:source source:repertorio .
-
-diga_terms:xl_it_3a88f86b dct:source source:repertorio .
-
-diga_terms:xl_en_a319a71c dct:source source:repertorio .
-
-diga_terms:xl_en_baa506a9 dct:source source:repertorio .
-
-diga_terms:xl_en_95ccbf4c dct:source source:repertorio .
-
-diga_terms:xl_en_9fb5cdae dct:source source:repertorio .
-
-diga_terms:xl_en_534b434c dct:source source:repertorio .
-
-diga_terms:xl_it_13b7f67d dct:source source:repertorio .
-
-diga_terms:xl_it_d76587bb dct:source source:repertorio .
-
-diga_terms:xl_it_eb850e96 dct:source source:repertorio .
-
-diga_terms:xl_en_78e01bc4 dct:source source:repertorio .
-
-diga_terms:xl_en_94b992eb dct:source source:repertorio .
-
-diga_terms:xl_it_77dad3ab dct:source source:repertorio .
-
-diga_terms:xl_it_65f6e5c3 dct:source source:repertorio .
-
-diga_terms:xl_it_a9de12cb dct:source source:repertorio .
-
-diga_terms:xl_it_fef978f5 dct:source source:repertorio .
-
-diga_terms:xl_en_d356a31b dct:source source:repertorio .
-
-diga_terms:xl_en_42f35bab dct:source source:repertorio .
-
-diga_terms:xl_en_7ab37317 dct:source source:repertorio .
-
-diga_terms:xl_it_e5c11d4c dct:source source:repertorio .
-
-diga_terms:xl_en_fb192d98 dct:source source:repertorio .
-
-diga_terms:xl_it_e5b550ad dct:source source:repertorio .
-
-diga_terms:xl_it_f292c28d dct:source source:repertorio .
-
-diga_terms:xl_en_351eb1e3 dct:source source:repertorio .
-
-diga_terms:xl_en_aab1386e dct:source source:repertorio .
-
-diga_terms:xl_it_cf7bdb3f dct:source source:repertorio .
-
-diga_terms:xl_en_3075f0ea dct:source source:repertorio .
-
-diga_terms:xl_en_ca22e524 dct:source source:repertorio .
-
-diga_terms:xl_en_722c4dbd dct:source source:repertorio .
-
-diga_terms:xl_en_fa7fbfca dct:source source:repertorio .
-
-diga_terms:xl_en_2a32b163 dct:source source:repertorio .
-
-diga_terms:xl_en_849d254e dct:source source:repertorio .
-
-diga_terms:xl_en_542cd0a2 dct:source source:repertorio .
-
-diga_terms:xl_en_e3fd09b4 dct:source source:repertorio .
-
-diga_terms:xl_en_6eec8505 dct:source source:repertorio .
-
-diga_terms:xl_en_79c2fe8e dct:source source:repertorio .
-
-diga_terms:xl_en_80a12c46 dct:source source:repertorio .
-
-diga_terms:xl_en_46110ed4 dct:source source:repertorio .
-
-diga_terms:xl_en_e1dfb3c2 dct:source source:repertorio .
-
-diga_terms:xl_en_4527cfed dct:source source:repertorio .
-
-diga_terms:xl_it_6ba5959e dct:source source:repertorio .
-
-diga_terms:xl_it_868d14ab dct:source source:repertorio .
-
-diga_terms:xl_it_0dadab95 dct:source source:repertorio .
-
-diga_terms:xl_it_0af132c4 dct:source source:repertorio .
-
-diga_terms:xl_it_e92f8ca1 dct:source source:repertorio .
-
-diga_terms:xl_it_93b4d5d2 dct:source source:repertorio .
-
-diga_terms:xl_it_1a2691c9 dct:source source:repertorio .
-
-diga_terms:xl_it_76d702ed dct:source source:repertorio .
-
-diga_terms:xl_it_b4277a3a dct:source source:repertorio .
-
-diga_terms:xl_it_1c9f3848 dct:source source:repertorio .
-
-diga_terms:xl_en_cf501d56 dct:source source:repertorio .
-
-diga_terms:xl_en_4981683d dct:source source:repertorio .
-
-diga_terms:xl_it_c359a73f dct:source source:repertorio .
-
-diga_terms:xl_en_50fd4f2d dct:source source:repertorio .
-
-diga_terms:xl_it_b0cfcd2a dct:source source:repertorio .
-
-diga_terms:xl_en_a3e02ec9 dct:source source:repertorio .
-
-diga_terms:xl_it_2cabec52 dct:source source:repertorio .
-
-diga_terms:xl_it_8d704fc7 dct:source source:repertorio .
-
-diga_terms:xl_en_946ef60d dct:source source:repertorio .
-
-diga_terms:xl_it_887974da dct:source source:repertorio .
-
-diga_terms:xl_en_454b9c42 dct:source source:repertorio .
-
-diga_terms:xl_it_44c01619 dct:source source:repertorio .
-
-diga_terms:xl_en_c9e26656 dct:source source:repertorio .
-
-diga_terms:xl_en_8fbf6adf dct:source source:repertorio .
-
-diga_terms:xl_en_501a5a5c dct:source source:repertorio .
-
-diga_terms:xl_it_0076d51b dct:source source:repertorio .
-
-diga_terms:xl_it_ef72e8cf dct:source source:repertorio .
-
-diga_terms:xl_it_e09a191b dct:source source:repertorio .
-
-diga_terms:xl_it_890661a2 dct:source source:repertorio .
-
-diga_terms:xl_it_be1e3df9 dct:source source:repertorio .
-
-diga_terms:xl_en_7d47f513 dct:source source:repertorio .
-
-diga_terms:xl_en_d3b7168a dct:source source:repertorio .
-
-diga_terms:xl_it_122acea9 dct:source source:repertorio .
-
-diga_terms:xl_en_196fb6e2 dct:source source:repertorio .
-
-diga_terms:xl_it_8ac4d001 dct:source source:repertorio .
-
-diga_terms:xl_en_c62af28e dct:source source:repertorio .
-
-diga_terms:xl_it_74308e29 dct:source source:repertorio .
-
-diga_terms:xl_en_cdcb8444 dct:source source:repertorio .
-
-diga_terms:xl_it_d9d91e4a dct:source source:repertorio .
-
-diga_terms:xl_en_de80bf3c dct:source source:repertorio .
-
-diga_terms:xl_en_b6286167 dct:source source:repertorio .
-
-diga_terms:xl_it_0c7213a9 dct:source source:repertorio .
-
-diga_terms:xl_it_f7fc0143 dct:source source:repertorio .
-
-diga_terms:xl_en_b5f9d8aa dct:source source:repertorio .
-
-diga_terms:xl_it_166b5d19 dct:source source:repertorio .
-
-diga_terms:xl_en_93591f3f dct:source source:repertorio .
-
-diga_terms:xl_it_864890af dct:source source:repertorio .
-
-diga_terms:xl_en_18bd7010 dct:source source:repertorio .
-
-diga_terms:xl_it_cc0893f4 dct:source source:repertorio .
-
-diga_terms:xl_it_b5a79026 dct:source source:repertorio .
-
-diga_terms:xl_en_99578c37 dct:source source:repertorio .
-
-diga_terms:xl_it_c6f65eac dct:source source:repertorio .
-
-diga_terms:xl_it_6108a297 dct:source source:repertorio .
-
-diga_terms:xl_en_31d66e3f dct:source source:repertorio .
-
-diga_terms:xl_it_ff901c2e dct:source source:repertorio .
-
-diga_terms:xl_en_fc48ed22 dct:source source:repertorio .
-
-diga_terms:xl_it_0fab511f dct:source source:repertorio .
-
-diga_terms:xl_en_da2d1cde dct:source source:repertorio .
-
-diga_terms:xl_en_18a45973 dct:source source:repertorio .
-
-diga_terms:xl_it_c278bcad dct:source source:repertorio .
-
-diga_terms:xl_it_3997c87d dct:source source:repertorio .
-
-diga_terms:xl_en_0a1725fb dct:source source:repertorio .
-
-diga_terms:xl_en_77a60309 dct:source source:repertorio .
-
-diga_terms:xl_en_c172131a dct:source source:repertorio .
-
-diga_terms:xl_it_ca2de372 dct:source source:repertorio .
-
-diga_terms:xl_it_ae37b6fe dct:source source:repertorio .
-
-diga_terms:xl_en_337f3e45 dct:source source:repertorio .
-
-diga_terms:xl_it_4c9a6fcc dct:source source:repertorio .
-
-diga_terms:xl_en_b3ad9243 dct:source source:repertorio .
-
-diga_terms:xl_en_4fdd1ec5 dct:source source:repertorio .
-
-diga_terms:xl_en_e4b64651 dct:source source:repertorio .
-
-diga_terms:xl_en_ce53bc0a dct:source source:repertorio .
-
-diga_terms:xl_en_fca7daed dct:source source:repertorio .
-
-diga_terms:xl_it_fffac8b7 dct:source source:repertorio .
-
-diga_terms:xl_it_df2fdf09 dct:source source:repertorio .
-
-diga_terms:xl_it_63a71b5b dct:source source:repertorio .
-
-diga_terms:xl_en_7cc0d886 dct:source source:repertorio .
-
-diga_terms:xl_en_27224902 dct:source source:repertorio .
-
-diga_terms:xl_it_08226ee4 dct:source source:repertorio .
-
-diga_terms:xl_it_8fa49163 dct:source source:repertorio .
-
-diga_terms:xl_en_8c0c0320 dct:source source:repertorio .
-
-diga_terms:xl_en_f8de9e23 dct:source source:repertorio .
-
-diga_terms:xl_en_60a17fd9 dct:source source:repertorio .
-
-diga_terms:xl_en_9d50c043 dct:source source:repertorio .
-
-diga_terms:xl_it_49d395ae dct:source source:repertorio .
-
-diga_terms:xl_it_b0dfca63 dct:source source:repertorio .
-
-diga_terms:xl_it_28b6d30b dct:source source:repertorio .
-
-diga_terms:xl_it_1020650d dct:source source:repertorio .
-
-diga_terms:xl_en_724474e3 dct:source source:repertorio .
-
-diga_terms:xl_en_c58ff198 dct:source source:repertorio .
-
-diga_terms:xl_en_6bac9ab1 dct:source source:repertorio .
-
-diga_terms:xl_en_846fbb45 dct:source source:repertorio .
-
-diga_terms:xl_it_681a8de2 dct:source source:repertorio .
-
-diga_terms:xl_en_fe45dbd6 dct:source source:repertorio .
-
-diga_terms:xl_it_fc0e5c50 dct:source source:repertorio .
-
-diga_terms:xl_en_d4c5d42a dct:source source:repertorio .
-
-diga_terms:xl_it_81fa403e dct:source source:repertorio .
-
-diga_terms:xl_en_076389a1 dct:source source:repertorio .
-
-diga_terms:xl_en_e659f9d7 dct:source source:repertorio .
-
-diga_terms:xl_it_338b3d54 dct:source source:repertorio .
-
-diga_terms:xl_it_9bf9e09b dct:source source:repertorio .
-
-diga_terms:xl_en_b3dad2a5 dct:source source:repertorio .
-
-diga_terms:xl_it_7e5b45fd dct:source source:repertorio .
-
-diga_terms:xl_en_8281c396 dct:source source:repertorio .
-
-diga_terms:xl_it_88e61523 dct:source source:repertorio .
-
-diga_terms:xl_en_27ced985 dct:source source:repertorio .
-
-diga_terms:xl_it_2af34ce1 dct:source source:repertorio .
-
-diga_terms:xl_it_78ef5858 dct:source source:repertorio .
-
-diga_terms:xl_it_798447bf dct:source source:repertorio .
-
-diga_terms:xl_en_bede1ca2 dct:source source:repertorio .
-
-diga_terms:xl_it_a50786f1 dct:source source:repertorio .
-
-diga_terms:xl_en_096b2d69 dct:source source:repertorio .
-
-diga_terms:xl_it_a93e5167 dct:source source:repertorio .
-
-diga_terms:2320100902 dc:identifier "2320100902" .
-
-diga_terms:545163129 dc:identifier "545163129" .
-
-diga_terms:3508558499 dc:identifier "3508558499" .
+diga_terms:1000747715 foaf:depiction <https://w3id.org/diga/illustrations/1000747715> .
