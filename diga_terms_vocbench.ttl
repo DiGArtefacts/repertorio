@@ -51595,3 +51595,1573 @@ diga_terms:xl_it_b817550d a skosxl:Label;
   skosxl:literalForm "arco a tutto sesto con linea dell'estradosso a carena con volute"@it .
 
 diga_terms:1000747715 foaf:depiction <https://w3id.org/diga/illustrations/1000747715> .
+
+diga_terms:1035523561 foaf:depiction <https://w3id.org/diga/illustrations/1035523561> .
+
+diga_terms:1036537964 foaf:depiction <https://w3id.org/diga/illustrations/1036537964> .
+
+diga_terms:1050951876 foaf:depiction <https://w3id.org/diga/illustrations/1050951876> .
+
+diga_terms:1055893009 foaf:depiction <https://w3id.org/diga/illustrations/1055893009> .
+
+diga_terms:1070667108 foaf:depiction <https://w3id.org/diga/illustrations/1070667108> .
+
+diga_terms:1080803200 foaf:depiction <https://w3id.org/diga/illustrations/1080803200> .
+
+diga_terms:1087255512 foaf:depiction <https://w3id.org/diga/illustrations/1087255512> .
+
+diga_terms:1092682519 foaf:depiction <https://w3id.org/diga/illustrations/1092682519> .
+
+diga_terms:109318726 foaf:depiction <https://w3id.org/diga/illustrations/109318726> .
+
+diga_terms:1124757375 foaf:depiction <https://w3id.org/diga/illustrations/1124757375> .
+
+diga_terms:1128994496 foaf:depiction <https://w3id.org/diga/illustrations/1128994496> .
+
+diga_terms:1133034121 foaf:depiction <https://w3id.org/diga/illustrations/1133034121> .
+
+diga_terms:1134134584 foaf:depiction <https://w3id.org/diga/illustrations/1134134584> .
+
+diga_terms:1140398037 foaf:depiction <https://w3id.org/diga/illustrations/1140398037> .
+
+diga_terms:1145318320 foaf:depiction <https://w3id.org/diga/illustrations/1145318320> .
+
+diga_terms:1145614254 foaf:depiction <https://w3id.org/diga/illustrations/1145614254> .
+
+diga_terms:1148676900 foaf:depiction <https://w3id.org/diga/illustrations/1148676900> .
+
+diga_terms:1158661570 foaf:depiction <https://w3id.org/diga/illustrations/1158661570> .
+
+diga_terms:1175877344 foaf:depiction <https://w3id.org/diga/illustrations/1175877344> .
+
+diga_terms:1182114241 foaf:depiction <https://w3id.org/diga/illustrations/1182114241> .
+
+diga_terms:1183107949 foaf:depiction <https://w3id.org/diga/illustrations/1183107949> .
+
+diga_terms:1183723816 foaf:depiction <https://w3id.org/diga/illustrations/1183723816> .
+
+diga_terms:1194393085 foaf:depiction <https://w3id.org/diga/illustrations/1194393085> .
+
+diga_terms:1197618265 foaf:depiction <https://w3id.org/diga/illustrations/1197618265> .
+
+diga_terms:1216361410 foaf:depiction <https://w3id.org/diga/illustrations/1216361410> .
+
+diga_terms:1217020261 foaf:depiction <https://w3id.org/diga/illustrations/1217020261> .
+
+diga_terms:1229329640 foaf:depiction <https://w3id.org/diga/illustrations/1229329640> .
+
+diga_terms:1239857589 foaf:depiction <https://w3id.org/diga/illustrations/1239857589> .
+
+diga_terms:1240015035 foaf:depiction <https://w3id.org/diga/illustrations/1240015035> .
+
+diga_terms:1242897294 foaf:depiction <https://w3id.org/diga/illustrations/1242897294> .
+
+diga_terms:124487245 foaf:depiction <https://w3id.org/diga/illustrations/124487245> .
+
+diga_terms:1246562034 foaf:depiction <https://w3id.org/diga/illustrations/1246562034> .
+
+diga_terms:1247585748 foaf:depiction <https://w3id.org/diga/illustrations/1247585748> .
+
+diga_terms:125777748 foaf:depiction <https://w3id.org/diga/illustrations/125777748> .
+
+diga_terms:1278850118 foaf:depiction <https://w3id.org/diga/illustrations/1278850118> .
+
+diga_terms:1290839611 foaf:depiction <https://w3id.org/diga/illustrations/1290839611> .
+
+diga_terms:130039487 foaf:depiction <https://w3id.org/diga/illustrations/130039487> .
+
+diga_terms:1309256391 foaf:depiction <https://w3id.org/diga/illustrations/1309256391> .
+
+diga_terms:1322091716 foaf:depiction <https://w3id.org/diga/illustrations/1322091716> .
+
+diga_terms:1349995160 foaf:depiction <https://w3id.org/diga/illustrations/1349995160> .
+
+diga_terms:136199318 foaf:depiction <https://w3id.org/diga/illustrations/136199318> .
+
+diga_terms:1364272679 foaf:depiction <https://w3id.org/diga/illustrations/1364272679> .
+
+diga_terms:1382502833 foaf:depiction <https://w3id.org/diga/illustrations/1382502833> .
+
+diga_terms:138477585 foaf:depiction <https://w3id.org/diga/illustrations/138477585> .
+
+diga_terms:1399555335 foaf:depiction <https://w3id.org/diga/illustrations/1399555335> .
+
+diga_terms:1412000400 foaf:depiction <https://w3id.org/diga/illustrations/1412000400> .
+
+diga_terms:1412175229 foaf:depiction <https://w3id.org/diga/illustrations/1412175229> .
+
+diga_terms:1419435319 foaf:depiction <https://w3id.org/diga/illustrations/1419435319> .
+
+diga_terms:1441913861 foaf:depiction <https://w3id.org/diga/illustrations/1441913861> .
+
+diga_terms:1443233155 foaf:depiction <https://w3id.org/diga/illustrations/1443233155> .
+
+diga_terms:1455825836 foaf:depiction <https://w3id.org/diga/illustrations/1455825836> .
+
+diga_terms:1458334171 foaf:depiction <https://w3id.org/diga/illustrations/1458334171> .
+
+diga_terms:1471884871 foaf:depiction <https://w3id.org/diga/illustrations/1471884871> .
+
+diga_terms:1473095025 foaf:depiction <https://w3id.org/diga/illustrations/1473095025> .
+
+diga_terms:1478676491 foaf:depiction <https://w3id.org/diga/illustrations/1478676491> .
+
+diga_terms:1480001991 foaf:depiction <https://w3id.org/diga/illustrations/1480001991> .
+
+diga_terms:1483637870 foaf:depiction <https://w3id.org/diga/illustrations/1483637870> .
+
+diga_terms:1496756135 foaf:depiction <https://w3id.org/diga/illustrations/1496756135> .
+
+diga_terms:152592182 foaf:depiction <https://w3id.org/diga/illustrations/152592182> .
+
+diga_terms:1536690025 foaf:depiction <https://w3id.org/diga/illustrations/1536690025> .
+
+diga_terms:1539335285 foaf:depiction <https://w3id.org/diga/illustrations/1539335285> .
+
+diga_terms:1561115705 foaf:depiction <https://w3id.org/diga/illustrations/1561115705> .
+
+diga_terms:1564234337 foaf:depiction <https://w3id.org/diga/illustrations/1564234337> .
+
+diga_terms:1578244070 foaf:depiction <https://w3id.org/diga/illustrations/1578244070> .
+
+diga_terms:1588254212 foaf:depiction <https://w3id.org/diga/illustrations/1588254212> .
+
+diga_terms:1593160242 foaf:depiction <https://w3id.org/diga/illustrations/1593160242> .
+
+diga_terms:1600827076 foaf:depiction <https://w3id.org/diga/illustrations/1600827076> .
+
+diga_terms:1605067510 foaf:depiction <https://w3id.org/diga/illustrations/1605067510> .
+
+diga_terms:1634036449 foaf:depiction <https://w3id.org/diga/illustrations/1634036449> .
+
+diga_terms:1640017418 foaf:depiction <https://w3id.org/diga/illustrations/1640017418> .
+
+diga_terms:1642021234 foaf:depiction <https://w3id.org/diga/illustrations/1642021234> .
+
+diga_terms:1644908783 foaf:depiction <https://w3id.org/diga/illustrations/1644908783> .
+
+diga_terms:1673332 foaf:depiction <https://w3id.org/diga/illustrations/1673332> .
+
+diga_terms:1676488481 foaf:depiction <https://w3id.org/diga/illustrations/1676488481> .
+
+diga_terms:1681753865 foaf:depiction <https://w3id.org/diga/illustrations/1681753865> .
+
+diga_terms:1692362164 foaf:depiction <https://w3id.org/diga/illustrations/1692362164> .
+
+diga_terms:1699204008 foaf:depiction <https://w3id.org/diga/illustrations/1699204008> .
+
+diga_terms:1700205106 foaf:depiction <https://w3id.org/diga/illustrations/1700205106> .
+
+diga_terms:1710787873 foaf:depiction <https://w3id.org/diga/illustrations/1710787873> .
+
+diga_terms:1724048595 foaf:depiction <https://w3id.org/diga/illustrations/1724048595> .
+
+diga_terms:1727270826 foaf:depiction <https://w3id.org/diga/illustrations/1727270826> .
+
+diga_terms:1727859156 foaf:depiction <https://w3id.org/diga/illustrations/1727859156> .
+
+diga_terms:1728032822 foaf:depiction <https://w3id.org/diga/illustrations/1728032822> .
+
+diga_terms:1730014591 foaf:depiction <https://w3id.org/diga/illustrations/1730014591> .
+
+diga_terms:1742387565 foaf:depiction <https://w3id.org/diga/illustrations/1742387565> .
+
+diga_terms:1743908066 foaf:depiction <https://w3id.org/diga/illustrations/1743908066> .
+
+diga_terms:1748783110 foaf:depiction <https://w3id.org/diga/illustrations/1748783110> .
+
+diga_terms:1750101068 foaf:depiction <https://w3id.org/diga/illustrations/1750101068> .
+
+diga_terms:176285216 foaf:depiction <https://w3id.org/diga/illustrations/176285216> .
+
+diga_terms:1766168666 foaf:depiction <https://w3id.org/diga/illustrations/1766168666> .
+
+diga_terms:1768946781 foaf:depiction <https://w3id.org/diga/illustrations/1768946781> .
+
+diga_terms:1773199613 foaf:depiction <https://w3id.org/diga/illustrations/1773199613> .
+
+diga_terms:1777502219 foaf:depiction <https://w3id.org/diga/illustrations/1777502219> .
+
+diga_terms:1787652359 foaf:depiction <https://w3id.org/diga/illustrations/1787652359> .
+
+diga_terms:1791328892 foaf:depiction <https://w3id.org/diga/illustrations/1791328892> .
+
+diga_terms:1802671833 foaf:depiction <https://w3id.org/diga/illustrations/1802671833> .
+
+diga_terms:1803558460 foaf:depiction <https://w3id.org/diga/illustrations/1803558460> .
+
+diga_terms:1805298157 foaf:depiction <https://w3id.org/diga/illustrations/1805298157> .
+
+diga_terms:1805712895 foaf:depiction <https://w3id.org/diga/illustrations/1805712895> .
+
+diga_terms:1806907866 foaf:depiction <https://w3id.org/diga/illustrations/1806907866> .
+
+diga_terms:1807907748 foaf:depiction <https://w3id.org/diga/illustrations/1807907748> .
+
+diga_terms:182427892 foaf:depiction <https://w3id.org/diga/illustrations/182427892> .
+
+diga_terms:1826888589 foaf:depiction <https://w3id.org/diga/illustrations/1826888589> .
+
+diga_terms:1830848087 foaf:depiction <https://w3id.org/diga/illustrations/1830848087> .
+
+diga_terms:1837226816 foaf:depiction <https://w3id.org/diga/illustrations/1837226816> .
+
+diga_terms:1843562663 foaf:depiction <https://w3id.org/diga/illustrations/1843562663> .
+
+diga_terms:1845418774 foaf:depiction <https://w3id.org/diga/illustrations/1845418774> .
+
+diga_terms:1850476869 foaf:depiction <https://w3id.org/diga/illustrations/1850476869> .
+
+diga_terms:1864793844 foaf:depiction <https://w3id.org/diga/illustrations/1864793844> .
+
+diga_terms:1871886018 foaf:depiction <https://w3id.org/diga/illustrations/1871886018> .
+
+diga_terms:1873907133 foaf:depiction <https://w3id.org/diga/illustrations/1873907133> .
+
+diga_terms:1878016304 foaf:depiction <https://w3id.org/diga/illustrations/1878016304> .
+
+diga_terms:1880715650 foaf:depiction <https://w3id.org/diga/illustrations/1880715650> .
+
+diga_terms:1881114979 foaf:depiction <https://w3id.org/diga/illustrations/1881114979> .
+
+diga_terms:1923440886 foaf:depiction <https://w3id.org/diga/illustrations/1923440886> .
+
+diga_terms:1926420766 foaf:depiction <https://w3id.org/diga/illustrations/1926420766> .
+
+diga_terms:1926682327 foaf:depiction <https://w3id.org/diga/illustrations/1926682327> .
+
+diga_terms:1935488852 foaf:depiction <https://w3id.org/diga/illustrations/1935488852> .
+
+diga_terms:1940501973 foaf:depiction <https://w3id.org/diga/illustrations/1940501973> .
+
+diga_terms:1969486271 foaf:depiction <https://w3id.org/diga/illustrations/1969486271> .
+
+diga_terms:19742819 foaf:depiction <https://w3id.org/diga/illustrations/19742819> .
+
+diga_terms:1982488836 foaf:depiction <https://w3id.org/diga/illustrations/1982488836> .
+
+diga_terms:2004627338 foaf:depiction <https://w3id.org/diga/illustrations/2004627338> .
+
+diga_terms:2005160692 foaf:depiction <https://w3id.org/diga/illustrations/2005160692> .
+
+diga_terms:2005235332 foaf:depiction <https://w3id.org/diga/illustrations/2005235332> .
+
+diga_terms:2014618700 foaf:depiction <https://w3id.org/diga/illustrations/2014618700> .
+
+diga_terms:2036012047 foaf:depiction <https://w3id.org/diga/illustrations/2036012047> .
+
+diga_terms:2037117253 foaf:depiction <https://w3id.org/diga/illustrations/2037117253> .
+
+diga_terms:2038610064 foaf:depiction <https://w3id.org/diga/illustrations/2038610064> .
+
+diga_terms:2053968348 foaf:depiction <https://w3id.org/diga/illustrations/2053968348> .
+
+diga_terms:2056297312 foaf:depiction <https://w3id.org/diga/illustrations/2056297312> .
+
+diga_terms:2056497325 foaf:depiction <https://w3id.org/diga/illustrations/2056497325> .
+
+diga_terms:2071379191 foaf:depiction <https://w3id.org/diga/illustrations/2071379191> .
+
+diga_terms:2072408953 foaf:depiction <https://w3id.org/diga/illustrations/2072408953> .
+
+diga_terms:2082243019 foaf:depiction <https://w3id.org/diga/illustrations/2082243019> .
+
+diga_terms:2086626447 foaf:depiction <https://w3id.org/diga/illustrations/2086626447> .
+
+diga_terms:2097522566 foaf:depiction <https://w3id.org/diga/illustrations/2097522566> .
+
+diga_terms:2109794799 foaf:depiction <https://w3id.org/diga/illustrations/2109794799> .
+
+diga_terms:2110816851 foaf:depiction <https://w3id.org/diga/illustrations/2110816851> .
+
+diga_terms:2117956264 foaf:depiction <https://w3id.org/diga/illustrations/2117956264> .
+
+diga_terms:2122714914 foaf:depiction <https://w3id.org/diga/illustrations/2122714914> .
+
+diga_terms:2126636278 foaf:depiction <https://w3id.org/diga/illustrations/2126636278> .
+
+diga_terms:2127953427 foaf:depiction <https://w3id.org/diga/illustrations/2127953427> .
+
+diga_terms:2128423993 foaf:depiction <https://w3id.org/diga/illustrations/2128423993> .
+
+diga_terms:2140676991 foaf:depiction <https://w3id.org/diga/illustrations/2140676991> .
+
+diga_terms:2141489290 foaf:depiction <https://w3id.org/diga/illustrations/2141489290> .
+
+diga_terms:2144832819 foaf:depiction <https://w3id.org/diga/illustrations/2144832819> .
+
+diga_terms:2147498070 foaf:depiction <https://w3id.org/diga/illustrations/2147498070> .
+
+diga_terms:2162260406 foaf:depiction <https://w3id.org/diga/illustrations/2162260406> .
+
+diga_terms:2168281055 foaf:depiction <https://w3id.org/diga/illustrations/2168281055> .
+
+diga_terms:2172856298 foaf:depiction <https://w3id.org/diga/illustrations/2172856298> .
+
+diga_terms:217392211 foaf:depiction <https://w3id.org/diga/illustrations/217392211> .
+
+diga_terms:217830186 foaf:depiction <https://w3id.org/diga/illustrations/217830186> .
+
+diga_terms:2186788292 foaf:depiction <https://w3id.org/diga/illustrations/2186788292> .
+
+diga_terms:220822324 foaf:depiction <https://w3id.org/diga/illustrations/220822324> .
+
+diga_terms:225563527 foaf:depiction <https://w3id.org/diga/illustrations/225563527> .
+
+diga_terms:2262148490 foaf:depiction <https://w3id.org/diga/illustrations/2262148490> .
+
+diga_terms:2263789582 foaf:depiction <https://w3id.org/diga/illustrations/2263789582> .
+
+diga_terms:2281027281 foaf:depiction <https://w3id.org/diga/illustrations/2281027281> .
+
+diga_terms:2282837463 foaf:depiction <https://w3id.org/diga/illustrations/2282837463> .
+
+diga_terms:2286937805 foaf:depiction <https://w3id.org/diga/illustrations/2286937805> .
+
+diga_terms:229028608 foaf:depiction <https://w3id.org/diga/illustrations/229028608> .
+
+diga_terms:2290519443 foaf:depiction <https://w3id.org/diga/illustrations/2290519443> .
+
+diga_terms:2294158031 foaf:depiction <https://w3id.org/diga/illustrations/2294158031> .
+
+diga_terms:2313025879 foaf:depiction <https://w3id.org/diga/illustrations/2313025879> .
+
+diga_terms:2329368347 foaf:depiction <https://w3id.org/diga/illustrations/2329368347> .
+
+diga_terms:2333635126 foaf:depiction <https://w3id.org/diga/illustrations/2333635126> .
+
+diga_terms:2339210935 foaf:depiction <https://w3id.org/diga/illustrations/2339210935> .
+
+diga_terms:2353715825 foaf:depiction <https://w3id.org/diga/illustrations/2353715825> .
+
+diga_terms:2369515788 foaf:depiction <https://w3id.org/diga/illustrations/2369515788> .
+
+diga_terms:2378151501 foaf:depiction <https://w3id.org/diga/illustrations/2378151501> .
+
+diga_terms:2386562371 foaf:depiction <https://w3id.org/diga/illustrations/2386562371> .
+
+diga_terms:238849423 foaf:depiction <https://w3id.org/diga/illustrations/238849423> .
+
+diga_terms:2393896061 foaf:depiction <https://w3id.org/diga/illustrations/2393896061> .
+
+diga_terms:2410064592 foaf:depiction <https://w3id.org/diga/illustrations/2410064592> .
+
+diga_terms:2426696400 foaf:depiction <https://w3id.org/diga/illustrations/2426696400> .
+
+diga_terms:2427925024 foaf:depiction <https://w3id.org/diga/illustrations/2427925024> .
+
+diga_terms:2430794826 foaf:depiction <https://w3id.org/diga/illustrations/2430794826> .
+
+diga_terms:2435138748 foaf:depiction <https://w3id.org/diga/illustrations/2435138748> .
+
+diga_terms:244026137 foaf:depiction <https://w3id.org/diga/illustrations/244026137> .
+
+diga_terms:244151960 foaf:depiction <https://w3id.org/diga/illustrations/244151960> .
+
+diga_terms:2448716492 foaf:depiction <https://w3id.org/diga/illustrations/2448716492> .
+
+diga_terms:2452730616 foaf:depiction <https://w3id.org/diga/illustrations/2452730616> .
+
+diga_terms:2455666474 foaf:depiction <https://w3id.org/diga/illustrations/2455666474> .
+
+diga_terms:2460535253 foaf:depiction <https://w3id.org/diga/illustrations/2460535253> .
+
+diga_terms:2465814807 foaf:depiction <https://w3id.org/diga/illustrations/2465814807> .
+
+diga_terms:2486255654 foaf:depiction <https://w3id.org/diga/illustrations/2486255654> .
+
+diga_terms:2508647833 foaf:depiction <https://w3id.org/diga/illustrations/2508647833> .
+
+diga_terms:2517376491 foaf:depiction <https://w3id.org/diga/illustrations/2517376491> .
+
+diga_terms:25274052 foaf:depiction <https://w3id.org/diga/illustrations/25274052> .
+
+diga_terms:2543677346 foaf:depiction <https://w3id.org/diga/illustrations/2543677346> .
+
+diga_terms:2544890839 foaf:depiction <https://w3id.org/diga/illustrations/2544890839> .
+
+diga_terms:2552430891 foaf:depiction <https://w3id.org/diga/illustrations/2552430891> .
+
+diga_terms:2562508803 foaf:depiction <https://w3id.org/diga/illustrations/2562508803> .
+
+diga_terms:2566697446 foaf:depiction <https://w3id.org/diga/illustrations/2566697446> .
+
+diga_terms:2593931609 foaf:depiction <https://w3id.org/diga/illustrations/2593931609> .
+
+diga_terms:2601888819 foaf:depiction <https://w3id.org/diga/illustrations/2601888819> .
+
+diga_terms:2605863740 foaf:depiction <https://w3id.org/diga/illustrations/2605863740> .
+
+diga_terms:2608638586 foaf:depiction <https://w3id.org/diga/illustrations/2608638586> .
+
+diga_terms:2616663499 foaf:depiction <https://w3id.org/diga/illustrations/2616663499> .
+
+diga_terms:2621642524 foaf:depiction <https://w3id.org/diga/illustrations/2621642524> .
+
+diga_terms:2659843975 foaf:depiction <https://w3id.org/diga/illustrations/2659843975> .
+
+diga_terms:26663955 foaf:depiction <https://w3id.org/diga/illustrations/26663955> .
+
+diga_terms:2678374282 foaf:depiction <https://w3id.org/diga/illustrations/2678374282> .
+
+diga_terms:2678638173 foaf:depiction <https://w3id.org/diga/illustrations/2678638173> .
+
+diga_terms:2681568138 foaf:depiction <https://w3id.org/diga/illustrations/2681568138> .
+
+diga_terms:2685968913 foaf:depiction <https://w3id.org/diga/illustrations/2685968913> .
+
+diga_terms:2697211046 foaf:depiction <https://w3id.org/diga/illustrations/2697211046> .
+
+diga_terms:2709205793 foaf:depiction <https://w3id.org/diga/illustrations/2709205793> .
+
+diga_terms:2709442454 foaf:depiction <https://w3id.org/diga/illustrations/2709442454> .
+
+diga_terms:2725321120 foaf:depiction <https://w3id.org/diga/illustrations/2725321120> .
+
+diga_terms:2730134865 foaf:depiction <https://w3id.org/diga/illustrations/2730134865> .
+
+diga_terms:2747549986 foaf:depiction <https://w3id.org/diga/illustrations/2747549986> .
+
+diga_terms:2754718920 foaf:depiction <https://w3id.org/diga/illustrations/2754718920> .
+
+diga_terms:2756254275 foaf:depiction <https://w3id.org/diga/illustrations/2756254275> .
+
+diga_terms:2766956372 foaf:depiction <https://w3id.org/diga/illustrations/2766956372> .
+
+diga_terms:2783582729 foaf:depiction <https://w3id.org/diga/illustrations/2783582729> .
+
+diga_terms:2822196956 foaf:depiction <https://w3id.org/diga/illustrations/2822196956> .
+
+diga_terms:2831817369 foaf:depiction <https://w3id.org/diga/illustrations/2831817369> .
+
+diga_terms:2842314444 foaf:depiction <https://w3id.org/diga/illustrations/2842314444> .
+
+diga_terms:2843076796 foaf:depiction <https://w3id.org/diga/illustrations/2843076796> .
+
+diga_terms:2851834260 foaf:depiction <https://w3id.org/diga/illustrations/2851834260> .
+
+diga_terms:2861137533 foaf:depiction <https://w3id.org/diga/illustrations/2861137533> .
+
+diga_terms:2886558568 foaf:depiction <https://w3id.org/diga/illustrations/2886558568> .
+
+diga_terms:2889382454 foaf:depiction <https://w3id.org/diga/illustrations/2889382454> .
+
+diga_terms:2889773034 foaf:depiction <https://w3id.org/diga/illustrations/2889773034> .
+
+diga_terms:2904562198 foaf:depiction <https://w3id.org/diga/illustrations/2904562198> .
+
+diga_terms:2925718207 foaf:depiction <https://w3id.org/diga/illustrations/2925718207> .
+
+diga_terms:2939079382 foaf:depiction <https://w3id.org/diga/illustrations/2939079382> .
+
+diga_terms:2945560764 foaf:depiction <https://w3id.org/diga/illustrations/2945560764> .
+
+diga_terms:2949012577 foaf:depiction <https://w3id.org/diga/illustrations/2949012577> .
+
+diga_terms:2951970291 foaf:depiction <https://w3id.org/diga/illustrations/2951970291> .
+
+diga_terms:2958431400 foaf:depiction <https://w3id.org/diga/illustrations/2958431400> .
+
+diga_terms:2961966459 foaf:depiction <https://w3id.org/diga/illustrations/2961966459> .
+
+diga_terms:296533006 foaf:depiction <https://w3id.org/diga/illustrations/296533006> .
+
+diga_terms:2998654090 foaf:depiction <https://w3id.org/diga/illustrations/2998654090> .
+
+diga_terms:3009547107 foaf:depiction <https://w3id.org/diga/illustrations/3009547107> .
+
+diga_terms:3016334302 foaf:depiction <https://w3id.org/diga/illustrations/3016334302> .
+
+diga_terms:3049533335 foaf:depiction <https://w3id.org/diga/illustrations/3049533335> .
+
+diga_terms:3051951188 foaf:depiction <https://w3id.org/diga/illustrations/3051951188> .
+
+diga_terms:3053207960 foaf:depiction <https://w3id.org/diga/illustrations/3053207960> .
+
+diga_terms:3065982949 foaf:depiction <https://w3id.org/diga/illustrations/3065982949> .
+
+diga_terms:3070683560 foaf:depiction <https://w3id.org/diga/illustrations/3070683560> .
+
+diga_terms:3076829280 foaf:depiction <https://w3id.org/diga/illustrations/3076829280> .
+
+diga_terms:3076981720 foaf:depiction <https://w3id.org/diga/illustrations/3076981720> .
+
+diga_terms:3079295678 foaf:depiction <https://w3id.org/diga/illustrations/3079295678> .
+
+diga_terms:3084286864 foaf:depiction <https://w3id.org/diga/illustrations/3084286864> .
+
+diga_terms:3092069322 foaf:depiction <https://w3id.org/diga/illustrations/3092069322> .
+
+diga_terms:3104174327 foaf:depiction <https://w3id.org/diga/illustrations/3104174327> .
+
+diga_terms:3108503224 foaf:depiction <https://w3id.org/diga/illustrations/3108503224> .
+
+diga_terms:3114150188 foaf:depiction <https://w3id.org/diga/illustrations/3114150188> .
+
+diga_terms:3117953507 foaf:depiction <https://w3id.org/diga/illustrations/3117953507> .
+
+diga_terms:3130224643 foaf:depiction <https://w3id.org/diga/illustrations/3130224643> .
+
+diga_terms:31728554 foaf:depiction <https://w3id.org/diga/illustrations/31728554> .
+
+diga_terms:3191115357 foaf:depiction <https://w3id.org/diga/illustrations/3191115357> .
+
+diga_terms:3191190332 foaf:depiction <https://w3id.org/diga/illustrations/3191190332> .
+
+diga_terms:3200708791 foaf:depiction <https://w3id.org/diga/illustrations/3200708791> .
+
+diga_terms:3201168607 foaf:depiction <https://w3id.org/diga/illustrations/3201168607> .
+
+diga_terms:3232835593 foaf:depiction <https://w3id.org/diga/illustrations/3232835593> .
+
+diga_terms:3236259478 foaf:depiction <https://w3id.org/diga/illustrations/3236259478> .
+
+diga_terms:3241394296 foaf:depiction <https://w3id.org/diga/illustrations/3241394296> .
+
+diga_terms:3243762244 foaf:depiction <https://w3id.org/diga/illustrations/3243762244> .
+
+diga_terms:3249346490 foaf:depiction <https://w3id.org/diga/illustrations/3249346490> .
+
+diga_terms:3258663659 foaf:depiction <https://w3id.org/diga/illustrations/3258663659> .
+
+diga_terms:3260772381 foaf:depiction <https://w3id.org/diga/illustrations/3260772381> .
+
+diga_terms:3260773409 foaf:depiction <https://w3id.org/diga/illustrations/3260773409> .
+
+diga_terms:3263558770 foaf:depiction <https://w3id.org/diga/illustrations/3263558770> .
+
+diga_terms:3264628295 foaf:depiction <https://w3id.org/diga/illustrations/3264628295> .
+
+diga_terms:3283887969 foaf:depiction <https://w3id.org/diga/illustrations/3283887969> .
+
+diga_terms:3305744078 foaf:depiction <https://w3id.org/diga/illustrations/3305744078> .
+
+diga_terms:3309667363 foaf:depiction <https://w3id.org/diga/illustrations/3309667363> .
+
+diga_terms:3321693847 foaf:depiction <https://w3id.org/diga/illustrations/3321693847> .
+
+diga_terms:3323433262 foaf:depiction <https://w3id.org/diga/illustrations/3323433262> .
+
+diga_terms:3371510472 foaf:depiction <https://w3id.org/diga/illustrations/3371510472> .
+
+diga_terms:3381202431 foaf:depiction <https://w3id.org/diga/illustrations/3381202431> .
+
+diga_terms:3413711870 foaf:depiction <https://w3id.org/diga/illustrations/3413711870> .
+
+diga_terms:3424172192 foaf:depiction <https://w3id.org/diga/illustrations/3424172192> .
+
+diga_terms:3443549289 foaf:depiction <https://w3id.org/diga/illustrations/3443549289> .
+
+diga_terms:3471646535 foaf:depiction <https://w3id.org/diga/illustrations/3471646535> .
+
+diga_terms:3491331062 foaf:depiction <https://w3id.org/diga/illustrations/3491331062> .
+
+diga_terms:3492744325 foaf:depiction <https://w3id.org/diga/illustrations/3492744325> .
+
+diga_terms:3512071419 foaf:depiction <https://w3id.org/diga/illustrations/3512071419> .
+
+diga_terms:3517949677 foaf:depiction <https://w3id.org/diga/illustrations/3517949677> .
+
+diga_terms:3521212159 foaf:depiction <https://w3id.org/diga/illustrations/3521212159> .
+
+diga_terms:3524331071 foaf:depiction <https://w3id.org/diga/illustrations/3524331071> .
+
+diga_terms:3526023736 foaf:depiction <https://w3id.org/diga/illustrations/3526023736> .
+
+diga_terms:3528661259 foaf:depiction <https://w3id.org/diga/illustrations/3528661259> .
+
+diga_terms:3532447944 foaf:depiction <https://w3id.org/diga/illustrations/3532447944> .
+
+diga_terms:3536654356 foaf:depiction <https://w3id.org/diga/illustrations/3536654356> .
+
+diga_terms:3565536383 foaf:depiction <https://w3id.org/diga/illustrations/3565536383> .
+
+diga_terms:3567962366 foaf:depiction <https://w3id.org/diga/illustrations/3567962366> .
+
+diga_terms:3584283681 foaf:depiction <https://w3id.org/diga/illustrations/3584283681> .
+
+diga_terms:3593458587 foaf:depiction <https://w3id.org/diga/illustrations/3593458587> .
+
+diga_terms:3593838843 foaf:depiction <https://w3id.org/diga/illustrations/3593838843> .
+
+diga_terms:3600579825 foaf:depiction <https://w3id.org/diga/illustrations/3600579825> .
+
+diga_terms:3612752580 foaf:depiction <https://w3id.org/diga/illustrations/3612752580> .
+
+diga_terms:3615514806 foaf:depiction <https://w3id.org/diga/illustrations/3615514806> .
+
+diga_terms:3619759814 foaf:depiction <https://w3id.org/diga/illustrations/3619759814> .
+
+diga_terms:3621056907 foaf:depiction <https://w3id.org/diga/illustrations/3621056907> .
+
+diga_terms:3632616443 foaf:depiction <https://w3id.org/diga/illustrations/3632616443> .
+
+diga_terms:363407537 foaf:depiction <https://w3id.org/diga/illustrations/363407537> .
+
+diga_terms:364551072 foaf:depiction <https://w3id.org/diga/illustrations/364551072> .
+
+diga_terms:3652637431 foaf:depiction <https://w3id.org/diga/illustrations/3652637431> .
+
+diga_terms:3663591507 foaf:depiction <https://w3id.org/diga/illustrations/3663591507> .
+
+diga_terms:367114762 foaf:depiction <https://w3id.org/diga/illustrations/367114762> .
+
+diga_terms:3672189667 foaf:depiction <https://w3id.org/diga/illustrations/3672189667> .
+
+diga_terms:3672379166 foaf:depiction <https://w3id.org/diga/illustrations/3672379166> .
+
+diga_terms:368752832 foaf:depiction <https://w3id.org/diga/illustrations/368752832> .
+
+diga_terms:368821738 foaf:depiction <https://w3id.org/diga/illustrations/368821738> .
+
+diga_terms:3688300757 foaf:depiction <https://w3id.org/diga/illustrations/3688300757> .
+
+diga_terms:3696087783 foaf:depiction <https://w3id.org/diga/illustrations/3696087783> .
+
+diga_terms:3709059492 foaf:depiction <https://w3id.org/diga/illustrations/3709059492> .
+
+diga_terms:3727181984 foaf:depiction <https://w3id.org/diga/illustrations/3727181984> .
+
+diga_terms:3729817157 foaf:depiction <https://w3id.org/diga/illustrations/3729817157> .
+
+diga_terms:3730993343 foaf:depiction <https://w3id.org/diga/illustrations/3730993343> .
+
+diga_terms:373575686 foaf:depiction <https://w3id.org/diga/illustrations/373575686> .
+
+diga_terms:3738559474 foaf:depiction <https://w3id.org/diga/illustrations/3738559474> .
+
+diga_terms:3740833293 foaf:depiction <https://w3id.org/diga/illustrations/3740833293> .
+
+diga_terms:3747717036 foaf:depiction <https://w3id.org/diga/illustrations/3747717036> .
+
+diga_terms:3748453851 foaf:depiction <https://w3id.org/diga/illustrations/3748453851> .
+
+diga_terms:3756879673 foaf:depiction <https://w3id.org/diga/illustrations/3756879673> .
+
+diga_terms:3757236232 foaf:depiction <https://w3id.org/diga/illustrations/3757236232> .
+
+diga_terms:377266447 foaf:depiction <https://w3id.org/diga/illustrations/377266447> .
+
+diga_terms:3784106304 foaf:depiction <https://w3id.org/diga/illustrations/3784106304> .
+
+diga_terms:3800844899 foaf:depiction <https://w3id.org/diga/illustrations/3800844899> .
+
+diga_terms:3813823969 foaf:depiction <https://w3id.org/diga/illustrations/3813823969> .
+
+diga_terms:382002219 foaf:depiction <https://w3id.org/diga/illustrations/382002219> .
+
+diga_terms:3823823925 foaf:depiction <https://w3id.org/diga/illustrations/3823823925> .
+
+diga_terms:3825224974 foaf:depiction <https://w3id.org/diga/illustrations/3825224974> .
+
+diga_terms:3829578238 foaf:depiction <https://w3id.org/diga/illustrations/3829578238> .
+
+diga_terms:3830064989 foaf:depiction <https://w3id.org/diga/illustrations/3830064989> .
+
+diga_terms:3834899229 foaf:depiction <https://w3id.org/diga/illustrations/3834899229> .
+
+diga_terms:3846687217 foaf:depiction <https://w3id.org/diga/illustrations/3846687217> .
+
+diga_terms:3851022161 foaf:depiction <https://w3id.org/diga/illustrations/3851022161> .
+
+diga_terms:3881354411 foaf:depiction <https://w3id.org/diga/illustrations/3881354411> .
+
+diga_terms:3884758547 foaf:depiction <https://w3id.org/diga/illustrations/3884758547> .
+
+diga_terms:3920189273 foaf:depiction <https://w3id.org/diga/illustrations/3920189273> .
+
+diga_terms:3937137535 foaf:depiction <https://w3id.org/diga/illustrations/3937137535> .
+
+diga_terms:394971561 foaf:depiction <https://w3id.org/diga/illustrations/394971561> .
+
+diga_terms:395648273 foaf:depiction <https://w3id.org/diga/illustrations/395648273> .
+
+diga_terms:3957067620 foaf:depiction <https://w3id.org/diga/illustrations/3957067620> .
+
+diga_terms:3987426471 foaf:depiction <https://w3id.org/diga/illustrations/3987426471> .
+
+diga_terms:3993629269 foaf:depiction <https://w3id.org/diga/illustrations/3993629269> .
+
+diga_terms:3997285721 foaf:depiction <https://w3id.org/diga/illustrations/3997285721> .
+
+diga_terms:3999131739 foaf:depiction <https://w3id.org/diga/illustrations/3999131739> .
+
+diga_terms:400453203 foaf:depiction <https://w3id.org/diga/illustrations/400453203> .
+
+diga_terms:4006991795 foaf:depiction <https://w3id.org/diga/illustrations/4006991795> .
+
+diga_terms:4037723854 foaf:depiction <https://w3id.org/diga/illustrations/4037723854> .
+
+diga_terms:4037829757 foaf:depiction <https://w3id.org/diga/illustrations/4037829757> .
+
+diga_terms:4053865889 foaf:depiction <https://w3id.org/diga/illustrations/4053865889> .
+
+diga_terms:4058334933 foaf:depiction <https://w3id.org/diga/illustrations/4058334933> .
+
+diga_terms:4067548910 foaf:depiction <https://w3id.org/diga/illustrations/4067548910> .
+
+diga_terms:4073081861 foaf:depiction <https://w3id.org/diga/illustrations/4073081861> .
+
+diga_terms:4087314907 foaf:depiction <https://w3id.org/diga/illustrations/4087314907> .
+
+diga_terms:4087324621 foaf:depiction <https://w3id.org/diga/illustrations/4087324621> .
+
+diga_terms:4089500820 foaf:depiction <https://w3id.org/diga/illustrations/4089500820> .
+
+diga_terms:4090630301 foaf:depiction <https://w3id.org/diga/illustrations/4090630301> .
+
+diga_terms:4111631244 foaf:depiction <https://w3id.org/diga/illustrations/4111631244> .
+
+diga_terms:4159813377 foaf:depiction <https://w3id.org/diga/illustrations/4159813377> .
+
+diga_terms:4160394208 foaf:depiction <https://w3id.org/diga/illustrations/4160394208> .
+
+diga_terms:4180377210 foaf:depiction <https://w3id.org/diga/illustrations/4180377210> .
+
+diga_terms:4185321846 foaf:depiction <https://w3id.org/diga/illustrations/4185321846> .
+
+diga_terms:4193610319 foaf:depiction <https://w3id.org/diga/illustrations/4193610319> .
+
+diga_terms:4194718345 foaf:depiction <https://w3id.org/diga/illustrations/4194718345> .
+
+diga_terms:420409788 foaf:depiction <https://w3id.org/diga/illustrations/420409788> .
+
+diga_terms:4216783392 foaf:depiction <https://w3id.org/diga/illustrations/4216783392> .
+
+diga_terms:4222744588 foaf:depiction <https://w3id.org/diga/illustrations/4222744588> .
+
+diga_terms:4238909983 foaf:depiction <https://w3id.org/diga/illustrations/4238909983> .
+
+diga_terms:4243308679 foaf:depiction <https://w3id.org/diga/illustrations/4243308679> .
+
+diga_terms:4254382529 foaf:depiction <https://w3id.org/diga/illustrations/4254382529> .
+
+diga_terms:4256610715 foaf:depiction <https://w3id.org/diga/illustrations/4256610715> .
+
+diga_terms:4256946392 foaf:depiction <https://w3id.org/diga/illustrations/4256946392> .
+
+diga_terms:4266028786 foaf:depiction <https://w3id.org/diga/illustrations/4266028786> .
+
+diga_terms:4270475670 foaf:depiction <https://w3id.org/diga/illustrations/4270475670> .
+
+diga_terms:4270485015 foaf:depiction <https://w3id.org/diga/illustrations/4270485015> .
+
+diga_terms:4291913910 foaf:depiction <https://w3id.org/diga/illustrations/4291913910> .
+
+diga_terms:458355608 foaf:depiction <https://w3id.org/diga/illustrations/458355608> .
+
+diga_terms:460164484 foaf:depiction <https://w3id.org/diga/illustrations/460164484> .
+
+diga_terms:464743032 foaf:depiction <https://w3id.org/diga/illustrations/464743032> .
+
+diga_terms:465769984 foaf:depiction <https://w3id.org/diga/illustrations/465769984> .
+
+diga_terms:477342002 foaf:depiction <https://w3id.org/diga/illustrations/477342002> .
+
+diga_terms:48595127 foaf:depiction <https://w3id.org/diga/illustrations/48595127> .
+
+diga_terms:490569638 foaf:depiction <https://w3id.org/diga/illustrations/490569638> .
+
+diga_terms:504256956 foaf:depiction <https://w3id.org/diga/illustrations/504256956> .
+
+diga_terms:536990679 foaf:depiction <https://w3id.org/diga/illustrations/536990679> .
+
+diga_terms:584759062 foaf:depiction <https://w3id.org/diga/illustrations/584759062> .
+
+diga_terms:606471797 foaf:depiction <https://w3id.org/diga/illustrations/606471797> .
+
+diga_terms:614940407 foaf:depiction <https://w3id.org/diga/illustrations/614940407> .
+
+diga_terms:6357319 foaf:depiction <https://w3id.org/diga/illustrations/6357319> .
+
+diga_terms:64317117 foaf:depiction <https://w3id.org/diga/illustrations/64317117> .
+
+diga_terms:647329180 foaf:depiction <https://w3id.org/diga/illustrations/647329180> .
+
+diga_terms:666573358 foaf:depiction <https://w3id.org/diga/illustrations/666573358> .
+
+diga_terms:672076886 foaf:depiction <https://w3id.org/diga/illustrations/672076886> .
+
+diga_terms:680470947 foaf:depiction <https://w3id.org/diga/illustrations/680470947> .
+
+diga_terms:681183763 foaf:depiction <https://w3id.org/diga/illustrations/681183763> .
+
+diga_terms:688567513 foaf:depiction <https://w3id.org/diga/illustrations/688567513> .
+
+diga_terms:69635081 foaf:depiction <https://w3id.org/diga/illustrations/69635081> .
+
+diga_terms:707881177 foaf:depiction <https://w3id.org/diga/illustrations/707881177> .
+
+diga_terms:713280566 foaf:depiction <https://w3id.org/diga/illustrations/713280566> .
+
+diga_terms:714996531 foaf:depiction <https://w3id.org/diga/illustrations/714996531> .
+
+diga_terms:738396104 foaf:depiction <https://w3id.org/diga/illustrations/738396104> .
+
+diga_terms:75802737 foaf:depiction <https://w3id.org/diga/illustrations/75802737> .
+
+diga_terms:771739027 foaf:depiction <https://w3id.org/diga/illustrations/771739027> .
+
+diga_terms:771946610 foaf:depiction <https://w3id.org/diga/illustrations/771946610> .
+
+diga_terms:774130927 foaf:depiction <https://w3id.org/diga/illustrations/774130927> .
+
+diga_terms:791329483 foaf:depiction <https://w3id.org/diga/illustrations/791329483> .
+
+diga_terms:793357615 foaf:depiction <https://w3id.org/diga/illustrations/793357615> .
+
+diga_terms:795826222 foaf:depiction <https://w3id.org/diga/illustrations/795826222> .
+
+diga_terms:797618874 foaf:depiction <https://w3id.org/diga/illustrations/797618874> .
+
+diga_terms:802312540 foaf:depiction <https://w3id.org/diga/illustrations/802312540> .
+
+diga_terms:807554894 foaf:depiction <https://w3id.org/diga/illustrations/807554894> .
+
+diga_terms:815438250 foaf:depiction <https://w3id.org/diga/illustrations/815438250> .
+
+diga_terms:826891788 foaf:depiction <https://w3id.org/diga/illustrations/826891788> .
+
+diga_terms:827646558 foaf:depiction <https://w3id.org/diga/illustrations/827646558> .
+
+diga_terms:837944409 foaf:depiction <https://w3id.org/diga/illustrations/837944409> .
+
+diga_terms:853088858 foaf:depiction <https://w3id.org/diga/illustrations/853088858> .
+
+diga_terms:873079389 foaf:depiction <https://w3id.org/diga/illustrations/873079389> .
+
+diga_terms:878667828 foaf:depiction <https://w3id.org/diga/illustrations/878667828> .
+
+diga_terms:889552373 foaf:depiction <https://w3id.org/diga/illustrations/889552373> .
+
+diga_terms:897656515 foaf:depiction <https://w3id.org/diga/illustrations/897656515> .
+
+diga_terms:904692734 foaf:depiction <https://w3id.org/diga/illustrations/904692734> .
+
+diga_terms:905907661 foaf:depiction <https://w3id.org/diga/illustrations/905907661> .
+
+diga_terms:910012139 foaf:depiction <https://w3id.org/diga/illustrations/910012139> .
+
+diga_terms:93120724 foaf:depiction <https://w3id.org/diga/illustrations/93120724> .
+
+diga_terms:936168583 foaf:depiction <https://w3id.org/diga/illustrations/936168583> .
+
+diga_terms:936287401 foaf:depiction <https://w3id.org/diga/illustrations/936287401> .
+
+diga_terms:948936427 foaf:depiction <https://w3id.org/diga/illustrations/948936427> .
+
+diga_terms:949143619 foaf:depiction <https://w3id.org/diga/illustrations/949143619> .
+
+diga_terms:969960489 foaf:depiction <https://w3id.org/diga/illustrations/969960489> .
+
+diga_terms:981749965 foaf:depiction <https://w3id.org/diga/illustrations/981749965> .
+
+diga_terms:989092977 foaf:depiction <https://w3id.org/diga/illustrations/989092977> .
+
+diga_terms:1100064319 foaf:depiction <https://w3id.org/diga/illustrations/1100064319> .
+
+diga_terms:1210170205 foaf:depiction <https://w3id.org/diga/illustrations/1210170205> .
+
+diga_terms:125142965 foaf:depiction <https://w3id.org/diga/illustrations/125142965> .
+
+diga_terms:1354427253 foaf:depiction <https://w3id.org/diga/illustrations/1354427253> .
+
+diga_terms:1504922116 foaf:depiction <https://w3id.org/diga/illustrations/1504922116> .
+
+diga_terms:1595382875 foaf:depiction <https://w3id.org/diga/illustrations/1595382875> .
+
+diga_terms:1644061070 foaf:depiction <https://w3id.org/diga/illustrations/1644061070> .
+
+diga_terms:1722021234 foaf:depiction <https://w3id.org/diga/illustrations/1722021234> .
+
+diga_terms:1787243801 foaf:depiction <https://w3id.org/diga/illustrations/1787243801> .
+
+diga_terms:1841563904 foaf:depiction <https://w3id.org/diga/illustrations/1841563904> .
+
+diga_terms:1844486787 foaf:depiction <https://w3id.org/diga/illustrations/1844486787> .
+
+diga_terms:1940192311 foaf:depiction <https://w3id.org/diga/illustrations/1940192311> .
+
+diga_terms:2004519371 foaf:depiction <https://w3id.org/diga/illustrations/2004519371> .
+
+diga_terms:2008655613 foaf:depiction <https://w3id.org/diga/illustrations/2008655613> .
+
+diga_terms:2137397505 foaf:depiction <https://w3id.org/diga/illustrations/2137397505> .
+
+diga_terms:2167683516 foaf:depiction <https://w3id.org/diga/illustrations/2167683516> .
+
+diga_terms:2292875403 foaf:depiction <https://w3id.org/diga/illustrations/2292875403> .
+
+diga_terms:235999779 foaf:depiction <https://w3id.org/diga/illustrations/235999779> .
+
+diga_terms:246604338 foaf:depiction <https://w3id.org/diga/illustrations/246604338> .
+
+diga_terms:2487871423 foaf:depiction <https://w3id.org/diga/illustrations/2487871423> .
+
+diga_terms:2550832142 foaf:depiction <https://w3id.org/diga/illustrations/2550832142> .
+
+diga_terms:2569956350 foaf:depiction <https://w3id.org/diga/illustrations/2569956350> .
+
+diga_terms:2648878594 foaf:depiction <https://w3id.org/diga/illustrations/2648878594> .
+
+diga_terms:2712883067 foaf:depiction <https://w3id.org/diga/illustrations/2712883067> .
+
+diga_terms:2750205896 foaf:depiction <https://w3id.org/diga/illustrations/2750205896> .
+
+diga_terms:2827306568 foaf:depiction <https://w3id.org/diga/illustrations/2827306568> .
+
+diga_terms:2852558483 foaf:depiction <https://w3id.org/diga/illustrations/2852558483> .
+
+diga_terms:298822568 foaf:depiction <https://w3id.org/diga/illustrations/298822568> .
+
+diga_terms:3057119138 foaf:depiction <https://w3id.org/diga/illustrations/3057119138> .
+
+diga_terms:3070626738 foaf:depiction <https://w3id.org/diga/illustrations/3070626738> .
+
+diga_terms:3075531859 foaf:depiction <https://w3id.org/diga/illustrations/3075531859> .
+
+diga_terms:3172355551 foaf:depiction <https://w3id.org/diga/illustrations/3172355551> .
+
+diga_terms:3243549457 foaf:depiction <https://w3id.org/diga/illustrations/3243549457> .
+
+diga_terms:3375202440 foaf:depiction <https://w3id.org/diga/illustrations/3375202440> .
+
+diga_terms:3658032425 foaf:depiction <https://w3id.org/diga/illustrations/3658032425> .
+
+diga_terms:3691428195 foaf:depiction <https://w3id.org/diga/illustrations/3691428195> .
+
+diga_terms:3698963851 foaf:depiction <https://w3id.org/diga/illustrations/3698963851> .
+
+diga_terms:3712993116 foaf:depiction <https://w3id.org/diga/illustrations/3712993116> .
+
+diga_terms:3762664570 foaf:depiction <https://w3id.org/diga/illustrations/3762664570> .
+
+diga_terms:3764604394 foaf:depiction <https://w3id.org/diga/illustrations/3764604394> .
+
+diga_terms:3785088996 foaf:depiction <https://w3id.org/diga/illustrations/3785088996> .
+
+diga_terms:3827273201 foaf:depiction <https://w3id.org/diga/illustrations/3827273201> .
+
+diga_terms:3860640450 foaf:depiction <https://w3id.org/diga/illustrations/3860640450> .
+
+diga_terms:3970824448 foaf:depiction <https://w3id.org/diga/illustrations/3970824448> .
+
+diga_terms:3989764729 foaf:depiction <https://w3id.org/diga/illustrations/3989764729> .
+
+diga_terms:403497325 foaf:depiction <https://w3id.org/diga/illustrations/403497325> .
+
+diga_terms:4040113531 foaf:depiction <https://w3id.org/diga/illustrations/4040113531> .
+
+diga_terms:4049858471 foaf:depiction <https://w3id.org/diga/illustrations/4049858471> .
+
+diga_terms:4228953259 foaf:depiction <https://w3id.org/diga/illustrations/4228953259> .
+
+diga_terms:4239923937 foaf:depiction <https://w3id.org/diga/illustrations/4239923937> .
+
+diga_terms:4275276628 foaf:depiction <https://w3id.org/diga/illustrations/4275276628> .
+
+diga_terms:560059466 foaf:depiction <https://w3id.org/diga/illustrations/560059466> .
+
+diga_terms:845297549 foaf:depiction <https://w3id.org/diga/illustrations/845297549> .
+
+diga_terms:852279288 foaf:depiction <https://w3id.org/diga/illustrations/852279288> .
+
+diga_terms:912733733 foaf:depiction <https://w3id.org/diga/illustrations/912733733> .
+
+diga_terms:966021296 foaf:depiction <https://w3id.org/diga/illustrations/966021296> .
+
+diga_terms:1111098414 foaf:depiction <https://w3id.org/diga/illustrations/1111098414> .
+
+diga_terms:1194249476 foaf:depiction <https://w3id.org/diga/illustrations/1194249476> .
+
+diga_terms:1328191325 foaf:depiction <https://w3id.org/diga/illustrations/1328191325> .
+
+diga_terms:1364518861 foaf:depiction <https://w3id.org/diga/illustrations/1364518861> .
+
+diga_terms:1378723285 foaf:depiction <https://w3id.org/diga/illustrations/1378723285> .
+
+diga_terms:1396280631 foaf:depiction <https://w3id.org/diga/illustrations/1396280631> .
+
+diga_terms:1474409124 foaf:depiction <https://w3id.org/diga/illustrations/1474409124> .
+
+diga_terms:1495809523 foaf:depiction <https://w3id.org/diga/illustrations/1495809523> .
+
+diga_terms:1505093974 foaf:depiction <https://w3id.org/diga/illustrations/1505093974> .
+
+diga_terms:1517407372 foaf:depiction <https://w3id.org/diga/illustrations/1517407372> .
+
+diga_terms:153988889 foaf:depiction <https://w3id.org/diga/illustrations/153988889> .
+
+diga_terms:156691020 foaf:depiction <https://w3id.org/diga/illustrations/156691020> .
+
+diga_terms:1567004410 foaf:depiction <https://w3id.org/diga/illustrations/1567004410> .
+
+diga_terms:1584891251 foaf:depiction <https://w3id.org/diga/illustrations/1584891251> .
+
+diga_terms:1585905248 foaf:depiction <https://w3id.org/diga/illustrations/1585905248> .
+
+diga_terms:1607836746 foaf:depiction <https://w3id.org/diga/illustrations/1607836746> .
+
+diga_terms:1758990784 foaf:depiction <https://w3id.org/diga/illustrations/1758990784> .
+
+diga_terms:1842876919 foaf:depiction <https://w3id.org/diga/illustrations/1842876919> .
+
+diga_terms:1859205980 foaf:depiction <https://w3id.org/diga/illustrations/1859205980> .
+
+diga_terms:1886268584 foaf:depiction <https://w3id.org/diga/illustrations/1886268584> .
+
+diga_terms:193203856 foaf:depiction <https://w3id.org/diga/illustrations/193203856> .
+
+diga_terms:1979299580 foaf:depiction <https://w3id.org/diga/illustrations/1979299580> .
+
+diga_terms:2018528128 foaf:depiction <https://w3id.org/diga/illustrations/2018528128> .
+
+diga_terms:2041978026 foaf:depiction <https://w3id.org/diga/illustrations/2041978026> .
+
+diga_terms:207230960 foaf:depiction <https://w3id.org/diga/illustrations/207230960> .
+
+diga_terms:2121267291 foaf:depiction <https://w3id.org/diga/illustrations/2121267291> .
+
+diga_terms:2258266707 foaf:depiction <https://w3id.org/diga/illustrations/2258266707> .
+
+diga_terms:228131430 foaf:depiction <https://w3id.org/diga/illustrations/228131430> .
+
+diga_terms:2303783984 foaf:depiction <https://w3id.org/diga/illustrations/2303783984> .
+
+diga_terms:2359452072 foaf:depiction <https://w3id.org/diga/illustrations/2359452072> .
+
+diga_terms:2391113396 foaf:depiction <https://w3id.org/diga/illustrations/2391113396> .
+
+diga_terms:2400358993 foaf:depiction <https://w3id.org/diga/illustrations/2400358993> .
+
+diga_terms:2432976176 foaf:depiction <https://w3id.org/diga/illustrations/2432976176> .
+
+diga_terms:2435617812 foaf:depiction <https://w3id.org/diga/illustrations/2435617812> .
+
+diga_terms:2471177122 foaf:depiction <https://w3id.org/diga/illustrations/2471177122> .
+
+diga_terms:2507431234 foaf:depiction <https://w3id.org/diga/illustrations/2507431234> .
+
+diga_terms:2543936167 foaf:depiction <https://w3id.org/diga/illustrations/2543936167> .
+
+diga_terms:2730828191 foaf:depiction <https://w3id.org/diga/illustrations/2730828191> .
+
+diga_terms:2749479715 foaf:depiction <https://w3id.org/diga/illustrations/2749479715> .
+
+diga_terms:2750243747 foaf:depiction <https://w3id.org/diga/illustrations/2750243747> .
+
+diga_terms:283518614 foaf:depiction <https://w3id.org/diga/illustrations/283518614> .
+
+diga_terms:2866917531 foaf:depiction <https://w3id.org/diga/illustrations/2866917531> .
+
+diga_terms:2911881140 foaf:depiction <https://w3id.org/diga/illustrations/2911881140> .
+
+diga_terms:309591753 foaf:depiction <https://w3id.org/diga/illustrations/309591753> .
+
+diga_terms:3103686570 foaf:depiction <https://w3id.org/diga/illustrations/3103686570> .
+
+diga_terms:324926850 foaf:depiction <https://w3id.org/diga/illustrations/324926850> .
+
+diga_terms:3288650513 foaf:depiction <https://w3id.org/diga/illustrations/3288650513> .
+
+diga_terms:3295218077 foaf:depiction <https://w3id.org/diga/illustrations/3295218077> .
+
+diga_terms:3333088462 foaf:depiction <https://w3id.org/diga/illustrations/3333088462> .
+
+diga_terms:3403966311 foaf:depiction <https://w3id.org/diga/illustrations/3403966311> .
+
+diga_terms:3503095732 foaf:depiction <https://w3id.org/diga/illustrations/3503095732> .
+
+diga_terms:3675916508 foaf:depiction <https://w3id.org/diga/illustrations/3675916508> .
+
+diga_terms:3679716335 foaf:depiction <https://w3id.org/diga/illustrations/3679716335> .
+
+diga_terms:3698795205 foaf:depiction <https://w3id.org/diga/illustrations/3698795205> .
+
+diga_terms:3724520499 foaf:depiction <https://w3id.org/diga/illustrations/3724520499> .
+
+diga_terms:3765668254 foaf:depiction <https://w3id.org/diga/illustrations/3765668254> .
+
+diga_terms:3783934166 foaf:depiction <https://w3id.org/diga/illustrations/3783934166> .
+
+diga_terms:3941108237 foaf:depiction <https://w3id.org/diga/illustrations/3941108237> .
+
+diga_terms:3981551094 foaf:depiction <https://w3id.org/diga/illustrations/3981551094> .
+
+diga_terms:4031291621 foaf:depiction <https://w3id.org/diga/illustrations/4031291621> .
+
+diga_terms:4106844116 foaf:depiction <https://w3id.org/diga/illustrations/4106844116> .
+
+diga_terms:4214919297 foaf:depiction <https://w3id.org/diga/illustrations/4214919297> .
+
+diga_terms:4243265920 foaf:depiction <https://w3id.org/diga/illustrations/4243265920> .
+
+diga_terms:4289657625 foaf:depiction <https://w3id.org/diga/illustrations/4289657625> .
+
+diga_terms:450855958 foaf:depiction <https://w3id.org/diga/illustrations/450855958> .
+
+diga_terms:572250512 foaf:depiction <https://w3id.org/diga/illustrations/572250512> .
+
+diga_terms:584627584 foaf:depiction <https://w3id.org/diga/illustrations/584627584> .
+
+diga_terms:60923121 foaf:depiction <https://w3id.org/diga/illustrations/60923121> .
+
+diga_terms:631764984 foaf:depiction <https://w3id.org/diga/illustrations/631764984> .
+
+diga_terms:645448160 foaf:depiction <https://w3id.org/diga/illustrations/645448160> .
+
+diga_terms:660750467 foaf:depiction <https://w3id.org/diga/illustrations/660750467> .
+
+diga_terms:688872503 foaf:depiction <https://w3id.org/diga/illustrations/688872503> .
+
+diga_terms:697228354 foaf:depiction <https://w3id.org/diga/illustrations/697228354> .
+
+diga_terms:719285219 foaf:depiction <https://w3id.org/diga/illustrations/719285219> .
+
+diga_terms:722563615 foaf:depiction <https://w3id.org/diga/illustrations/722563615> .
+
+diga_terms:738233804 foaf:depiction <https://w3id.org/diga/illustrations/738233804> .
+
+diga_terms:771660887 foaf:depiction <https://w3id.org/diga/illustrations/771660887> .
+
+diga_terms:812963267 foaf:depiction <https://w3id.org/diga/illustrations/812963267> .
+
+diga_terms:949640700 foaf:depiction <https://w3id.org/diga/illustrations/949640700> .
+
+diga_terms:968609501 foaf:depiction <https://w3id.org/diga/illustrations/968609501> .
+
+diga_terms:1173805085 foaf:depiction <https://w3id.org/diga/illustrations/1173805085> .
+
+diga_terms:1284129594 foaf:depiction <https://w3id.org/diga/illustrations/1284129594> .
+
+diga_terms:134005232 foaf:depiction <https://w3id.org/diga/illustrations/134005232> .
+
+diga_terms:1388835177 foaf:depiction <https://w3id.org/diga/illustrations/1388835177> .
+
+diga_terms:1618560170 foaf:depiction <https://w3id.org/diga/illustrations/1618560170> .
+
+diga_terms:1689314004 foaf:depiction <https://w3id.org/diga/illustrations/1689314004> .
+
+diga_terms:1741358327 foaf:depiction <https://w3id.org/diga/illustrations/1741358327> .
+
+diga_terms:1785172886 foaf:depiction <https://w3id.org/diga/illustrations/1785172886> .
+
+diga_terms:1809906696 foaf:depiction <https://w3id.org/diga/illustrations/1809906696> .
+
+diga_terms:1939804642 foaf:depiction <https://w3id.org/diga/illustrations/1939804642> .
+
+diga_terms:1999355705 foaf:depiction <https://w3id.org/diga/illustrations/1999355705> .
+
+diga_terms:2048552645 foaf:depiction <https://w3id.org/diga/illustrations/2048552645> .
+
+diga_terms:2082288115 foaf:depiction <https://w3id.org/diga/illustrations/2082288115> .
+
+diga_terms:2304430913 foaf:depiction <https://w3id.org/diga/illustrations/2304430913> .
+
+diga_terms:2367787967 foaf:depiction <https://w3id.org/diga/illustrations/2367787967> .
+
+diga_terms:2378765278 foaf:depiction <https://w3id.org/diga/illustrations/2378765278> .
+
+diga_terms:2383900273 foaf:depiction <https://w3id.org/diga/illustrations/2383900273> .
+
+diga_terms:2397794819 foaf:depiction <https://w3id.org/diga/illustrations/2397794819> .
+
+diga_terms:2438448679 foaf:depiction <https://w3id.org/diga/illustrations/2438448679> .
+
+diga_terms:2480491321 foaf:depiction <https://w3id.org/diga/illustrations/2480491321> .
+
+diga_terms:2541070595 foaf:depiction <https://w3id.org/diga/illustrations/2541070595> .
+
+diga_terms:2681315340 foaf:depiction <https://w3id.org/diga/illustrations/2681315340> .
+
+diga_terms:2849434620 foaf:depiction <https://w3id.org/diga/illustrations/2849434620> .
+
+diga_terms:2856091000 foaf:depiction <https://w3id.org/diga/illustrations/2856091000> .
+
+diga_terms:2994146436 foaf:depiction <https://w3id.org/diga/illustrations/2994146436> .
+
+diga_terms:2997286712 foaf:depiction <https://w3id.org/diga/illustrations/2997286712> .
+
+diga_terms:3006168718 foaf:depiction <https://w3id.org/diga/illustrations/3006168718> .
+
+diga_terms:310648897 foaf:depiction <https://w3id.org/diga/illustrations/310648897> .
+
+diga_terms:3138608383 foaf:depiction <https://w3id.org/diga/illustrations/3138608383> .
+
+diga_terms:3427747245 foaf:depiction <https://w3id.org/diga/illustrations/3427747245> .
+
+diga_terms:3497837747 foaf:depiction <https://w3id.org/diga/illustrations/3497837747> .
+
+diga_terms:3507966393 foaf:depiction <https://w3id.org/diga/illustrations/3507966393> .
+
+diga_terms:3540168500 foaf:depiction <https://w3id.org/diga/illustrations/3540168500> .
+
+diga_terms:3725714072 foaf:depiction <https://w3id.org/diga/illustrations/3725714072> .
+
+diga_terms:3837898119 foaf:depiction <https://w3id.org/diga/illustrations/3837898119> .
+
+diga_terms:3844885247 foaf:depiction <https://w3id.org/diga/illustrations/3844885247> .
+
+diga_terms:3869164083 foaf:depiction <https://w3id.org/diga/illustrations/3869164083> .
+
+diga_terms:4130977338 foaf:depiction <https://w3id.org/diga/illustrations/4130977338> .
+
+diga_terms:4271004910 foaf:depiction <https://w3id.org/diga/illustrations/4271004910> .
+
+diga_terms:472279097 foaf:depiction <https://w3id.org/diga/illustrations/472279097> .
+
+diga_terms:478032090 foaf:depiction <https://w3id.org/diga/illustrations/478032090> .
+
+diga_terms:50583640 foaf:depiction <https://w3id.org/diga/illustrations/50583640> .
+
+diga_terms:514341985 foaf:depiction <https://w3id.org/diga/illustrations/514341985> .
+
+diga_terms:654331325 foaf:depiction <https://w3id.org/diga/illustrations/654331325> .
+
+diga_terms:811760341 foaf:depiction <https://w3id.org/diga/illustrations/811760341> .
+
+diga_terms:817744727 foaf:depiction <https://w3id.org/diga/illustrations/817744727> .
+
+diga_terms:900580374 foaf:depiction <https://w3id.org/diga/illustrations/900580374> .
+
+diga_terms:933844093 foaf:depiction <https://w3id.org/diga/illustrations/933844093> .
+
+diga_terms:937746888 foaf:depiction <https://w3id.org/diga/illustrations/937746888> .
+
+diga_terms:959523636 foaf:depiction <https://w3id.org/diga/illustrations/959523636> .
+
+diga_terms:1015960944 foaf:depiction <https://w3id.org/diga/illustrations/1015960944> .
+
+diga_terms:1189279913 foaf:depiction <https://w3id.org/diga/illustrations/1189279913> .
+
+diga_terms:1293744608 foaf:depiction <https://w3id.org/diga/illustrations/1293744608> .
+
+diga_terms:1315037710 foaf:depiction <https://w3id.org/diga/illustrations/1315037710> .
+
+diga_terms:1495185932 foaf:depiction <https://w3id.org/diga/illustrations/1495185932> .
+
+diga_terms:1858908123 foaf:depiction <https://w3id.org/diga/illustrations/1858908123> .
+
+diga_terms:2088063337 foaf:depiction <https://w3id.org/diga/illustrations/2088063337> .
+
+diga_terms:2097171821 foaf:depiction <https://w3id.org/diga/illustrations/2097171821> .
+
+diga_terms:2844951834 foaf:depiction <https://w3id.org/diga/illustrations/2844951834> .
+
+diga_terms:3252838501 foaf:depiction <https://w3id.org/diga/illustrations/3252838501> .
+
+diga_terms:330181459 foaf:depiction <https://w3id.org/diga/illustrations/330181459> .
+
+diga_terms:387838393 foaf:depiction <https://w3id.org/diga/illustrations/387838393> .
+
+diga_terms:4068645639 foaf:depiction <https://w3id.org/diga/illustrations/4068645639> .
+
+diga_terms:4172804394 foaf:depiction <https://w3id.org/diga/illustrations/4172804394> .
+
+diga_terms:449446378 foaf:depiction <https://w3id.org/diga/illustrations/449446378> .
+
+diga_terms:464625248 foaf:depiction <https://w3id.org/diga/illustrations/464625248> .
+
+diga_terms:489703112 foaf:depiction <https://w3id.org/diga/illustrations/489703112> .
+
+diga_terms:502078105 foaf:depiction <https://w3id.org/diga/illustrations/502078105> .
+
+diga_terms:811045991 foaf:depiction <https://w3id.org/diga/illustrations/811045991> .
+
+diga_terms:880247531 foaf:depiction <https://w3id.org/diga/illustrations/880247531> .
+
+diga_terms:959054605 foaf:depiction <https://w3id.org/diga/illustrations/959054605> .
+
+diga_terms:1007154041 foaf:depiction <https://w3id.org/diga/illustrations/1007154041> .
+
+diga_terms:1616741731 foaf:depiction <https://w3id.org/diga/illustrations/1616741731> .
+
+diga_terms:1706840510 foaf:depiction <https://w3id.org/diga/illustrations/1706840510> .
+
+diga_terms:1714708293 foaf:depiction <https://w3id.org/diga/illustrations/1714708293> .
+
+diga_terms:1750678260 foaf:depiction <https://w3id.org/diga/illustrations/1750678260> .
+
+diga_terms:1830297727 foaf:depiction <https://w3id.org/diga/illustrations/1830297727> .
+
+diga_terms:2246051536 foaf:depiction <https://w3id.org/diga/illustrations/2246051536> .
+
+diga_terms:2271418152 foaf:depiction <https://w3id.org/diga/illustrations/2271418152> .
+
+diga_terms:233246311 foaf:depiction <https://w3id.org/diga/illustrations/233246311> .
+
+diga_terms:2634212517 foaf:depiction <https://w3id.org/diga/illustrations/2634212517> .
+
+diga_terms:2774820261 foaf:depiction <https://w3id.org/diga/illustrations/2774820261> .
+
+diga_terms:282371546 foaf:depiction <https://w3id.org/diga/illustrations/282371546> .
+
+diga_terms:2842322978 foaf:depiction <https://w3id.org/diga/illustrations/2842322978> .
+
+diga_terms:3303530176 foaf:depiction <https://w3id.org/diga/illustrations/3303530176> .
+
+diga_terms:3417688545 foaf:depiction <https://w3id.org/diga/illustrations/3417688545> .
+
+diga_terms:3559796061 foaf:depiction <https://w3id.org/diga/illustrations/3559796061> .
+
+diga_terms:3631827886 foaf:depiction <https://w3id.org/diga/illustrations/3631827886> .
+
+diga_terms:3654145372 foaf:depiction <https://w3id.org/diga/illustrations/3654145372> .
+
+diga_terms:3946259546 foaf:depiction <https://w3id.org/diga/illustrations/3946259546> .
+
+diga_terms:4234043111 foaf:depiction <https://w3id.org/diga/illustrations/4234043111> .
+
+diga_terms:4255097241 foaf:depiction <https://w3id.org/diga/illustrations/4255097241> .
+
+diga_terms:442773249 foaf:depiction <https://w3id.org/diga/illustrations/442773249> .
+
+diga_terms:44837138 foaf:depiction <https://w3id.org/diga/illustrations/44837138> .
+
+diga_terms:660146388 foaf:depiction <https://w3id.org/diga/illustrations/660146388> .
+
+diga_terms:691302206 foaf:depiction <https://w3id.org/diga/illustrations/691302206> .
+
+diga_terms:860967436 foaf:depiction <https://w3id.org/diga/illustrations/860967436> .
+
+diga_terms:862815569 foaf:depiction <https://w3id.org/diga/illustrations/862815569> .
+
+diga_terms:1095712886 foaf:depiction <https://w3id.org/diga/illustrations/1095712886> .
+
+diga_terms:1131561900 foaf:depiction <https://w3id.org/diga/illustrations/1131561900> .
+
+diga_terms:152688564 foaf:depiction <https://w3id.org/diga/illustrations/152688564> .
+
+diga_terms:1553456112 foaf:depiction <https://w3id.org/diga/illustrations/1553456112> .
+
+diga_terms:1729208460 foaf:depiction <https://w3id.org/diga/illustrations/1729208460> .
+
+diga_terms:1920148444 foaf:depiction <https://w3id.org/diga/illustrations/1920148444> .
+
+diga_terms:1949528160 foaf:depiction <https://w3id.org/diga/illustrations/1949528160> .
+
+diga_terms:195561571 foaf:depiction <https://w3id.org/diga/illustrations/195561571> .
+
+diga_terms:2405207229 foaf:depiction <https://w3id.org/diga/illustrations/2405207229> .
+
+diga_terms:2472495753 foaf:depiction <https://w3id.org/diga/illustrations/2472495753> .
+
+diga_terms:255219621 foaf:depiction <https://w3id.org/diga/illustrations/255219621> .
+
+diga_terms:2654072981 foaf:depiction <https://w3id.org/diga/illustrations/2654072981> .
+
+diga_terms:2771162323 foaf:depiction <https://w3id.org/diga/illustrations/2771162323> .
+
+diga_terms:2795632126 foaf:depiction <https://w3id.org/diga/illustrations/2795632126> .
+
+diga_terms:2935637969 foaf:depiction <https://w3id.org/diga/illustrations/2935637969> .
+
+diga_terms:2990742024 foaf:depiction <https://w3id.org/diga/illustrations/2990742024> .
+
+diga_terms:3007921346 foaf:depiction <https://w3id.org/diga/illustrations/3007921346> .
+
+diga_terms:30527277 foaf:depiction <https://w3id.org/diga/illustrations/30527277> .
+
+diga_terms:3272464183 foaf:depiction <https://w3id.org/diga/illustrations/3272464183> .
+
+diga_terms:3394829729 foaf:depiction <https://w3id.org/diga/illustrations/3394829729> .
+
+diga_terms:4041015190 foaf:depiction <https://w3id.org/diga/illustrations/4041015190> .
+
+diga_terms:680026760 foaf:depiction <https://w3id.org/diga/illustrations/680026760> .
+
+diga_terms:893963818 foaf:depiction <https://w3id.org/diga/illustrations/893963818> .
+
+diga_terms:905077526 foaf:depiction <https://w3id.org/diga/illustrations/905077526> .
+
+diga_terms:164355721 foaf:depiction <https://w3id.org/diga/illustrations/164355721> .
+
+diga_terms:175768367 foaf:depiction <https://w3id.org/diga/illustrations/175768367> .
+
+diga_terms:182076138 foaf:depiction <https://w3id.org/diga/illustrations/182076138> .
+
+diga_terms:2296474690 foaf:depiction <https://w3id.org/diga/illustrations/2296474690> .
+
+diga_terms:245536511 foaf:depiction <https://w3id.org/diga/illustrations/245536511> .
+
+diga_terms:2836832077 foaf:depiction <https://w3id.org/diga/illustrations/2836832077> .
+
+diga_terms:2985624710 foaf:depiction <https://w3id.org/diga/illustrations/2985624710> .
+
+diga_terms:3088840584 foaf:depiction <https://w3id.org/diga/illustrations/3088840584> .
+
+diga_terms:3262876746 foaf:depiction <https://w3id.org/diga/illustrations/3262876746> .
+
+diga_terms:3286774910 foaf:depiction <https://w3id.org/diga/illustrations/3286774910> .
+
+diga_terms:3410718195 foaf:depiction <https://w3id.org/diga/illustrations/3410718195> .
+
+diga_terms:3433831332 foaf:depiction <https://w3id.org/diga/illustrations/3433831332> .
+
+diga_terms:3671789829 foaf:depiction <https://w3id.org/diga/illustrations/3671789829> .
+
+diga_terms:383723673 foaf:depiction <https://w3id.org/diga/illustrations/383723673> .
+
+diga_terms:440906796 foaf:depiction <https://w3id.org/diga/illustrations/440906796> .
+
+diga_terms:881500076 foaf:depiction <https://w3id.org/diga/illustrations/881500076> .
+
+diga_terms:933490939 foaf:depiction <https://w3id.org/diga/illustrations/933490939> .
+
+diga_terms:960182387 foaf:depiction <https://w3id.org/diga/illustrations/960182387> .
+
+diga_terms:1055879407 foaf:depiction <https://w3id.org/diga/illustrations/1055879407> .
+
+diga_terms:1430105349 foaf:depiction <https://w3id.org/diga/illustrations/1430105349> .
+
+diga_terms:1815280000 foaf:depiction <https://w3id.org/diga/illustrations/1815280000> .
+
+diga_terms:3217111580 foaf:depiction <https://w3id.org/diga/illustrations/3217111580> .
+
+diga_terms:3263162084 foaf:depiction <https://w3id.org/diga/illustrations/3263162084> .
+
+diga_terms:3687310644 foaf:depiction <https://w3id.org/diga/illustrations/3687310644> .
+
+diga_terms:4266319817 foaf:depiction <https://w3id.org/diga/illustrations/4266319817> .
+
+diga_terms:462104231 foaf:depiction <https://w3id.org/diga/illustrations/462104231> .
+
+diga_terms:608817825 foaf:depiction <https://w3id.org/diga/illustrations/608817825> .
+
+diga_terms:986724577 foaf:depiction <https://w3id.org/diga/illustrations/986724577> .
+
+diga_terms:1826985674 foaf:depiction <https://w3id.org/diga/illustrations/1826985674> .
+
+diga_terms:2030151828 foaf:depiction <https://w3id.org/diga/illustrations/2030151828> .
+
+diga_terms:2198114569 foaf:depiction <https://w3id.org/diga/illustrations/2198114569> .
+
+diga_terms:2261649275 foaf:depiction <https://w3id.org/diga/illustrations/2261649275> .
+
+diga_terms:2378872494 foaf:depiction <https://w3id.org/diga/illustrations/2378872494> .
+
+diga_terms:266827230 foaf:depiction <https://w3id.org/diga/illustrations/266827230> .
+
+diga_terms:3471662989 foaf:depiction <https://w3id.org/diga/illustrations/3471662989> .
+
+diga_terms:3482023374 foaf:depiction <https://w3id.org/diga/illustrations/3482023374> .
+
+diga_terms:3764708272 foaf:depiction <https://w3id.org/diga/illustrations/3764708272> .
+
+diga_terms:4144698813 foaf:depiction <https://w3id.org/diga/illustrations/4144698813> .
+
+diga_terms:638196766 foaf:depiction <https://w3id.org/diga/illustrations/638196766> .
+
+diga_terms:673626200 foaf:depiction <https://w3id.org/diga/illustrations/673626200> .
+
+diga_terms:741239978 foaf:depiction <https://w3id.org/diga/illustrations/741239978> .
+
+diga_terms:1554963759 foaf:depiction <https://w3id.org/diga/illustrations/1554963759> .
+
+diga_terms:2623020308 foaf:depiction <https://w3id.org/diga/illustrations/2623020308> .
+
+diga_terms:2745457473 foaf:depiction <https://w3id.org/diga/illustrations/2745457473> .
+
+diga_terms:3338052113 foaf:depiction <https://w3id.org/diga/illustrations/3338052113> .
+
+diga_terms:3488343712 foaf:depiction <https://w3id.org/diga/illustrations/3488343712> .
+
+diga_terms:3914605129 foaf:depiction <https://w3id.org/diga/illustrations/3914605129> .
+
+diga_terms:3958039747 foaf:depiction <https://w3id.org/diga/illustrations/3958039747> .
+
+diga_terms:442124243 foaf:depiction <https://w3id.org/diga/illustrations/442124243> .
+
+diga_terms:818299594 foaf:depiction <https://w3id.org/diga/illustrations/818299594> .
+
+diga_terms:2214199931 foaf:depiction <https://w3id.org/diga/illustrations/2214199931> .
+
+diga_terms:2716416682 foaf:depiction <https://w3id.org/diga/illustrations/2716416682> .
+
+diga_terms:3029896713 foaf:depiction <https://w3id.org/diga/illustrations/3029896713> .
+
+diga_terms:3760931020 foaf:depiction <https://w3id.org/diga/illustrations/3760931020> .
+
+diga_terms:3907579892 foaf:depiction <https://w3id.org/diga/illustrations/3907579892> .
+
+diga_terms:515477100 foaf:depiction <https://w3id.org/diga/illustrations/515477100> .
+
+diga_terms:932459847 foaf:depiction <https://w3id.org/diga/illustrations/932459847> .
+
+diga_terms:1175022091 foaf:depiction <https://w3id.org/diga/illustrations/1175022091> .
+
+diga_terms:1307054839 foaf:depiction <https://w3id.org/diga/illustrations/1307054839> .
+
+diga_terms:1697476285 foaf:depiction <https://w3id.org/diga/illustrations/1697476285> .
+
+diga_terms:1889466632 foaf:depiction <https://w3id.org/diga/illustrations/1889466632> .
+
+diga_terms:1994966187 foaf:depiction <https://w3id.org/diga/illustrations/1994966187> .
+
+diga_terms:2722247433 foaf:depiction <https://w3id.org/diga/illustrations/2722247433> .
+
+diga_terms:3210200949 foaf:depiction <https://w3id.org/diga/illustrations/3210200949> .
+
+diga_terms:3638812229 foaf:depiction <https://w3id.org/diga/illustrations/3638812229> .
+
+diga_terms:4969261 foaf:depiction <https://w3id.org/diga/illustrations/4969261> .
+
+diga_terms:909834378 foaf:depiction <https://w3id.org/diga/illustrations/909834378> .
+
+diga_terms:1215741717 foaf:depiction <https://w3id.org/diga/illustrations/1215741717> .
+
+diga_terms:2875405552 foaf:depiction <https://w3id.org/diga/illustrations/2875405552> .
+
+diga_terms:2952603567 foaf:depiction <https://w3id.org/diga/illustrations/2952603567> .
+
+diga_terms:3080511734 foaf:depiction <https://w3id.org/diga/illustrations/3080511734> .
+
+diga_terms:3528407314 foaf:depiction <https://w3id.org/diga/illustrations/3528407314> .
+
+diga_terms:3772908100 foaf:depiction <https://w3id.org/diga/illustrations/3772908100> .
+
+diga_terms:753322088 foaf:depiction <https://w3id.org/diga/illustrations/753322088> .
+
+diga_terms:973978663 foaf:depiction <https://w3id.org/diga/illustrations/973978663> .
+
+diga_terms:1654514839 foaf:depiction <https://w3id.org/diga/illustrations/1654514839> .
+
+diga_terms:2005064491 foaf:depiction <https://w3id.org/diga/illustrations/2005064491> .
+
+diga_terms:2525902700 foaf:depiction <https://w3id.org/diga/illustrations/2525902700> .
+
+diga_terms:308103702 foaf:depiction <https://w3id.org/diga/illustrations/308103702> .
+
+diga_terms:603559952 foaf:depiction <https://w3id.org/diga/illustrations/603559952> .
+
+diga_terms:2513841656 foaf:depiction <https://w3id.org/diga/illustrations/2513841656> .
+
+diga_terms:463300558 foaf:depiction <https://w3id.org/diga/illustrations/463300558> .
+
+diga_terms:1348259099 foaf:depiction <https://w3id.org/diga/illustrations/1348259099> .
+
+diga_terms:3614103155 foaf:depiction <https://w3id.org/diga/illustrations/3614103155> .
+
+diga_terms:801462641 foaf:depiction <https://w3id.org/diga/illustrations/801462641> .
+
+diga_terms:4057771289 foaf:depiction <https://w3id.org/diga/illustrations/4057771289> .
+
+diga_terms:2097261459 foaf:depiction <https://w3id.org/diga/illustrations/2097261459> .
+
+diga_terms:413883824 foaf:depiction <https://w3id.org/diga/illustrations/413883824> .
+
+diga_terms:1246295649 foaf:depiction <https://w3id.org/diga/illustrations/1246295649> .
+
+diga_terms:475430345 foaf:depiction <https://w3id.org/diga/illustrations/475430345> .
+
+diga_terms:3073799863 foaf:depiction <https://w3id.org/diga/illustrations/3073799863> .
+
+diga_terms:3844129487 foaf:depiction <https://w3id.org/diga/illustrations/3844129487> .
+
+diga_terms:574935704 foaf:depiction <https://w3id.org/diga/illustrations/574935704> .
+
+diga_terms:3237930001 foaf:depiction <https://w3id.org/diga/illustrations/3237930001> .
+
+diga_terms:1235449209 foaf:depiction <https://w3id.org/diga/illustrations/1235449209> .
+
+diga_terms:1253760895 foaf:depiction <https://w3id.org/diga/illustrations/1253760895> .
