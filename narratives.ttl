@@ -1,0 +1,2771 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix diga_source: <https://w3id.org/diga/source/> .
+@prefix diga_terms: <https://w3id.org/diga/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skos-thes: <http://purl.org/iso25964/skos-thes#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+
+diga_terms:1036254181 a skos:Concept ;
+    dc:identifier "1036254181" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2056462929 .
+
+diga_terms:1046261251 a skos:Concept ;
+    dc:identifier "1046261251" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2622195412 .
+
+diga_terms:108048814 a skos:Concept ;
+    dc:identifier "108048814" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1784248366 ;
+    skosxl:prefLabel diga_terms:2537879567 .
+
+diga_terms:1097286381 a skos:Concept ;
+    dc:identifier "1097286381" ;
+    skos-thes:broaderGeneric diga_terms:3170782702 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1195349239 .
+
+diga_terms:1113186389 a skos:Concept ;
+    dc:identifier "1113186389" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:413944684 .
+
+diga_terms:1118905121 a skos:Concept ;
+    dc:identifier "1118905121" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:4022717954,
+        diga_terms:623460492 ;
+    skosxl:prefLabel diga_terms:242138836 .
+
+diga_terms:1137717359 a skos:Concept ;
+    dc:identifier "1137717359" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:497912436 ;
+    skosxl:prefLabel diga_terms:2681848640 .
+
+diga_terms:1139369758 a skos:Concept ;
+    dc:identifier "1139369758" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:392938593 ;
+    skosxl:prefLabel diga_terms:4145791453 .
+
+diga_terms:1162008090 a skos:Concept ;
+    dc:identifier "1162008090" ;
+    skos-thes:broaderPartitive diga_terms:862049948 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1178563326 .
+
+diga_terms:1199883588 a skos:Concept ;
+    dc:identifier "1199883588" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2309239851 .
+
+diga_terms:1205305592 a skos:Concept ;
+    dc:identifier "1205305592" ;
+    skos-thes:broaderPartitive diga_terms:3322601314 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3436827906 .
+
+diga_terms:1207424595 a skos:Concept ;
+    dc:identifier "1207424595" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1840943486 ;
+    skosxl:prefLabel diga_terms:3584291560 .
+
+diga_terms:1258734451 a skos:Concept ;
+    dc:identifier "1258734451" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1408932244 .
+
+diga_terms:1278677269 a skos:Concept ;
+    dc:identifier "1278677269" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1776349555 ;
+    skosxl:prefLabel diga_terms:3454222054 .
+
+diga_terms:1280003135 a skos:Concept ;
+    dc:identifier "1280003135" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3189098691 .
+
+diga_terms:129421345 a skos:Concept ;
+    dc:identifier "129421345" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:563644764 ;
+    skosxl:prefLabel diga_terms:2473450118 .
+
+diga_terms:1319583304 a skos:Concept ;
+    dc:identifier "1319583304" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:596033623 .
+
+diga_terms:1331508800 a skos:Concept ;
+    dc:identifier "1331508800" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:769145852 ;
+    skosxl:prefLabel diga_terms:427906295 .
+
+diga_terms:1338370270 a skos:Concept ;
+    dc:identifier "1338370270" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1196852613 .
+
+diga_terms:1357296720 a skos:Concept ;
+    dc:identifier "1357296720" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3305530031 ;
+    skosxl:prefLabel diga_terms:3649844084 .
+
+diga_terms:1364049848 a skos:Concept ;
+    dc:identifier "1364049848" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2495599369,
+        diga_terms:307736458 ;
+    skosxl:prefLabel diga_terms:3866302004 .
+
+diga_terms:1364901481 a skos:Concept ;
+    dc:identifier "1364901481" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:900419164 .
+
+diga_terms:1403670759 a skos:Concept ;
+    dc:identifier "1403670759" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:347266930 ;
+    skosxl:prefLabel diga_terms:1186061425 .
+
+diga_terms:1404401014 a skos:Concept ;
+    dc:identifier "1404401014" ;
+    skos-thes:broaderPartitive diga_terms:1586671600 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:189589669 .
+
+diga_terms:1428898880 a skos:Concept ;
+    dc:identifier "1428898880" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3353400425,
+        diga_terms:4015748236,
+        diga_terms:4253843974 ;
+    skosxl:prefLabel diga_terms:557577352 .
+
+diga_terms:1435316359 a skos:Concept ;
+    dc:identifier "1435316359" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:4204852502 ;
+    skosxl:prefLabel diga_terms:697039992 .
+
+diga_terms:1442367878 a skos:Concept ;
+    dc:identifier "1442367878" ;
+    skos-thes:broaderGeneric diga_terms:3170782702 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:534644021,
+        diga_terms:70689151 ;
+    skosxl:prefLabel diga_terms:75206574 .
+
+diga_terms:1452861170 a skos:Concept ;
+    dc:identifier "1452861170" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1161450580,
+        diga_terms:355391337 ;
+    skosxl:prefLabel diga_terms:3131312224 .
+
+diga_terms:1473953471 a skos:Concept ;
+    dc:identifier "1473953471" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:4060778061 ;
+    skosxl:prefLabel diga_terms:2442461033 .
+
+diga_terms:1477278708 a skos:Concept ;
+    dc:identifier "1477278708" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2048981607,
+        diga_terms:932844697 ;
+    skosxl:prefLabel diga_terms:2891089375 .
+
+diga_terms:1528699969 a skos:Concept ;
+    dc:identifier "1528699969" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:24451080 .
+
+diga_terms:1573195729 a skos:Concept ;
+    dc:identifier "1573195729" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3805769269 .
+
+diga_terms:1576218844 a skos:Concept ;
+    dc:identifier "1576218844" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:347122278 .
+
+diga_terms:1584759900 a skos:Concept ;
+    dc:identifier "1584759900" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:512652904 .
+
+diga_terms:1589438233 a skos:Concept ;
+    dc:identifier "1589438233" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:340643886 .
+
+diga_terms:1602444863 a skos:Concept ;
+    dc:identifier "1602444863" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:600572739 .
+
+diga_terms:1620979965 a skos:Concept ;
+    dc:identifier "1620979965" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3995677752 ;
+    skosxl:prefLabel diga_terms:2436492235 .
+
+diga_terms:1638750904 a skos:Concept ;
+    dc:identifier "1638750904" ;
+    skos-thes:broaderPartitive diga_terms:1666088821 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1809435434 .
+
+diga_terms:1660890170 a skos:Concept ;
+    dc:identifier "1660890170" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1008445516 ;
+    skosxl:prefLabel diga_terms:2376918329 .
+
+diga_terms:1676427922 a skos:Concept ;
+    dc:identifier "1676427922" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2754795699 .
+
+diga_terms:1689187300 a skos:Concept ;
+    dc:identifier "1689187300" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:4170127419 ;
+    skosxl:prefLabel diga_terms:2086266233 .
+
+diga_terms:1708287753 a skos:Concept ;
+    dc:identifier "1708287753" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3618879042 .
+
+diga_terms:1710304748 a skos:Concept ;
+    dc:identifier "1710304748" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:138059682 ;
+    skosxl:prefLabel diga_terms:3926835588 .
+
+diga_terms:1727755949 a skos:Concept ;
+    dc:identifier "1727755949" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:4180681863 ;
+    skosxl:prefLabel diga_terms:4253139233 .
+
+diga_terms:1743874735 a skos:Concept ;
+    dc:identifier "1743874735" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3473505417 .
+
+diga_terms:1746271710 a skos:Concept ;
+    dc:identifier "1746271710" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3646088061 .
+
+diga_terms:1762203371 a skos:Concept ;
+    dc:identifier "1762203371" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3964284904 .
+
+diga_terms:1763185218 a skos:Concept ;
+    dc:identifier "1763185218" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3540130337 .
+
+diga_terms:1764264668 a skos:Concept ;
+    dc:identifier "1764264668" ;
+    skos-thes:broaderPartitive diga_terms:862049948 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3049175402 ;
+    skosxl:prefLabel diga_terms:4049160744 .
+
+diga_terms:1764482452 a skos:Concept ;
+    dc:identifier "1764482452" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3383453816 .
+
+diga_terms:1777337007 a skos:Concept ;
+    dc:identifier "1777337007" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1851373207 .
+
+diga_terms:1779522305 a skos:Concept ;
+    dc:identifier "1779522305" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2106130135 .
+
+diga_terms:1796691413 a skos:Concept ;
+    dc:identifier "1796691413" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3932676553 ;
+    skosxl:prefLabel diga_terms:3386231658 .
+
+diga_terms:1806666805 a skos:Concept ;
+    dc:identifier "1806666805" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1856360450 ;
+    skosxl:prefLabel diga_terms:289880414 .
+
+diga_terms:1824919926 a skos:Concept ;
+    dc:identifier "1824919926" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3441166081 .
+
+diga_terms:1838776402 a skos:Concept ;
+    dc:identifier "1838776402" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3107716523 .
+
+diga_terms:1883454711 a skos:Concept ;
+    dc:identifier "1883454711" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3194755666 .
+
+diga_terms:1926096938 a skos:Concept ;
+    dc:identifier "1926096938" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2118915655 .
+
+diga_terms:1984515156 a skos:Concept ;
+    dc:identifier "1984515156" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3853551497 .
+
+diga_terms:2000362296 a skos:Concept ;
+    dc:identifier "2000362296" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3697987622 ;
+    skosxl:prefLabel diga_terms:4180273779 .
+
+diga_terms:2002262412 a skos:Concept ;
+    dc:identifier "2002262412" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2646619780 ;
+    skosxl:prefLabel diga_terms:2714470828 .
+
+diga_terms:200938034 a skos:Concept ;
+    dc:identifier "200938034" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2371759685 .
+
+diga_terms:2029488234 a skos:Concept ;
+    dc:identifier "2029488234" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1052101220 .
+
+diga_terms:2053233937 a skos:Concept ;
+    dc:identifier "2053233937" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1043546777,
+        diga_terms:2428013260 ;
+    skosxl:prefLabel diga_terms:22452831 .
+
+diga_terms:2067610261 a skos:Concept ;
+    dc:identifier "2067610261" ;
+    skos-thes:broaderPartitive diga_terms:3122136768 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1263419351 .
+
+diga_terms:2070084011 a skos:Concept ;
+    dc:identifier "2070084011" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2481606150 .
+
+diga_terms:2095227443 a skos:Concept ;
+    dc:identifier "2095227443" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1107063334,
+        diga_terms:3670203030 ;
+    skosxl:prefLabel diga_terms:686784177 .
+
+diga_terms:2102866377 a skos:Concept ;
+    dc:identifier "2102866377" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:399543155 .
+
+diga_terms:2125420220 a skos:Concept ;
+    dc:identifier "2125420220" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2494654664 .
+
+diga_terms:2157161994 a skos:Concept ;
+    dc:identifier "2157161994" ;
+    skos-thes:broaderPartitive diga_terms:1666088821 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1325212695 ;
+    skosxl:prefLabel diga_terms:3022032706 .
+
+diga_terms:2157253362 a skos:Concept ;
+    dc:identifier "2157253362" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2267488453 .
+
+diga_terms:2160741562 a skos:Concept ;
+    dc:identifier "2160741562" ;
+    skos-thes:broaderPartitive diga_terms:3658352796 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:588663173 ;
+    skosxl:prefLabel diga_terms:109561671 .
+
+diga_terms:2165163403 a skos:Concept ;
+    dc:identifier "2165163403" ;
+    skos-thes:broaderPartitive diga_terms:3631751723 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2865002103 .
+
+diga_terms:2178475315 a skos:Concept ;
+    dc:identifier "2178475315" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:714734836 ;
+    skosxl:prefLabel diga_terms:2502287960 .
+
+diga_terms:217977411 a skos:Concept ;
+    dc:identifier "217977411" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2169320163 ;
+    skosxl:prefLabel diga_terms:2719950531 .
+
+diga_terms:2189319338 a skos:Concept ;
+    dc:identifier "2189319338" ;
+    skos-thes:broaderPartitive diga_terms:3122136768 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:845117227 ;
+    skosxl:prefLabel diga_terms:4140544610 .
+
+diga_terms:2209895670 a skos:Concept ;
+    dc:identifier "2209895670" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2832729755 .
+
+diga_terms:2210311737 a skos:Concept ;
+    dc:identifier "2210311737" ;
+    skos-thes:broaderPartitive diga_terms:862049948 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:4005402316 .
+
+diga_terms:2223414647 a skos:Concept ;
+    dc:identifier "2223414647" ;
+    skos-thes:broaderPartitive diga_terms:3658352796 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2002062438 ;
+    skosxl:prefLabel diga_terms:928224254 .
+
+diga_terms:2226163426 a skos:Concept ;
+    dc:identifier "2226163426" ;
+    skos-thes:broaderPartitive diga_terms:1091154113 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:506452277 .
+
+diga_terms:2233827848 a skos:Concept ;
+    dc:identifier "2233827848" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1823148404 ;
+    skosxl:prefLabel diga_terms:814066760 .
+
+diga_terms:2262030602 a skos:Concept ;
+    dc:identifier "2262030602" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2937817620 ;
+    skosxl:prefLabel diga_terms:2937817620 .
+
+diga_terms:2288339796 a skos:Concept ;
+    dc:identifier "2288339796" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:451041045 .
+
+diga_terms:2296987121 a skos:Concept ;
+    dc:identifier "2296987121" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:573825593 .
+
+diga_terms:2359940859 a skos:Concept ;
+    dc:identifier "2359940859" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1076070856 .
+
+diga_terms:2371788860 a skos:Concept ;
+    dc:identifier "2371788860" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1577117405 .
+
+diga_terms:2379244202 a skos:Concept ;
+    dc:identifier "2379244202" ;
+    skos-thes:broaderGeneric diga_terms:3170782702 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3101431266,
+        diga_terms:4187223339 ;
+    skosxl:prefLabel diga_terms:4088231432 .
+
+diga_terms:2382853519 a skos:Concept ;
+    dc:identifier "2382853519" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3557900932 .
+
+diga_terms:2423088308 a skos:Concept ;
+    dc:identifier "2423088308" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3051476359,
+        diga_terms:3701018438 ;
+    skosxl:prefLabel diga_terms:1038075727 .
+
+diga_terms:2443990749 a skos:Concept ;
+    dc:identifier "2443990749" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3564651678 .
+
+diga_terms:2444087111 a skos:Concept ;
+    dc:identifier "2444087111" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1973835605 ;
+    skosxl:prefLabel diga_terms:1240738359 .
+
+diga_terms:2457295453 a skos:Concept ;
+    dc:identifier "2457295453" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3676112002 .
+
+diga_terms:2465739096 a skos:Concept ;
+    dc:identifier "2465739096" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1347854864 .
+
+diga_terms:2501498148 a skos:Concept ;
+    dc:identifier "2501498148" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2096335400 .
+
+diga_terms:25229580 a skos:Concept ;
+    dc:identifier "25229580" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:102421220 ;
+    skosxl:prefLabel diga_terms:853603635 .
+
+diga_terms:2528554532 a skos:Concept ;
+    dc:identifier "2528554532" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3283889122 ;
+    skosxl:prefLabel diga_terms:2388334343 .
+
+diga_terms:2631434866 a skos:Concept ;
+    dc:identifier "2631434866" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2033994549 .
+
+diga_terms:2658445196 a skos:Concept ;
+    dc:identifier "2658445196" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1279826317 .
+
+diga_terms:2693857341 a skos:Concept ;
+    dc:identifier "2693857341" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:4285851978 ;
+    skosxl:prefLabel diga_terms:1736823099 .
+
+diga_terms:2717319705 a skos:Concept ;
+    dc:identifier "2717319705" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:4205909710 .
+
+diga_terms:2734279074 a skos:Concept ;
+    dc:identifier "2734279074" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2305669683 ;
+    skosxl:prefLabel diga_terms:3210790756 .
+
+diga_terms:2790183399 a skos:Concept ;
+    dc:identifier "2790183399" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1274560094 .
+
+diga_terms:2796918945 a skos:Concept ;
+    dc:identifier "2796918945" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:331393717 ;
+    skosxl:prefLabel diga_terms:4069343125 .
+
+diga_terms:2820431290 a skos:Concept ;
+    dc:identifier "2820431290" ;
+    skos-thes:broaderPartitive diga_terms:3631751723 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2061331747 ;
+    skosxl:prefLabel diga_terms:3420156824 .
+
+diga_terms:2836221067 a skos:Concept ;
+    dc:identifier "2836221067" ;
+    skos-thes:broaderPartitive diga_terms:3269473915 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1216751000 .
+
+diga_terms:2851256531 a skos:Concept ;
+    dc:identifier "2851256531" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3778080173 ;
+    skosxl:prefLabel diga_terms:2196175325 .
+
+diga_terms:2851341368 a skos:Concept ;
+    dc:identifier "2851341368" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1838887167,
+        diga_terms:2100175285,
+        diga_terms:3196072427,
+        diga_terms:702632376 ;
+    skosxl:prefLabel diga_terms:3186622726 .
+
+diga_terms:287509320 a skos:Concept ;
+    dc:identifier "287509320" ;
+    skos-thes:broaderPartitive diga_terms:1586671600 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3613540323 .
+
+diga_terms:2875961147 a skos:Concept ;
+    dc:identifier "2875961147" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1117629663 .
+
+diga_terms:2879036056 a skos:Concept ;
+    dc:identifier "2879036056" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1887258706 ;
+    skosxl:prefLabel diga_terms:3026736369 .
+
+diga_terms:2879159641 a skos:Concept ;
+    dc:identifier "2879159641" ;
+    skos-thes:broaderPartitive diga_terms:1091154113 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:965793988 .
+
+diga_terms:2880576598 a skos:Concept ;
+    dc:identifier "2880576598" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2850468949 .
+
+diga_terms:2888319243 a skos:Concept ;
+    dc:identifier "2888319243" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2016991270,
+        diga_terms:4246954177 ;
+    skosxl:prefLabel diga_terms:3876132373 .
+
+diga_terms:2912136956 a skos:Concept ;
+    dc:identifier "2912136956" ;
+    skos-thes:broaderPartitive diga_terms:3631751723 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3638345782 .
+
+diga_terms:2918078470 a skos:Concept ;
+    dc:identifier "2918078470" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1493011111,
+        diga_terms:1623548721 ;
+    skosxl:prefLabel diga_terms:3823392210 .
+
+diga_terms:2919285859 a skos:Concept ;
+    dc:identifier "2919285859" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:323290722 .
+
+diga_terms:2921235099 a skos:Concept ;
+    dc:identifier "2921235099" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1474378547 .
+
+diga_terms:2934056787 a skos:Concept ;
+    dc:identifier "2934056787" ;
+    skos-thes:broaderGeneric diga_terms:3170782702 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2539399557 .
+
+diga_terms:2954209066 a skos:Concept ;
+    dc:identifier "2954209066" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3224596403 .
+
+diga_terms:2978083896 a skos:Concept ;
+    dc:identifier "2978083896" ;
+    skos-thes:broaderPartitive diga_terms:3631751723 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1512674316 ;
+    skosxl:prefLabel diga_terms:3780304104 .
+
+diga_terms:3025212897 a skos:Concept ;
+    dc:identifier "3025212897" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1009101213,
+        diga_terms:563396076,
+        diga_terms:911050452 ;
+    skosxl:prefLabel diga_terms:463881249 .
+
+diga_terms:3029079761 a skos:Concept ;
+    dc:identifier "3029079761" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1802391317 .
+
+diga_terms:3077780657 a skos:Concept ;
+    dc:identifier "3077780657" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3668807930,
+        diga_terms:3981323018 ;
+    skosxl:prefLabel diga_terms:14263809 .
+
+diga_terms:3100379988 a skos:Concept ;
+    dc:identifier "3100379988" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2670908834 .
+
+diga_terms:3101983847 a skos:Concept ;
+    dc:identifier "3101983847" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2907624565 ;
+    skosxl:prefLabel diga_terms:1690850159 .
+
+diga_terms:3111110733 a skos:Concept ;
+    dc:identifier "3111110733" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:241149069 .
+
+diga_terms:3150800333 a skos:Concept ;
+    dc:identifier "3150800333" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1041888302 .
+
+diga_terms:3158775650 a skos:Concept ;
+    dc:identifier "3158775650" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2976700084 .
+
+diga_terms:3163867729 a skos:Concept ;
+    dc:identifier "3163867729" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:173203377 .
+
+diga_terms:3171817359 a skos:Concept ;
+    dc:identifier "3171817359" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1327628613 .
+
+diga_terms:3187607352 a skos:Concept ;
+    dc:identifier "3187607352" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1350268804 ;
+    skosxl:prefLabel diga_terms:2960037965 .
+
+diga_terms:3210592093 a skos:Concept ;
+    dc:identifier "3210592093" ;
+    skos-thes:broaderPartitive diga_terms:2306509372 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2440302614,
+        diga_terms:3925272133 ;
+    skosxl:prefLabel diga_terms:3287213402 .
+
+diga_terms:3213811617 a skos:Concept ;
+    dc:identifier "3213811617" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3766997619 .
+
+diga_terms:3236332513 a skos:Concept ;
+    dc:identifier "3236332513" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:107027635 .
+
+diga_terms:3302786575 a skos:Concept ;
+    dc:identifier "3302786575" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3314169440 .
+
+diga_terms:3304776377 a skos:Concept ;
+    dc:identifier "3304776377" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1278697758 ;
+    skosxl:prefLabel diga_terms:4038495384 .
+
+diga_terms:3304923720 a skos:Concept ;
+    dc:identifier "3304923720" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3172213882 .
+
+diga_terms:332224821 a skos:Concept ;
+    dc:identifier "332224821" ;
+    skos-thes:broaderPartitive diga_terms:3631751723 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1357802746 .
+
+diga_terms:3336929131 a skos:Concept ;
+    dc:identifier "3336929131" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3369465074 .
+
+diga_terms:3359786559 a skos:Concept ;
+    dc:identifier "3359786559" ;
+    skos-thes:broaderPartitive diga_terms:862049948 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2774663643 ;
+    skosxl:prefLabel diga_terms:2445069470 .
+
+diga_terms:3438158276 a skos:Concept ;
+    dc:identifier "3438158276" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:840158769 .
+
+diga_terms:3447268451 a skos:Concept ;
+    dc:identifier "3447268451" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:531041602 .
+
+diga_terms:3451703391 a skos:Concept ;
+    dc:identifier "3451703391" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1512603004 .
+
+diga_terms:3463702484 a skos:Concept ;
+    dc:identifier "3463702484" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1488502503,
+        diga_terms:223600767,
+        diga_terms:2517648328 ;
+    skosxl:prefLabel diga_terms:129780206 .
+
+diga_terms:3470753780 a skos:Concept ;
+    dc:identifier "3470753780" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:19960349 ;
+    skosxl:prefLabel diga_terms:1092475842 .
+
+diga_terms:3483299088 a skos:Concept ;
+    dc:identifier "3483299088" ;
+    dct:source diga_source:zwalf_catalogue_1996 ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1240526913 ;
+    skosxl:prefLabel diga_terms:2052726293 .
+
+diga_terms:3516680776 a skos:Concept ;
+    dc:identifier "3516680776" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:875168289 .
+
+diga_terms:3536204823 a skos:Concept ;
+    dc:identifier "3536204823" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1176148079,
+        diga_terms:1959080578,
+        diga_terms:4192410410,
+        diga_terms:672364902 ;
+    skosxl:prefLabel diga_terms:616665967 .
+
+diga_terms:3575755832 a skos:Concept ;
+    dc:identifier "3575755832" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1624530795,
+        diga_terms:199761138,
+        diga_terms:895915498 ;
+    skosxl:prefLabel diga_terms:474640206 .
+
+diga_terms:3607708335 a skos:Concept ;
+    dc:identifier "3607708335" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2477953804,
+        diga_terms:3462469395,
+        diga_terms:3666429694 ;
+    skosxl:prefLabel diga_terms:3299037321 .
+
+diga_terms:3612781184 a skos:Concept ;
+    dc:identifier "3612781184" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3643886390 .
+
+diga_terms:3622921051 a skos:Concept ;
+    dc:identifier "3622921051" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:206670545,
+        diga_terms:2909229989 ;
+    skosxl:prefLabel diga_terms:4240561822 .
+
+diga_terms:3632891309 a skos:Concept ;
+    dc:identifier "3632891309" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3944719224 ;
+    skosxl:prefLabel diga_terms:2946294832 .
+
+diga_terms:3642103743 a skos:Concept ;
+    dc:identifier "3642103743" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:4280982870 .
+
+diga_terms:364466152 a skos:Concept ;
+    dc:identifier "364466152" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:4135192464 .
+
+diga_terms:3652894269 a skos:Concept ;
+    dc:identifier "3652894269" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3244237003 ;
+    skosxl:prefLabel diga_terms:2464923454 .
+
+diga_terms:3672089260 a skos:Concept ;
+    dc:identifier "3672089260" ;
+    skos-thes:broaderPartitive diga_terms:3122136768 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:16392180 .
+
+diga_terms:3681486982 a skos:Concept ;
+    dc:identifier "3681486982" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:738674399 .
+
+diga_terms:3687467836 a skos:Concept ;
+    dc:identifier "3687467836" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3201442503 .
+
+diga_terms:3782444317 a skos:Concept ;
+    dc:identifier "3782444317" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2108785153 .
+
+diga_terms:3791166069 a skos:Concept ;
+    dc:identifier "3791166069" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1383335160 ;
+    skosxl:prefLabel diga_terms:2396227533 .
+
+diga_terms:3807494975 a skos:Concept ;
+    dc:identifier "3807494975" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:33740598 .
+
+diga_terms:3831275769 a skos:Concept ;
+    dc:identifier "3831275769" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1408279773,
+        diga_terms:3687611044 ;
+    skosxl:prefLabel diga_terms:227252857 .
+
+diga_terms:3838324118 a skos:Concept ;
+    dc:identifier "3838324118" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1552089071 .
+
+diga_terms:3839920801 a skos:Concept ;
+    dc:identifier "3839920801" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3257225379,
+        diga_terms:712307622 ;
+    skosxl:prefLabel diga_terms:607064484 .
+
+diga_terms:3872864485 a skos:Concept ;
+    dc:identifier "3872864485" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:4089776839 ;
+    skosxl:prefLabel diga_terms:3121922936 .
+
+diga_terms:3881357712 a skos:Concept ;
+    dc:identifier "3881357712" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1574218667,
+        diga_terms:2415215059 ;
+    skosxl:prefLabel diga_terms:3355944597 .
+
+diga_terms:3913024817 a skos:Concept ;
+    dc:identifier "3913024817" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3785243457 .
+
+diga_terms:3928739461 a skos:Concept ;
+    dc:identifier "3928739461" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:953695911 ;
+    skosxl:prefLabel diga_terms:3156440561 .
+
+diga_terms:3956167705 a skos:Concept ;
+    dc:identifier "3956167705" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:4238339226 .
+
+diga_terms:3984510467 a skos:Concept ;
+    dc:identifier "3984510467" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1155528897 .
+
+diga_terms:3990344828 a skos:Concept ;
+    dc:identifier "3990344828" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2488556452 ;
+    skosxl:prefLabel diga_terms:122204227 .
+
+diga_terms:3994262106 a skos:Concept ;
+    dc:identifier "3994262106" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1524993880 .
+
+diga_terms:3999168614 a skos:Concept ;
+    dc:identifier "3999168614" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:717550086 ;
+    skosxl:prefLabel diga_terms:1869242481 .
+
+diga_terms:4030645727 a skos:Concept ;
+    dc:identifier "4030645727" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3266998777 .
+
+diga_terms:4037789973 a skos:Concept ;
+    dc:identifier "4037789973" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1841618676 ;
+    skosxl:prefLabel diga_terms:2639481347 .
+
+diga_terms:4075541800 a skos:Concept ;
+    dc:identifier "4075541800" ;
+    skos-thes:broaderPartitive diga_terms:1586671600 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:178752287,
+        diga_terms:2044264491,
+        diga_terms:3140442134 ;
+    skosxl:prefLabel diga_terms:178752287 .
+
+diga_terms:4091838882 a skos:Concept ;
+    dc:identifier "4091838882" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2272959923 .
+
+diga_terms:4128950233 a skos:Concept ;
+    dc:identifier "4128950233" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:7433475 ;
+    skosxl:prefLabel diga_terms:496934436 .
+
+diga_terms:41317744 a skos:Concept ;
+    dc:identifier "41317744" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2662867283 .
+
+diga_terms:4168653487 a skos:Concept ;
+    dc:identifier "4168653487" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1979933262,
+        diga_terms:3223640793,
+        diga_terms:802759398 ;
+    skosxl:prefLabel diga_terms:2780367956 .
+
+diga_terms:4177519461 a skos:Concept ;
+    dc:identifier "4177519461" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3992062452 .
+
+diga_terms:4183132877 a skos:Concept ;
+    dc:identifier "4183132877" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2021523139 ;
+    skosxl:prefLabel diga_terms:1600475612 .
+
+diga_terms:4220111191 a skos:Concept ;
+    dc:identifier "4220111191" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:306269468 .
+
+diga_terms:4225164033 a skos:Concept ;
+    dc:identifier "4225164033" ;
+    skos-thes:broaderPartitive diga_terms:3269473915 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1735085564 .
+
+diga_terms:4252736736 a skos:Concept ;
+    dc:identifier "4252736736" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2732175665 .
+
+diga_terms:4281940083 a skos:Concept ;
+    dc:identifier "4281940083" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2397499691 ;
+    skosxl:prefLabel diga_terms:981315242 .
+
+diga_terms:4291248462 a skos:Concept ;
+    dc:identifier "4291248462" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1066918411 .
+
+diga_terms:454106369 a skos:Concept ;
+    dc:identifier "454106369" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1195679102,
+        diga_terms:1646884256,
+        diga_terms:332490604 ;
+    skosxl:prefLabel diga_terms:2513866093 .
+
+diga_terms:482236395 a skos:Concept ;
+    dc:identifier "482236395" ;
+    skos-thes:broaderGeneric diga_terms:3170782702 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3014026403 .
+
+diga_terms:483080818 a skos:Concept ;
+    dc:identifier "483080818" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1525300161,
+        diga_terms:3636676765 ;
+    skosxl:prefLabel diga_terms:1647747004 .
+
+diga_terms:486612948 a skos:Concept ;
+    dc:identifier "486612948" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1287448951 ;
+    skosxl:prefLabel diga_terms:4154088108 .
+
+diga_terms:512573444 a skos:Concept ;
+    dc:identifier "512573444" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1556224676 .
+
+diga_terms:532043520 a skos:Concept ;
+    dc:identifier "532043520" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:3114262002 ;
+    skosxl:prefLabel diga_terms:3170995504 .
+
+diga_terms:547517070 a skos:Concept ;
+    dc:identifier "547517070" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1258394378,
+        diga_terms:925001650 ;
+    skosxl:prefLabel diga_terms:4222101408 .
+
+diga_terms:566876141 a skos:Concept ;
+    dc:identifier "566876141" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3948291891 .
+
+diga_terms:612434578 a skos:Concept ;
+    dc:identifier "612434578" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1223824954 .
+
+diga_terms:619696728 a skos:Concept ;
+    dc:identifier "619696728" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2834678818 ;
+    skosxl:prefLabel diga_terms:3636270421 .
+
+diga_terms:645690525 a skos:Concept ;
+    dc:identifier "645690525" ;
+    skos-thes:broaderPartitive diga_terms:1586671600 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2473095739 .
+
+diga_terms:690756030 a skos:Concept ;
+    dc:identifier "690756030" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2710819267 .
+
+diga_terms:724058930 a skos:Concept ;
+    dc:identifier "724058930" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:168116819 ;
+    skosxl:prefLabel diga_terms:2008444589 .
+
+diga_terms:726281662 a skos:Concept ;
+    dc:identifier "726281662" ;
+    skos-thes:broaderGeneric diga_terms:1115524268 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1719752945 ;
+    skosxl:prefLabel diga_terms:714996088 .
+
+diga_terms:764183953 a skos:Concept ;
+    dc:identifier "764183953" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3402387253 .
+
+diga_terms:770247209 a skos:Concept ;
+    dc:identifier "770247209" ;
+    skos-thes:broaderPartitive diga_terms:3631751723 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2681372457 .
+
+diga_terms:805495619 a skos:Concept ;
+    dc:identifier "805495619" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1135802660,
+        diga_terms:2571489405,
+        diga_terms:3402049428 ;
+    skosxl:prefLabel diga_terms:1148597132 .
+
+diga_terms:813567944 a skos:Concept ;
+    dc:identifier "813567944" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1717386803 ;
+    skosxl:prefLabel diga_terms:4123985296 .
+
+diga_terms:830218566 a skos:Concept ;
+    dc:identifier "830218566" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2575323455,
+        diga_terms:2888630781 ;
+    skosxl:prefLabel diga_terms:899053610 .
+
+diga_terms:839499563 a skos:Concept ;
+    dc:identifier "839499563" ;
+    skos-thes:broaderGeneric diga_terms:3170782702 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2323703734,
+        diga_terms:4071565170 ;
+    skosxl:prefLabel diga_terms:1688846918 .
+
+diga_terms:853052052 a skos:Concept ;
+    dc:identifier "853052052" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3875555981 .
+
+diga_terms:874818794 a skos:Concept ;
+    dc:identifier "874818794" ;
+    skos-thes:broaderPartitive diga_terms:1666088821 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3539210813 .
+
+diga_terms:879812544 a skos:Concept ;
+    dc:identifier "879812544" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:47166754 .
+
+diga_terms:917352473 a skos:Concept ;
+    dc:identifier "917352473" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1017709736,
+        diga_terms:3668225078,
+        diga_terms:994483802 ;
+    skosxl:prefLabel diga_terms:269568758 .
+
+diga_terms:91930371 a skos:Concept ;
+    dc:identifier "91930371" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2770267682 ;
+    skosxl:prefLabel diga_terms:1366513279 .
+
+diga_terms:941523641 a skos:Concept ;
+    dc:identifier "941523641" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3643044940 .
+
+diga_terms:963831828 a skos:Concept ;
+    dc:identifier "963831828" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:685232194 .
+
+diga_terms:982766759 a skos:Concept ;
+    dc:identifier "982766759" ;
+    skos-thes:broaderGeneric diga_terms:3170782702 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1341420120,
+        diga_terms:355826705,
+        diga_terms:469466263 ;
+    skosxl:prefLabel diga_terms:1878744761 .
+
+diga_terms:984786849 a skos:Concept ;
+    dc:identifier "984786849" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1118494952 .
+
+diga_terms:985728460 a skos:Concept ;
+    dc:identifier "985728460" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1289282829,
+        diga_terms:2279355866 ;
+    skosxl:prefLabel diga_terms:589933065 .
+
+diga_terms:991845984 a skos:Concept ;
+    dc:identifier "991845984" ;
+    skos-thes:broaderGeneric diga_terms:858822675 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:4030681540 .
+
+diga_terms:1008445516 a skosxl:Label ;
+    skosxl:literalForm "infant tight to the tree"@en .
+
+diga_terms:1009101213 a skosxl:Label ;
+    skosxl:literalForm "Conversion of Ānanda"@en .
+
+diga_terms:1017709736 a skosxl:Label ;
+    skosxl:literalForm "encounter with a drummer"@en .
+
+diga_terms:102421220 a skosxl:Label ;
+    skosxl:literalForm "setting in motion of the dharma weel"@en .
+
+diga_terms:1038075727 a skosxl:Label ;
+    skosxl:literalForm "The visit of Elapatra"@en .
+
+diga_terms:1041888302 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva and devotee(s)"@en .
+
+diga_terms:1043546777 a skosxl:Label ;
+    skosxl:literalForm "devadatta's assassins"@en .
+
+diga_terms:1052101220 a skosxl:Label ;
+    skosxl:literalForm "Battle scene"@en .
+
+diga_terms:1066918411 a skosxl:Label ;
+    skosxl:literalForm "Offering of the Four Bowls"@en .
+
+diga_terms:107027635 a skosxl:Label ;
+    skosxl:literalForm "Encounter with a brahman"@en .
+
+diga_terms:1076070856 a skosxl:Label ;
+    skosxl:literalForm "Conversion of Ugrasena"@en .
+
+diga_terms:1092475842 a skosxl:Label ;
+    skosxl:literalForm "adoration of the vihara model"@en .
+
+diga_terms:109561671 a skosxl:Label ;
+    skosxl:literalForm "emission of water and fire"@en .
+
+diga_terms:1107063334 a skosxl:Label ;
+    skosxl:literalForm "Isisiṅga-jātaka"@en .
+
+diga_terms:1117629663 a skosxl:Label ;
+    skosxl:literalForm "Torso"@en .
+
+diga_terms:1118494952 a skosxl:Label ;
+    skosxl:literalForm "Generic scenes"@en .
+
+diga_terms:1128198057 a skosxl:Label ;
+    skosxl:literalForm "The Great Renunciation"@en .
+
+diga_terms:1135802660 a skosxl:Label ;
+    skosxl:literalForm "Birth of Kaṇṭhaka and Caṇḍaka"@en .
+
+diga_terms:1148597132 a skosxl:Label ;
+    skosxl:literalForm "Simultaenous births"@en .
+
+diga_terms:1155528897 a skosxl:Label ;
+    skosxl:literalForm "Extinguishing the Buddha’s pyre"@en .
+
+diga_terms:1161450580 a skosxl:Label ;
+    skosxl:literalForm "austerities"@en .
+
+diga_terms:1176148079 a skosxl:Label ;
+    skosxl:literalForm "baccanalian scene"@en .
+
+diga_terms:1178563326 a skosxl:Label ;
+    skosxl:literalForm "Encounter with an old man"@en .
+
+diga_terms:1186061425 a skosxl:Label ;
+    skosxl:literalForm "Invitation of Śrigupta and Grahadatta"@en .
+
+diga_terms:1195349239 a skosxl:Label ;
+    skosxl:literalForm "First meditation"@en .
+
+diga_terms:1195679102 a skosxl:Label ;
+    skosxl:literalForm "Indraśailaguhā"@en .
+
+diga_terms:1196852613 a skosxl:Label ;
+    skosxl:literalForm "Buddhist paradise"@en .
+
+diga_terms:1216751000 a skosxl:Label ;
+    skosxl:literalForm "Offering of Flowers"@en .
+
+diga_terms:122204227 a skosxl:Label ;
+    skosxl:literalForm "buddha in the fire temple"@en .
+
+diga_terms:1223824954 a skosxl:Label ;
+    skosxl:literalForm "Buddha and Bodhisattva under arches"@en .
+
+diga_terms:1240526913 a skosxl:Label ;
+    skosxl:literalForm "dipankara jataka"@en .
+
+diga_terms:1240738359 a skosxl:Label ;
+    skosxl:literalForm "Śyāma jātaka"@en .
+
+diga_terms:1258394378 a skosxl:Label ;
+    skosxl:literalForm "worship of the triratna"@en .
+
+diga_terms:1263419351 a skosxl:Label ;
+    skosxl:literalForm "Attack by Mara's Army"@en .
+
+diga_terms:1274560094 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva Maitreya and donor(s)"@en .
+
+diga_terms:1278697758 a skosxl:Label ;
+    skosxl:literalForm "The story of Āṭavika"@en .
+
+diga_terms:1279826317 a skosxl:Label ;
+    skosxl:literalForm "Buddha, Bodhisattva and donor(s)"@en .
+
+diga_terms:1287448951 a skosxl:Label ;
+    skosxl:literalForm "Offering of Sujātā"@en .
+
+diga_terms:1289282829 a skosxl:Label ;
+    skosxl:literalForm "buddha's death"@en .
+
+diga_terms:129780206 a skosxl:Label ;
+    skosxl:literalForm "conversion of the son"@en .
+
+diga_terms:1325212695 a skosxl:Label ;
+    skosxl:literalForm "Wedding of Siddhārtha Gautama and Yaśodharā"@en .
+
+diga_terms:1327628613 a skosxl:Label ;
+    skosxl:literalForm "Return to Kapilavastu"@en .
+
+diga_terms:1341420120 a skosxl:Label ;
+    skosxl:literalForm "Presentation of the Bride"@en .
+
+diga_terms:1347854864 a skosxl:Label ;
+    skosxl:literalForm "Vyāghrī jātaka"@en .
+
+diga_terms:1350268804 a skosxl:Label ;
+    skosxl:literalForm "scene from the trojan cycle"@en .
+
+diga_terms:1357802746 a skosxl:Label ;
+    skosxl:literalForm "Fencing competition"@en .
+
+diga_terms:1366513279 a skosxl:Label ;
+    skosxl:literalForm "gift of the jetavana"@en .
+
+diga_terms:138059682 a skosxl:Label ;
+    skosxl:literalForm "arrival at the deer park"@en .
+
+diga_terms:1383335160 a skosxl:Label ;
+    skosxl:literalForm "measuring buddha"@en .
+
+diga_terms:1408279773 a skosxl:Label ;
+    skosxl:literalForm "swastika offers grass"@en .
+
+diga_terms:1408932244 a skosxl:Label ;
+    skosxl:literalForm "Hair"@en .
+
+diga_terms:14263809 a skosxl:Label ;
+    skosxl:literalForm "Offering of Dust"@en .
+
+diga_terms:1464809380 a skosxl:Label ;
+    skosxl:literalForm "life story of buddha"@en .
+
+diga_terms:1474378547 a skosxl:Label ;
+    skosxl:literalForm "Buddha and deities in devotion"@en .
+
+diga_terms:1488502503 a skosxl:Label ;
+    skosxl:literalForm "meeting with rāhula"@en .
+
+diga_terms:1493011111 a skosxl:Label ;
+    skosxl:literalForm "interpretation of the horoscope"@en .
+
+diga_terms:1512603004 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva Śākyamuni"@en .
+
+diga_terms:1512674316 a skosxl:Label ;
+    skosxl:literalForm "Siddhārtha’s archery contest"@en .
+
+diga_terms:1524993880 a skosxl:Label ;
+    skosxl:literalForm "Scenes of adoration"@en .
+
+diga_terms:1525300161 a skosxl:Label ;
+    skosxl:literalForm "worship of the water flask"@en .
+
+diga_terms:1552089071 a skosxl:Label ;
+    skosxl:literalForm "Pastoral scene"@en .
+
+diga_terms:1556224676 a skosxl:Label ;
+    skosxl:literalForm "Preparation of the seat of Enlightenment"@en .
+
+diga_terms:1574218667 a skosxl:Label ;
+    skosxl:literalForm "viśvantara jataka"@en .
+
+diga_terms:1577117405 a skosxl:Label ;
+    skosxl:literalForm "Sumangala and the mendicant "@en .
+
+diga_terms:1600475612 a skosxl:Label ;
+    skosxl:literalForm "adoration of the seat"@en .
+
+diga_terms:1617714321 a skosxl:Label ;
+    skosxl:literalForm "Story of the white elephant"@en .
+
+diga_terms:1623548721 a skosxl:Label ;
+    skosxl:literalForm "Prediction of Asita"@en .
+
+diga_terms:1624530795 a skosxl:Label ;
+    skosxl:literalForm "dream scene"@en .
+
+diga_terms:1633447538 a skosxl:Label ;
+    skosxl:literalForm "palace life"@en .
+
+diga_terms:16392180 a skosxl:Label ;
+    skosxl:literalForm "Temptation of Māra's daughters"@en .
+
+diga_terms:1646884256 a skosxl:Label ;
+    skosxl:literalForm "buddha in indra śala cave"@en .
+
+diga_terms:1647747004 a skosxl:Label ;
+    skosxl:literalForm "adoration of the kamandalu"@en .
+
+diga_terms:168116819 a skosxl:Label ;
+    skosxl:literalForm "Submission of the Nāga Apalāla"@en .
+
+diga_terms:1688846918 a skosxl:Label ;
+    skosxl:literalForm "Siddhārtha in school"@en .
+
+diga_terms:1689164348 a skosxl:Label ;
+    skosxl:literalForm "previous birth stories"@en .
+
+diga_terms:1690850159 a skosxl:Label ;
+    skosxl:literalForm "adoration of the stupa"@en .
+
+diga_terms:1717386803 a skosxl:Label ;
+    skosxl:literalForm "Transportation of Buddha's relics"@en .
+
+diga_terms:1719752945 a skosxl:Label ;
+    skosxl:literalForm "amara jātaka"@en .
+
+diga_terms:173203377 a skosxl:Label ;
+    skosxl:literalForm "Dream of Yaśodharā"@en .
+
+diga_terms:1735064530 a skosxl:Label ;
+    skosxl:literalForm "bridal scenes"@en .
+
+diga_terms:1735085564 a skosxl:Label ;
+    skosxl:literalForm "Offering of a cloth"@en .
+
+diga_terms:1736823099 a skosxl:Label ;
+    skosxl:literalForm "The Buddha in the Śākyas House"@en .
+
+diga_terms:1776349555 a skosxl:Label ;
+    skosxl:literalForm "bath scene"@en .
+
+diga_terms:1784248366 a skosxl:Label ;
+    skosxl:literalForm "Instigation of the gods"@en .
+
+diga_terms:1802391317 a skosxl:Label ;
+    skosxl:literalForm "Buddha and devotee(s)"@en .
+
+diga_terms:1809435434 a skosxl:Label ;
+    skosxl:literalForm "Bridal Procession"@en .
+
+diga_terms:1823148404 a skosxl:Label ;
+    skosxl:literalForm "Buddha's funerals"@en .
+
+diga_terms:1838887167 a skosxl:Label ;
+    skosxl:literalForm "enlightenment"@en .
+
+diga_terms:1840943486 a skosxl:Label ;
+    skosxl:literalForm "maitryakanyaka jātaka"@en .
+
+diga_terms:1841618676 a skosxl:Label ;
+    skosxl:literalForm "after the nirvana"@en .
+
+diga_terms:1851373207 a skosxl:Label ;
+    skosxl:literalForm "Great departure"@en .
+
+diga_terms:1856360450 a skosxl:Label ;
+    skosxl:literalForm "Gift of Āmrapālī"@en .
+
+diga_terms:1869242481 a skosxl:Label ;
+    skosxl:literalForm "Presentation of the Buddha's image"@en .
+
+diga_terms:1878744761 a skosxl:Label ;
+    skosxl:literalForm "Presentation of Yaśodharā"@en .
+
+diga_terms:1887258706 a skosxl:Label ;
+    skosxl:literalForm "Conversion of Anāthapiṇḍika"@en .
+
+diga_terms:189589669 a skosxl:Label ;
+    skosxl:literalForm "Nanda removes the elephant"@en .
+
+diga_terms:1959080578 a skosxl:Label ;
+    skosxl:literalForm "merry-making scene"@en .
+
+diga_terms:1973835605 a skosxl:Label ;
+    skosxl:literalForm "śyama jataka"@en .
+
+diga_terms:1979933262 a skosxl:Label ;
+    skosxl:literalForm "the (white) dog barking at the buddha"@en .
+
+diga_terms:19960349 a skosxl:Label ;
+    skosxl:literalForm "worship of the vihara model"@en .
+
+diga_terms:199761138 a skosxl:Label ;
+    skosxl:literalForm "the dream of maya"@en .
+
+diga_terms:2002062438 a skosxl:Label ;
+    skosxl:literalForm "multiplication scene"@en .
+
+diga_terms:2008444589 a skosxl:Label ;
+    skosxl:literalForm "Conversion of the nāga Apalāla"@en .
+
+diga_terms:2016991270 a skosxl:Label ;
+    skosxl:literalForm "miracle before the Kāśyapas"@en .
+
+diga_terms:2021523139 a skosxl:Label ;
+    skosxl:literalForm "worship of the buddha seat"@en .
+
+diga_terms:2027375707 a skosxl:Label ;
+    skosxl:literalForm "mara's attack"@en .
+
+diga_terms:2033227106 a skosxl:Label ;
+    skosxl:literalForm "yamakapratihara"@en .
+
+diga_terms:2033994549 a skosxl:Label ;
+    skosxl:literalForm "Seven steps"@en .
+
+diga_terms:2044264491 a skosxl:Label ;
+    skosxl:literalForm "The Elephant Procession"@en .
+
+diga_terms:2048981607 a skosxl:Label ;
+    skosxl:literalForm "ascetic life"@en .
+
+diga_terms:2052726293 a skosxl:Label ;
+    skosxl:literalForm "Dīpaṅkara Legend"@en .
+
+diga_terms:2056462929 a skosxl:Label ;
+    skosxl:literalForm "Wrestling scene"@en .
+
+diga_terms:2061331747 a skosxl:Label ;
+    skosxl:literalForm "Siddhārtha’s Competes in Wrestling"@en .
+
+diga_terms:206670545 a skosxl:Label ;
+    skosxl:literalForm "intervention of the cousin"@en .
+
+diga_terms:2086266233 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva Maitreya and devotee(s)"@en .
+
+diga_terms:2096335400 a skosxl:Label ;
+    skosxl:literalForm "Buddha under arches"@en .
+
+diga_terms:2100175285 a skosxl:Label ;
+    skosxl:literalForm "nibbana"@en .
+
+diga_terms:2106130135 a skosxl:Label ;
+    skosxl:literalForm "Candraprabha jātaka"@en .
+
+diga_terms:2108785153 a skosxl:Label ;
+    skosxl:literalForm "Avīci Hell"@en .
+
+diga_terms:2118915655 a skosxl:Label ;
+    skosxl:literalForm "Predication scene"@en .
+
+diga_terms:2155707786 a skosxl:Label ;
+    skosxl:literalForm "Miracle of Śrāvasti"@en .
+
+diga_terms:2169320163 a skosxl:Label ;
+    skosxl:literalForm "worship of the Bodhi tree"@en .
+
+diga_terms:2194913873 a skosxl:Label ;
+    skosxl:literalForm "First trip of Siddhārtha from the Palace"@en .
+
+diga_terms:2196175325 a skosxl:Label ;
+    skosxl:literalForm "Buddha's Birth"@en .
+
+diga_terms:223600767 a skosxl:Label ;
+    skosxl:literalForm "Conversion of Rāhula"@en .
+
+diga_terms:22452831 a skosxl:Label ;
+    skosxl:literalForm "Devadatta’s Attempts to murder the Buddha"@en .
+
+diga_terms:2267488453 a skosxl:Label ;
+    skosxl:literalForm "Śaśa jātaka"@en .
+
+diga_terms:227252857 a skosxl:Label ;
+    skosxl:literalForm "Meeting with the Grass-cutter"@en .
+
+diga_terms:2272959923 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva Maitreya"@en .
+
+diga_terms:2279355866 a skosxl:Label ;
+    skosxl:literalForm "mahāparinibbāṇa"@en .
+
+diga_terms:2305669683 a skosxl:Label ;
+    skosxl:literalForm "Buddha next to the bodhi tree"@en .
+
+diga_terms:2306509372 a skos:Concept ;
+    dc:identifier "2306509372" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:4117452326 .
+
+diga_terms:2309239851 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva Mañjuśrī"@en .
+
+diga_terms:2323703734 a skosxl:Label ;
+    skosxl:literalForm "Siddhārtha Gautama in school"@en .
+
+diga_terms:2371759685 a skosxl:Label ;
+    skosxl:literalForm "Death of Māyā"@en .
+
+diga_terms:2376918329 a skosxl:Label ;
+    skosxl:literalForm "Story of the infant hanging from a tree"@en .
+
+diga_terms:2388334343 a skosxl:Label ;
+    skosxl:literalForm "taming of the elephant"@en .
+
+diga_terms:2396227533 a skosxl:Label ;
+    skosxl:literalForm "Attempt to measure the Buddha"@en .
+
+diga_terms:2397499691 a skosxl:Label ;
+    skosxl:literalForm "interpretation of the dream"@en .
+
+diga_terms:2398988895 a skosxl:Label ;
+    skosxl:literalForm "Athletic contests"@en .
+
+diga_terms:241149069 a skosxl:Label ;
+    skosxl:literalForm "Buddha and ascetic(s)"@en .
+
+diga_terms:2415215059 a skosxl:Label ;
+    skosxl:literalForm "Sudaṣṇa jātaka"@en .
+
+diga_terms:242138836 a skosxl:Label ;
+    skosxl:literalForm "adoration of the fire altar"@en .
+
+diga_terms:2428013260 a skosxl:Label ;
+    skosxl:literalForm "Devadatta attempting to murder the Buddha"@en .
+
+diga_terms:2436492235 a skosxl:Label ;
+    skosxl:literalForm "Worship of the bowl in Tuṣita Heaven"@en .
+
+diga_terms:2440302614 a skosxl:Label ;
+    skosxl:literalForm "episode of the nun"@en .
+
+diga_terms:2442461033 a skosxl:Label ;
+    skosxl:literalForm "Buddha and naga in devotion"@en .
+
+diga_terms:2445069470 a skosxl:Label ;
+    skosxl:literalForm "Encounter of a funerary procession man"@en .
+
+diga_terms:24451080 a skosxl:Label ;
+    skosxl:literalForm "Feet"@en .
+
+diga_terms:2464923454 a skosxl:Label ;
+    skosxl:literalForm "Distribution of the Relics"@en .
+
+diga_terms:2473095739 a skosxl:Label ;
+    skosxl:literalForm "Devadatta kills the elephant"@en .
+
+diga_terms:2473450118 a skosxl:Label ;
+    skosxl:literalForm "Episode from the Rāmāyaṇa"@en .
+
+diga_terms:2477953804 a skosxl:Label ;
+    skosxl:literalForm "Pārāyaṇa episode"@en .
+
+diga_terms:2481606150 a skosxl:Label ;
+    skosxl:literalForm "Story of Paṭikaputra"@en .
+
+diga_terms:2488556452 a skosxl:Label ;
+    skosxl:literalForm "buddha at uruvilva"@en .
+
+diga_terms:2494654664 a skosxl:Label ;
+    skosxl:literalForm "Generic scenes with Bodhisattva"@en .
+
+diga_terms:2495599369 a skosxl:Label ;
+    skosxl:literalForm "coquetry scene"@en .
+
+diga_terms:2502287960 a skosxl:Label ;
+    skosxl:literalForm "Encounter with the skull-tapper"@en .
+
+diga_terms:2513866093 a skosxl:Label ;
+    skosxl:literalForm "Visit of Indra"@en .
+
+diga_terms:2517648328 a skosxl:Label ;
+    skosxl:literalForm "meeting with the son"@en .
+
+diga_terms:2537879567 a skosxl:Label ;
+    skosxl:literalForm "instigation to be born"@en .
+
+diga_terms:2539399557 a skosxl:Label ;
+    skosxl:literalForm "proceeding toward annual fair"@en .
+
+diga_terms:2545640896 a skosxl:Label ;
+    skosxl:literalForm "Birth Cycle"@en .
+
+diga_terms:2571489405 a skosxl:Label ;
+    skosxl:literalForm "Birth of Kaṇṭhaka"@en .
+
+diga_terms:2575323455 a skosxl:Label ;
+    skosxl:literalForm "episode of sudaya"@en .
+
+diga_terms:2622195412 a skosxl:Label ;
+    skosxl:literalForm "Visit of Māyā"@en .
+
+diga_terms:2639481347 a skosxl:Label ;
+    skosxl:literalForm "Predication"@en .
+
+diga_terms:2646619780 a skosxl:Label ;
+    skosxl:literalForm "Farewell of Chandaka and Kaṇṭhaka"@en .
+
+diga_terms:2662867283 a skosxl:Label ;
+    skosxl:literalForm "Ruru jātaka"@en .
+
+diga_terms:2670908834 a skosxl:Label ;
+    skosxl:literalForm "establishment of the order of nuns"@en .
+
+diga_terms:2681372457 a skosxl:Label ;
+    skosxl:literalForm "Music competition"@en .
+
+diga_terms:2681848640 a skosxl:Label ;
+    skosxl:literalForm "Adoration of the Relics "@en .
+
+diga_terms:269568758 a skosxl:Label ;
+    skosxl:literalForm "Encounter with a drum-player"@en .
+
+diga_terms:2710819267 a skosxl:Label ;
+    skosxl:literalForm "Conversion of Kṣema"@en .
+
+diga_terms:2714470828 a skosxl:Label ;
+    skosxl:literalForm "Farewell to Kaṇṭhaka and Caṇḍaka"@en .
+
+diga_terms:2717959056 a skosxl:Label ;
+    skosxl:literalForm "wedding"@en .
+
+diga_terms:2719950531 a skosxl:Label ;
+    skosxl:literalForm "adoration of the bodhi tree"@en .
+
+diga_terms:2732175665 a skosxl:Label ;
+    skosxl:literalForm "Naḷapāna jātaka"@en .
+
+diga_terms:2754795699 a skosxl:Label ;
+    skosxl:literalForm "Hand(s)"@en .
+
+diga_terms:2770267682 a skosxl:Label ;
+    skosxl:literalForm "Anathapindika's gift"@en .
+
+diga_terms:2774663643 a skosxl:Label ;
+    skosxl:literalForm "encounter with the death"@en .
+
+diga_terms:2780367956 a skosxl:Label ;
+    skosxl:literalForm "story of the dog"@en .
+
+diga_terms:2832729755 a skosxl:Label ;
+    skosxl:literalForm "Generic Scenes with Buddha"@en .
+
+diga_terms:2834678818 a skosxl:Label ;
+    skosxl:literalForm "episode of Muciliñda"@en .
+
+diga_terms:2850468949 a skosxl:Label ;
+    skosxl:literalForm "Body parts (fragments)"@en .
+
+diga_terms:2865002103 a skosxl:Label ;
+    skosxl:literalForm "Siddhārtha’s Riding Competition"@en .
+
+diga_terms:2888630781 a skosxl:Label ;
+    skosxl:literalForm "story of the newborn sudaya"@en .
+
+diga_terms:2891089375 a skosxl:Label ;
+    skosxl:literalForm "Path to enligthenment"@en .
+
+diga_terms:289880414 a skosxl:Label ;
+    skosxl:literalForm "gift of the courtesan"@en .
+
+diga_terms:2907624565 a skosxl:Label ;
+    skosxl:literalForm "Worship of a stūpa"@en .
+
+diga_terms:2909229989 a skosxl:Label ;
+    skosxl:literalForm "mahāpajāpatī's request"@en .
+
+diga_terms:2946294832 a skosxl:Label ;
+    skosxl:literalForm "Offering of the two merchants"@en .
+
+diga_terms:2960037965 a skosxl:Label ;
+    skosxl:literalForm "Trojan horse"@en .
+
+diga_terms:297365002 a skosxl:Label ;
+    skosxl:literalForm "Past lives"@en .
+
+diga_terms:2976700084 a skosxl:Label ;
+    skosxl:literalForm "Buddha's footprints"@en .
+
+diga_terms:3014026403 a skosxl:Label ;
+    skosxl:literalForm "Ornaments of Bodhisattva Śākyamuni"@en .
+
+diga_terms:3022032706 a skosxl:Label ;
+    skosxl:literalForm "Marriage of the Bodhisattva"@en .
+
+diga_terms:3026736369 a skosxl:Label ;
+    skosxl:literalForm "conversion of the potter"@en .
+
+diga_terms:3049175402 a skosxl:Label ;
+    skosxl:literalForm "encounter witht the ascetic"@en .
+
+diga_terms:3051476359 a skosxl:Label ;
+    skosxl:literalForm "visit of the naga king"@en .
+
+diga_terms:306269468 a skosxl:Label ;
+    skosxl:literalForm "Chandaka and Kaṇṭhaka Return "@en .
+
+diga_terms:307736458 a skosxl:Label ;
+    skosxl:literalForm "toiletry scene"@en .
+
+diga_terms:3101431266 a skosxl:Label ;
+    skosxl:literalForm "The Bodhisattva in his palace with his wife and musicians"@en .
+
+diga_terms:3107716523 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva Maitreya in Tuṣita Heaven"@en .
+
+diga_terms:3109583981 a skosxl:Label ;
+    skosxl:literalForm "Offering scene"@en .
+
+diga_terms:3114262002 a skosxl:Label ;
+    skosxl:literalForm "Bath in the Nairañjanā"@en .
+
+diga_terms:3121922936 a skosxl:Label ;
+    skosxl:literalForm "conversion of the cannibal demon"@en .
+
+diga_terms:3131312224 a skosxl:Label ;
+    skosxl:literalForm "Self-mortification"@en .
+
+diga_terms:3140442134 a skosxl:Label ;
+    skosxl:literalForm "The State Elephant Sent to Siddhārtha"@en .
+
+diga_terms:3156440561 a skosxl:Label ;
+    skosxl:literalForm "adoration of the chakra"@en .
+
+diga_terms:3170995504 a skosxl:Label ;
+    skosxl:literalForm "bath in the river"@en .
+
+diga_terms:3172213882 a skosxl:Label ;
+    skosxl:literalForm "Buddha and Ānanda in the Tuṣita"@en .
+
+diga_terms:3186622726 a skosxl:Label ;
+    skosxl:literalForm "Awakening"@en .
+
+diga_terms:3189098691 a skosxl:Label ;
+    skosxl:literalForm "Śibi jātaka"@en .
+
+diga_terms:3194755666 a skosxl:Label ;
+    skosxl:literalForm "Wandering Buddha and followers"@en .
+
+diga_terms:3196072427 a skosxl:Label ;
+    skosxl:literalForm "bodhi"@en .
+
+diga_terms:3201442503 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva under arches"@en .
+
+diga_terms:3210790756 a skosxl:Label ;
+    skosxl:literalForm "Buddha thanking the bodhi tree"@en .
+
+diga_terms:3223640793 a skosxl:Label ;
+    skosxl:literalForm "barking of the white dog"@en .
+
+diga_terms:3224596403 a skosxl:Label ;
+    skosxl:literalForm "Visit to the Ascetic "@en .
+
+diga_terms:323290722 a skosxl:Label ;
+    skosxl:literalForm "Arrival at Rājagṛiha "@en .
+
+diga_terms:3242875618 a skosxl:Label ;
+    skosxl:literalForm "narratives"@en .
+
+diga_terms:3244237003 a skosxl:Label ;
+    skosxl:literalForm "Division of the Buddha's relics"@en .
+
+diga_terms:3257225379 a skosxl:Label ;
+    skosxl:literalForm "Buddha preaching the Dharma in the Trāyastriṃśa Heaven "@en .
+
+diga_terms:3266998777 a skosxl:Label ;
+    skosxl:literalForm "Preparation for the great departure"@en .
+
+diga_terms:32786306 a skosxl:Label ;
+    skosxl:literalForm "yamakkapattihara"@en .
+
+diga_terms:3283889122 a skosxl:Label ;
+    skosxl:literalForm "Submission of the elephant Nāḷāgiri"@en .
+
+diga_terms:3287213402 a skosxl:Label ;
+    skosxl:literalForm "worship of the nun"@en .
+
+diga_terms:3299037321 a skosxl:Label ;
+    skosxl:literalForm "Visit of the Ascetics"@en .
+
+diga_terms:3300063007 a skosxl:Label ;
+    skosxl:literalForm "Competitions"@en .
+
+diga_terms:3305530031 a skosxl:Label ;
+    skosxl:literalForm "after the Parinirvana"@en .
+
+diga_terms:331393717 a skosxl:Label ;
+    skosxl:literalForm "The Buddha among His Monks"@en .
+
+diga_terms:3314169440 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva Avalokiteśvara"@en .
+
+diga_terms:3322601314 a skos:Concept ;
+    dc:identifier "3322601314" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1128198057 .
+
+diga_terms:332490604 a skosxl:Label ;
+    skosxl:literalForm "Indra's visit"@en .
+
+diga_terms:3353400425 a skosxl:Label ;
+    skosxl:literalForm "Adoration of Siddhārtha’s turban"@en .
+
+diga_terms:3355944597 a skosxl:Label ;
+    skosxl:literalForm "Viśvaṃtara jātaka"@en .
+
+diga_terms:3369465074 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva Śākyamuni in Tuṣita Heaven"@en .
+
+diga_terms:33740598 a skosxl:Label ;
+    skosxl:literalForm "Buddha and donor(s)"@en .
+
+diga_terms:3383453816 a skosxl:Label ;
+    skosxl:literalForm "washing of the garment"@en .
+
+diga_terms:3386231658 a skosxl:Label ;
+    skosxl:literalForm "monkeys offering honey"@en .
+
+diga_terms:3397843173 a skosxl:Label ;
+    skosxl:literalForm "Jātakas"@en .
+
+diga_terms:3402049428 a skosxl:Label ;
+    skosxl:literalForm "birth of caṇḍaka"@en .
+
+diga_terms:3402387253 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva Avalokiteśvara/Padmapāṇi"@en .
+
+diga_terms:340643886 a skosxl:Label ;
+    skosxl:literalForm "Other scenes"@en .
+
+diga_terms:3420156824 a skosxl:Label ;
+    skosxl:literalForm "Wrestling competition"@en .
+
+diga_terms:3429201009 a skosxl:Label ;
+    skosxl:literalForm "twin miracles"@en .
+
+diga_terms:3436827906 a skosxl:Label ;
+    skosxl:literalForm "Yaśodharā holding Siddhārtha Gautama back"@en .
+
+diga_terms:3441166081 a skosxl:Label ;
+    skosxl:literalForm "Relic(s) and devotee(s)"@en .
+
+diga_terms:3454222054 a skosxl:Label ;
+    skosxl:literalForm "The Bath"@en .
+
+diga_terms:3462469395 a skosxl:Label ;
+    skosxl:literalForm "Visit of the sixteen ascetics"@en .
+
+diga_terms:347122278 a skosxl:Label ;
+    skosxl:literalForm "Mundane scenes"@en .
+
+diga_terms:347266930 a skosxl:Label ;
+    skosxl:literalForm "śrigupta's invitation"@en .
+
+diga_terms:3473505417 a skosxl:Label ;
+    skosxl:literalForm "Offering by Andhakavinda"@en .
+
+diga_terms:3539210813 a skosxl:Label ;
+    skosxl:literalForm "yashodara performing homa"@en .
+
+diga_terms:3540130337 a skosxl:Label ;
+    skosxl:literalForm "Erotic scene"@en .
+
+diga_terms:355391337 a skosxl:Label ;
+    skosxl:literalForm "fasting"@en .
+
+diga_terms:3557900932 a skosxl:Label ;
+    skosxl:literalForm "Ṣaḍdanta jātaka"@en .
+
+diga_terms:355826705 a skosxl:Label ;
+    skosxl:literalForm "Announce of the Choice of Siddhārtha's Bride"@en .
+
+diga_terms:3564651678 a skosxl:Label ;
+    skosxl:literalForm "Buddha and Bodhisattva Maitreya"@en .
+
+diga_terms:3584291560 a skosxl:Label ;
+    skosxl:literalForm "Maitrakanyaka jātaka"@en .
+
+diga_terms:3613540323 a skosxl:Label ;
+    skosxl:literalForm "siddhartha and the dead elephant"@en .
+
+diga_terms:3618879042 a skosxl:Label ;
+    skosxl:literalForm "The Buddha and a couple"@en .
+
+diga_terms:3636270421 a skosxl:Label ;
+    skosxl:literalForm "Protection of the nāga king"@en .
+
+diga_terms:3636676765 a skosxl:Label ;
+    skosxl:literalForm "worship of the kamandalu"@en .
+
+diga_terms:3638345782 a skosxl:Label ;
+    skosxl:literalForm "Tug of war competition"@en .
+
+diga_terms:3643044940 a skosxl:Label ;
+    skosxl:literalForm "Buddhist triade"@en .
+
+diga_terms:3643886390 a skosxl:Label ;
+    skosxl:literalForm "Cremation of the Buddha"@en .
+
+diga_terms:3646088061 a skosxl:Label ;
+    skosxl:literalForm "Buddha in meditation"@en .
+
+diga_terms:3649844084 a skosxl:Label ;
+    skosxl:literalForm "The Parinirvana Cycle"@en .
+
+diga_terms:3666429694 a skosxl:Label ;
+    skosxl:literalForm "the Pārāyaṇika brāhmaṇas"@en .
+
+diga_terms:3668225078 a skosxl:Label ;
+    skosxl:literalForm "arrival at rajagṛha"@en .
+
+diga_terms:3668807930 a skosxl:Label ;
+    skosxl:literalForm "Gift of dust"@en .
+
+diga_terms:3670203030 a skosxl:Label ;
+    skosxl:literalForm "Ekaśṛṅga-jātaka"@en .
+
+diga_terms:3676112002 a skosxl:Label ;
+    skosxl:literalForm "Banquet scene"@en .
+
+diga_terms:3687611044 a skosxl:Label ;
+    skosxl:literalForm "Encounter with the grass-cutter"@en .
+
+diga_terms:3697987622 a skosxl:Label ;
+    skosxl:literalForm "Worship of the Buddha's bowl"@en .
+
+diga_terms:3701018438 a skosxl:Label ;
+    skosxl:literalForm "conversion of Elāpatra"@en .
+
+diga_terms:3701952226 a skosxl:Label ;
+    skosxl:literalForm "Māra's Assault"@en .
+
+diga_terms:3766997619 a skosxl:Label ;
+    skosxl:literalForm "Encounter of Milinda and Ajitakesakambali"@en .
+
+diga_terms:3778080173 a skosxl:Label ;
+    skosxl:literalForm "birth of siddharta"@en .
+
+diga_terms:3780304104 a skosxl:Label ;
+    skosxl:literalForm "Archery competition"@en .
+
+diga_terms:3785243457 a skosxl:Label ;
+    skosxl:literalForm "Buddha(s) of the past"@en .
+
+diga_terms:3805769269 a skosxl:Label ;
+    skosxl:literalForm "Other narratives"@en .
+
+diga_terms:3823392210 a skosxl:Label ;
+    skosxl:literalForm "Siddharta's horoscope"@en .
+
+diga_terms:3853551497 a skosxl:Label ;
+    skosxl:literalForm "Conversion of Bimbisāra"@en .
+
+diga_terms:3866302004 a skosxl:Label ;
+    skosxl:literalForm "Bathing scene"@en .
+
+diga_terms:3875555981 a skosxl:Label ;
+    skosxl:literalForm "Gods Entreat the Buddha to Preach"@en .
+
+diga_terms:3876132373 a skosxl:Label ;
+    skosxl:literalForm "Buddha performing a miracle before ascetics"@en .
+
+diga_terms:3925272133 a skosxl:Label ;
+    skosxl:literalForm "episode of utpalavarnā"@en .
+
+diga_terms:3926835588 a skosxl:Label ;
+    skosxl:literalForm "monk offering a seat to the Buddha"@en .
+
+diga_terms:392938593 a skosxl:Label ;
+    skosxl:literalForm "Hasti/Naga jātaka"@en .
+
+diga_terms:3932676553 a skosxl:Label ;
+    skosxl:literalForm "gift of the monkey"@en .
+
+diga_terms:3944719224 a skosxl:Label ;
+    skosxl:literalForm "trapusha and balika's food offering"@en .
+
+diga_terms:3948291891 a skosxl:Label ;
+    skosxl:literalForm "Relic(s) under arches"@en .
+
+diga_terms:3964284904 a skosxl:Label ;
+    skosxl:literalForm "Candrakinnara jātaka"@en .
+
+diga_terms:3981323018 a skosxl:Label ;
+    skosxl:literalForm "offering a handful of dust"@en .
+
+diga_terms:3992062452 a skosxl:Label ;
+    skosxl:literalForm "Story of a Bird and a Monk"@en .
+
+diga_terms:399543155 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva and donor(s)"@en .
+
+diga_terms:3995677752 a skosxl:Label ;
+    skosxl:literalForm "Worship of the golden vase in Tuṣita Heaven"@en .
+
+diga_terms:4005402316 a skosxl:Label ;
+    skosxl:literalForm "Encounter with a sick man"@en .
+
+diga_terms:4015748236 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva’s turban"@en .
+
+diga_terms:4017642373 a skosxl:Label ;
+    skosxl:literalForm "Renounciation to princely life"@en .
+
+diga_terms:4022717954 a skosxl:Label ;
+    skosxl:literalForm "worship of buddha dhuni"@en .
+
+diga_terms:4030681540 a skosxl:Label ;
+    skosxl:literalForm "Presentation to the temple"@en .
+
+diga_terms:4034145847 a skosxl:Label ;
+    skosxl:literalForm "Last Existence"@en .
+
+diga_terms:4038495384 a skosxl:Label ;
+    skosxl:literalForm "Conversion of the yakṣa"@en .
+
+diga_terms:4049160744 a skosxl:Label ;
+    skosxl:literalForm "Encounter with a mendicant"@en .
+
+diga_terms:4060778061 a skosxl:Label ;
+    skosxl:literalForm "Buddha worshipped by Nāgas"@en .
+
+diga_terms:4069343125 a skosxl:Label ;
+    skosxl:literalForm "Buddha and monks"@en .
+
+diga_terms:4071565170 a skosxl:Label ;
+    skosxl:literalForm "Siddhārtha Goes to School"@en .
+
+diga_terms:4088231432 a skosxl:Label ;
+    skosxl:literalForm "Life in the palace"@en .
+
+diga_terms:4089776839 a skosxl:Label ;
+    skosxl:literalForm "Conversion of the prince of Atavi"@en .
+
+diga_terms:4117452326 a skosxl:Label ;
+    skosxl:literalForm "Descent from the Trāyastriṃśa Heaven"@en .
+
+diga_terms:4123985296 a skosxl:Label ;
+    skosxl:literalForm "Transportation of the Relics"@en .
+
+diga_terms:4135192464 a skosxl:Label ;
+    skosxl:literalForm "Bodhisattva Padmapāṇi"@en .
+
+diga_terms:413944684 a skosxl:Label ;
+    skosxl:literalForm "Buddha with humped bull and other figures"@en .
+
+diga_terms:4140544610 a skosxl:Label ;
+    skosxl:literalForm "Defeat of Māra"@en .
+
+diga_terms:4145791453 a skosxl:Label ;
+    skosxl:literalForm "Indasamānagotta jātaka"@en .
+
+diga_terms:4154088108 a skosxl:Label ;
+    skosxl:literalForm "offering of the milkmaid(s)"@en .
+
+diga_terms:4170127419 a skosxl:Label ;
+    skosxl:literalForm "Maitreya with worshipper(s)"@en .
+
+diga_terms:4180273779 a skosxl:Label ;
+    skosxl:literalForm "Adoration of the Alms-bowl"@en .
+
+diga_terms:4180681863 a skosxl:Label ;
+    skosxl:literalForm "Intervention of Ananda"@en .
+
+diga_terms:4187223339 a skosxl:Label ;
+    skosxl:literalForm "palace and street scenes"@en .
+
+diga_terms:4189483822 a skosxl:Label ;
+    skosxl:literalForm "four encounters"@en .
+
+diga_terms:4192410410 a skosxl:Label ;
+    skosxl:literalForm "dyonisian scene"@en .
+
+diga_terms:4204852502 a skosxl:Label ;
+    skosxl:literalForm "Departure to Lumbinī"@en .
+
+diga_terms:4205909710 a skosxl:Label ;
+    skosxl:literalForm "Buddha and Vajrapani"@en .
+
+diga_terms:4222101408 a skosxl:Label ;
+    skosxl:literalForm "adoration of the triratna"@en .
+
+diga_terms:4238339226 a skosxl:Label ;
+    skosxl:literalForm "Relics"@en .
+
+diga_terms:4240561822 a skosxl:Label ;
+    skosxl:literalForm "intervention of ānanda"@en .
+
+diga_terms:4246954177 a skosxl:Label ;
+    skosxl:literalForm "miracles in front of the kaśyapa assembly"@en .
+
+diga_terms:4253139233 a skosxl:Label ;
+    skosxl:literalForm "Consolation of Ānanda"@en .
+
+diga_terms:4253843974 a skosxl:Label ;
+    skosxl:literalForm "worship of the Buddha's turban"@en .
+
+diga_terms:427906295 a skosxl:Label ;
+    skosxl:literalForm "conversion of the brigand"@en .
+
+diga_terms:4280982870 a skosxl:Label ;
+    skosxl:literalForm "Buddha and putto feeding a lion"@en .
+
+diga_terms:4285851978 a skosxl:Label ;
+    skosxl:literalForm "Invitation of the Śakhyas"@en .
+
+diga_terms:451041045 a skosxl:Label ;
+    skosxl:literalForm "Prosternation of the humped-back bull"@en .
+
+diga_terms:463881249 a skosxl:Label ;
+    skosxl:literalForm "conversion of the cousin"@en .
+
+diga_terms:467616027 a skosxl:Label ;
+    skosxl:literalForm "Previous Births"@en .
+
+diga_terms:469466263 a skosxl:Label ;
+    skosxl:literalForm "presentation of gopa"@en .
+
+diga_terms:47166754 a skosxl:Label ;
+    skosxl:literalForm "dispute of the relics"@en .
+
+diga_terms:474640206 a skosxl:Label ;
+    skosxl:literalForm "Māyā's dream"@en .
+
+diga_terms:496934436 a skosxl:Label ;
+    skosxl:literalForm "Birth of the infant from the pyre"@en .
+
+diga_terms:497912436 a skosxl:Label ;
+    skosxl:literalForm "Worship of the Buddha's relics"@en .
+
+diga_terms:506452277 a skosxl:Label ;
+    skosxl:literalForm "lassoed humped bull"@en .
+
+diga_terms:512652904 a skosxl:Label ;
+    skosxl:literalForm "Relic(s) and devotee(s) under arches"@en .
+
+diga_terms:514377482 a skosxl:Label ;
+    skosxl:literalForm "Hunting scene"@en .
+
+diga_terms:531041602 a skosxl:Label ;
+    skosxl:literalForm "Buddha and devotee(s) under arches"@en .
+
+diga_terms:534644021 a skosxl:Label ;
+    skosxl:literalForm "school going scene"@en .
+
+diga_terms:545741929 a skosxl:Label ;
+    skosxl:literalForm "Life in the palace"@en .
+
+diga_terms:547214903 a skosxl:Label ;
+    skosxl:literalForm "Siddharta's Life"@en .
+
+diga_terms:557577352 a skosxl:Label ;
+    skosxl:literalForm "adoration of the turban"@en .
+
+diga_terms:563396076 a skosxl:Label ;
+    skosxl:literalForm "conversion of sundarānanda"@en .
+
+diga_terms:563644764 a skosxl:Label ;
+    skosxl:literalForm "ramayana subject"@en .
+
+diga_terms:573825593 a skosxl:Label ;
+    skosxl:literalForm "Miracle scene"@en .
+
+diga_terms:588663173 a skosxl:Label ;
+    skosxl:literalForm "emanation of fire and stream"@en .
+
+diga_terms:589933065 a skosxl:Label ;
+    skosxl:literalForm "Mahāparinirvāṇa"@en .
+
+diga_terms:596033623 a skosxl:Label ;
+    skosxl:literalForm "Cutting of the hair"@en .
+
+diga_terms:600572739 a skosxl:Label ;
+    skosxl:literalForm "Buddha and Bodhisattva"@en .
+
+diga_terms:607064484 a skosxl:Label ;
+    skosxl:literalForm "preaching in the trāyastriṃśa heaven"@en .
+
+diga_terms:616665967 a skosxl:Label ;
+    skosxl:literalForm "revelry scene"@en .
+
+diga_terms:623460492 a skosxl:Label ;
+    skosxl:literalForm "worship of the fire altar"@en .
+
+diga_terms:644611714 a skosxl:Label ;
+    skosxl:literalForm "marriage scenes"@en .
+
+diga_terms:672364902 a skosxl:Label ;
+    skosxl:literalForm "drinking scene"@en .
+
+diga_terms:685232194 a skosxl:Label ;
+    skosxl:literalForm "Exchange of clothes with a hunter"@en .
+
+diga_terms:686784177 a skosxl:Label ;
+    skosxl:literalForm "Ṛṣyaśṛṅga jātaka"@en .
+
+diga_terms:691294712 a skosxl:Label ;
+    skosxl:literalForm "Great Miracle of Śrāvastī"@en .
+
+diga_terms:697039992 a skosxl:Label ;
+    skosxl:literalForm "Departure from Kapilavastu"@en .
+
+diga_terms:702632376 a skosxl:Label ;
+    skosxl:literalForm "nirvana"@en .
+
+diga_terms:70689151 a skosxl:Label ;
+    skosxl:literalForm "Siddhārtha Gautama going to school"@en .
+
+diga_terms:712307622 a skosxl:Label ;
+    skosxl:literalForm "visit to the deceased mother"@en .
+
+diga_terms:714734836 a skosxl:Label ;
+    skosxl:literalForm "The Buddha and the Skull Tapper"@en .
+
+diga_terms:714996088 a skosxl:Label ;
+    skosxl:literalForm "Amarādevī in Mahoṣadha jātaka"@en .
+
+diga_terms:717550086 a skosxl:Label ;
+    skosxl:literalForm "presenting the image of buddha"@en .
+
+diga_terms:738674399 a skosxl:Label ;
+    skosxl:literalForm "Visit of Bimbisāra"@en .
+
+diga_terms:7433475 a skosxl:Label ;
+    skosxl:literalForm "Birth of Jyotiśka"@en .
+
+diga_terms:75206574 a skosxl:Label ;
+    skosxl:literalForm "Siddhārta rides to school (on a ram)"@en .
+
+diga_terms:769145852 a skosxl:Label ;
+    skosxl:literalForm "Conversion of Aṅgulimāla"@en .
+
+diga_terms:802759398 a skosxl:Label ;
+    skosxl:literalForm "episode of the (white) dog"@en .
+
+diga_terms:814066760 a skosxl:Label ;
+    skosxl:literalForm "Buddha's Obsequies"@en .
+
+diga_terms:840158769 a skosxl:Label ;
+    skosxl:literalForm "Leg(s)"@en .
+
+diga_terms:845117227 a skosxl:Label ;
+    skosxl:literalForm "Māravijāya"@en .
+
+diga_terms:853603635 a skosxl:Label ;
+    skosxl:literalForm "first sermon"@en .
+
+diga_terms:875168289 a skosxl:Label ;
+    skosxl:literalForm "Guarding the Relics "@en .
+
+diga_terms:895915498 a skosxl:Label ;
+    skosxl:literalForm "descent of the white elephant"@en .
+
+diga_terms:899053610 a skosxl:Label ;
+    skosxl:literalForm "nursling of the dead woman"@en .
+
+diga_terms:900419164 a skosxl:Label ;
+    skosxl:literalForm "Hymn of the nāga Kalika"@en .
+
+diga_terms:911050452 a skosxl:Label ;
+    skosxl:literalForm "conversion of nanada"@en .
+
+diga_terms:925001650 a skosxl:Label ;
+    skosxl:literalForm "Adoration of the Three Jewels"@en .
+
+diga_terms:928224254 a skosxl:Label ;
+    skosxl:literalForm "multiplication of buddha's image"@en .
+
+diga_terms:932844697 a skosxl:Label ;
+    skosxl:literalForm "quest to enlighenment"@en .
+
+diga_terms:953695911 a skosxl:Label ;
+    skosxl:literalForm "Worship of the Dharma-wheel"@en .
+
+diga_terms:965793988 a skosxl:Label ;
+    skosxl:literalForm "lion hunt"@en .
+
+diga_terms:981315242 a skosxl:Label ;
+    skosxl:literalForm "Interpretation of Māyā's Dream"@en .
+
+diga_terms:994483802 a skosxl:Label ;
+    skosxl:literalForm "Buddha and a drummer"@en .
+
+diga_terms:1091154113 a skos:Concept ;
+    dc:identifier "1091154113" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:514377482 .
+
+diga_terms:178752287 a skosxl:Label ;
+    skosxl:literalForm "Arrival of the Elephant"@en .
+
+diga_terms:2550564563 a skos:Concept ;
+    dc:identifier "2550564563" ;
+    skos:topConceptOf <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3242875618 .
+
+diga_terms:2937817620 a skosxl:Label ;
+    skosxl:literalForm "Enshrinement of the Relics"@en .
+
+diga_terms:3269473915 a skos:Concept ;
+    dc:identifier "3269473915" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3109583981 .
+
+diga_terms:3658352796 a skos:Concept ;
+    dc:identifier "3658352796" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2033227106,
+        diga_terms:32786306,
+        diga_terms:3429201009,
+        diga_terms:691294712 ;
+    skosxl:prefLabel diga_terms:2155707786 .
+
+diga_terms:1666088821 a skos:Concept ;
+    dc:identifier "1666088821" ;
+    skos-thes:broaderGeneric diga_terms:3170782702 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1735064530,
+        diga_terms:644611714 ;
+    skosxl:prefLabel diga_terms:2717959056 .
+
+diga_terms:3122136768 a skos:Concept ;
+    dc:identifier "3122136768" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2027375707 ;
+    skosxl:prefLabel diga_terms:3701952226 .
+
+diga_terms:815500670 a skos:Concept ;
+    dc:identifier "815500670" ;
+    skos-thes:broaderGeneric diga_terms:2550564563 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1464809380,
+        diga_terms:547214903 ;
+    skosxl:prefLabel diga_terms:4034145847 .
+
+diga_terms:1586671600 a skos:Concept ;
+    dc:identifier "1586671600" ;
+    skos-thes:broaderGeneric diga_terms:3170782702 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1617714321 .
+
+diga_terms:862049948 a skos:Concept ;
+    dc:identifier "862049948" ;
+    skos-thes:broaderGeneric diga_terms:1435154125 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2194913873 ;
+    skosxl:prefLabel diga_terms:4189483822 .
+
+diga_terms:3631751723 a skos:Concept ;
+    dc:identifier "3631751723" ;
+    skos-thes:broaderGeneric diga_terms:3170782702 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:2398988895 ;
+    skosxl:prefLabel diga_terms:3300063007 .
+
+diga_terms:3170782702 a skos:Concept ;
+    dc:identifier "3170782702" ;
+    skos-thes:broaderGeneric diga_terms:815500670 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1633447538 ;
+    skosxl:prefLabel diga_terms:545741929 .
+
+diga_terms:858822675 a skos:Concept ;
+    dc:identifier "858822675" ;
+    skos-thes:broaderGeneric diga_terms:815500670 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2545640896 .
+
+diga_terms:1115524268 a skos:Concept ;
+    dc:identifier "1115524268" ;
+    skos-thes:broaderGeneric diga_terms:2550564563 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:1689164348,
+        diga_terms:297365002,
+        diga_terms:3397843173 ;
+    skosxl:prefLabel diga_terms:467616027 .
+
+diga_terms:1435154125 a skos:Concept ;
+    dc:identifier "1435154125" ;
+    skos-thes:broaderGeneric diga_terms:815500670 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:4017642373 .
+
+<https://w3id.org/diga/terms> a skos:ConceptScheme .
+
