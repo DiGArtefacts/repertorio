@@ -1488,7 +1488,7 @@ diga_terms:1041888302 a skosxl:Label ;
     skosxl:literalForm "bodhisattva and devotee(s)"@en .
 
 diga_terms:1043546777 a skosxl:Label ;
-    skosxl:literalForm "devadatta's assassins"@en .
+    skosxl:literalForm "devadatta’s assassins"@en .
 
 diga_terms:1052101220 a skosxl:Label ;
     skosxl:literalForm "battle scene"@en .
@@ -1569,7 +1569,7 @@ diga_terms:1258394378 a skosxl:Label ;
     skosxl:literalForm "worship of the triratna"@en .
 
 diga_terms:1263419351 a skosxl:Label ;
-    skosxl:literalForm "attack by mara's army"@en .
+    skosxl:literalForm "attack by mara’s army"@en .
 
 diga_terms:1274560094 a skosxl:Label ;
     skosxl:literalForm "bodhisattva maitreya and donor(s)"@en .
@@ -1584,7 +1584,7 @@ diga_terms:1287448951 a skosxl:Label ;
     skosxl:literalForm "offering of sujātā"@en .
 
 diga_terms:1289282829 a skosxl:Label ;
-    skosxl:literalForm "buddha's death"@en .
+    skosxl:literalForm "buddha’s death"@en .
 
 diga_terms:129780206 a skosxl:Label ;
     skosxl:literalForm "conversion of the son"@en .
@@ -1677,7 +1677,7 @@ diga_terms:1633447538 a skosxl:Label ;
     skosxl:literalForm "palace life"@en .
 
 diga_terms:16392180 a skosxl:Label ;
-    skosxl:literalForm "temptation of māra's daughters"@en .
+    skosxl:literalForm "temptation of māra’s daughters"@en .
 
 diga_terms:1646884256 a skosxl:Label ;
     skosxl:literalForm "buddha in indra śala cave"@en .
@@ -1698,7 +1698,7 @@ diga_terms:1690850159 a skosxl:Label ;
     skosxl:literalForm "adoration of the stupa"@en .
 
 diga_terms:1717386803 a skosxl:Label ;
-    skosxl:literalForm "transportation of buddha's relics"@en .
+    skosxl:literalForm "transportation of buddha’s relics"@en .
 
 diga_terms:1719752945 a skosxl:Label ;
     skosxl:literalForm "amara jātaka"@en .
@@ -1728,7 +1728,7 @@ diga_terms:1809435434 a skosxl:Label ;
     skosxl:literalForm "bridal procession"@en .
 
 diga_terms:1823148404 a skosxl:Label ;
-    skosxl:literalForm "buddha's funerals"@en .
+    skosxl:literalForm "buddha’s funerals"@en .
 
 diga_terms:1838887167 a skosxl:Label ;
     skosxl:literalForm "enlightenment"@en .
@@ -1746,7 +1746,7 @@ diga_terms:1856360450 a skosxl:Label ;
     skosxl:literalForm "gift of āmrapālī"@en .
 
 diga_terms:1869242481 a skosxl:Label ;
-    skosxl:literalForm "presentation of the buddha's image"@en .
+    skosxl:literalForm "presentation of the buddha’s image"@en .
 
 diga_terms:1878744761 a skosxl:Label ;
     skosxl:literalForm "presentation of yaśodharā"@en .
@@ -1785,7 +1785,7 @@ diga_terms:2021523139 a skosxl:Label ;
     skosxl:literalForm "worship of the buddha seat"@en .
 
 diga_terms:2027375707 a skosxl:Label ;
-    skosxl:literalForm "mara's attack"@en .
+    skosxl:literalForm "mara’s attack"@en .
 
 diga_terms:2033227106 a skosxl:Label ;
     skosxl:literalForm "yamakapratihara"@en .
@@ -1839,7 +1839,7 @@ diga_terms:2194913873 a skosxl:Label ;
     skosxl:literalForm "first trip of siddhārtha from the palace"@en .
 
 diga_terms:2196175325 a skosxl:Label ;
-    skosxl:literalForm "buddha's birth"@en .
+    skosxl:literalForm "buddha’s birth"@en .
 
 diga_terms:223600767 a skosxl:Label ;
     skosxl:literalForm "conversion of rāhula"@en .
@@ -2010,7 +2010,7 @@ diga_terms:2754795699 a skosxl:Label ;
     skosxl:literalForm "hand(s)"@en .
 
 diga_terms:2770267682 a skosxl:Label ;
-    skosxl:literalForm "anathapindika's gift"@en .
+    skosxl:literalForm "anathapindika’s gift"@en .
 
 diga_terms:2774663643 a skosxl:Label ;
     skosxl:literalForm "encounter with the death"@en .
@@ -2043,7 +2043,7 @@ diga_terms:2907624565 a skosxl:Label ;
     skosxl:literalForm "worship of a stūpa"@en .
 
 diga_terms:2909229989 a skosxl:Label ;
-    skosxl:literalForm "mahāpajāpatī's request"@en .
+    skosxl:literalForm "mahāpajāpatī’s request"@en .
 
 diga_terms:2946294832 a skosxl:Label ;
     skosxl:literalForm "offering of the two merchants"@en .
@@ -2055,7 +2055,7 @@ diga_terms:297365002 a skosxl:Label ;
     skosxl:literalForm "past lives"@en .
 
 diga_terms:2976700084 a skosxl:Label ;
-    skosxl:literalForm "buddha's footprints"@en .
+    skosxl:literalForm "buddha’s footprints"@en .
 
 diga_terms:3014026403 a skosxl:Label ;
     skosxl:literalForm "ornaments of bodhisattva śākyamuni"@en .
@@ -2139,7 +2139,7 @@ diga_terms:3242875618 a skosxl:Label ;
     skosxl:literalForm "narratives"@en .
 
 diga_terms:3244237003 a skosxl:Label ;
-    skosxl:literalForm "division of the buddha's relics"@en .
+    skosxl:literalForm "division of the buddha’s relics"@en .
 
 diga_terms:3257225379 a skosxl:Label ;
     skosxl:literalForm "buddha preaching the dharma in the trāyastriṃśa heaven "@en .
@@ -2178,7 +2178,7 @@ diga_terms:3322601314 a skos:Concept ;
     skosxl:prefLabel diga_terms:1128198057 .
 
 diga_terms:332490604 a skosxl:Label ;
-    skosxl:literalForm "indra's visit"@en .
+    skosxl:literalForm "indra’s visit"@en .
 
 diga_terms:3353400425 a skosxl:Label ;
     skosxl:literalForm "adoration of siddhārtha’s turban"@en .
@@ -2232,7 +2232,7 @@ diga_terms:347122278 a skosxl:Label ;
     skosxl:literalForm "mundane scenes"@en .
 
 diga_terms:347266930 a skosxl:Label ;
-    skosxl:literalForm "śrigupta's invitation"@en .
+    skosxl:literalForm "śrigupta’s invitation"@en .
 
 diga_terms:3473505417 a skosxl:Label ;
     skosxl:literalForm "offering by andhakavinda"@en .
@@ -2250,7 +2250,7 @@ diga_terms:3557900932 a skosxl:Label ;
     skosxl:literalForm "ṣaḍdanta jātaka"@en .
 
 diga_terms:355826705 a skosxl:Label ;
-    skosxl:literalForm "announce of the choice of siddhārtha's bride"@en .
+    skosxl:literalForm "announce of the choice of siddhārtha’s bride"@en .
 
 diga_terms:3564651678 a skosxl:Label ;
     skosxl:literalForm "buddha and bodhisattva maitreya"@en .
@@ -2304,13 +2304,13 @@ diga_terms:3687611044 a skosxl:Label ;
     skosxl:literalForm "encounter with the grass-cutter"@en .
 
 diga_terms:3697987622 a skosxl:Label ;
-    skosxl:literalForm "worship of the buddha's bowl"@en .
+    skosxl:literalForm "worship of the buddha’s bowl"@en .
 
 diga_terms:3701018438 a skosxl:Label ;
     skosxl:literalForm "conversion of elāpatra"@en .
 
 diga_terms:3701952226 a skosxl:Label ;
-    skosxl:literalForm "māra's assault"@en .
+    skosxl:literalForm "māra’s assault"@en .
 
 diga_terms:3766997619 a skosxl:Label ;
     skosxl:literalForm "encounter of milinda and ajitakesakambali"@en .
@@ -2328,7 +2328,7 @@ diga_terms:3805769269 a skosxl:Label ;
     skosxl:literalForm "other narratives"@en .
 
 diga_terms:3823392210 a skosxl:Label ;
-    skosxl:literalForm "siddharta's horoscope"@en .
+    skosxl:literalForm "siddharta’s horoscope"@en .
 
 diga_terms:3853551497 a skosxl:Label ;
     skosxl:literalForm "conversion of bimbisāra"@en .
@@ -2355,7 +2355,7 @@ diga_terms:3932676553 a skosxl:Label ;
     skosxl:literalForm "gift of the monkey"@en .
 
 diga_terms:3944719224 a skosxl:Label ;
-    skosxl:literalForm "trapusha and balika's food offering"@en .
+    skosxl:literalForm "trapusha and balika’s food offering"@en .
 
 diga_terms:3948291891 a skosxl:Label ;
     skosxl:literalForm "relic(s) under arches"@en .
@@ -2475,7 +2475,7 @@ diga_terms:4253139233 a skosxl:Label ;
     skosxl:literalForm "consolation of ānanda"@en .
 
 diga_terms:4253843974 a skosxl:Label ;
-    skosxl:literalForm "worship of the buddha's turban"@en .
+    skosxl:literalForm "worship of the buddha’s turban"@en .
 
 diga_terms:427906295 a skosxl:Label ;
     skosxl:literalForm "conversion of the brigand"@en .
@@ -2502,13 +2502,13 @@ diga_terms:47166754 a skosxl:Label ;
     skosxl:literalForm "dispute of the relics"@en .
 
 diga_terms:474640206 a skosxl:Label ;
-    skosxl:literalForm "māyā's dream"@en .
+    skosxl:literalForm "māyā’s dream"@en .
 
 diga_terms:496934436 a skosxl:Label ;
     skosxl:literalForm "birth of the infant from the pyre"@en .
 
 diga_terms:497912436 a skosxl:Label ;
-    skosxl:literalForm "worship of the buddha's relics"@en .
+    skosxl:literalForm "worship of the buddha’s relics"@en .
 
 diga_terms:506452277 a skosxl:Label ;
     skosxl:literalForm "lassoed humped bull"@en .
@@ -2529,7 +2529,7 @@ diga_terms:545741929 a skosxl:Label ;
     skosxl:literalForm "life in the palace"@en .
 
 diga_terms:547214903 a skosxl:Label ;
-    skosxl:literalForm "siddharta's life"@en .
+    skosxl:literalForm "siddharta’s life"@en .
 
 diga_terms:557577352 a skosxl:Label ;
     skosxl:literalForm "adoration of the turban"@en .
@@ -2616,7 +2616,7 @@ diga_terms:802759398 a skosxl:Label ;
     skosxl:literalForm "episode of the (white) dog"@en .
 
 diga_terms:814066760 a skosxl:Label ;
-    skosxl:literalForm "buddha's obsequies"@en .
+    skosxl:literalForm "buddha’s obsequies"@en .
 
 diga_terms:840158769 a skosxl:Label ;
     skosxl:literalForm "leg(s)"@en .
@@ -2646,7 +2646,7 @@ diga_terms:925001650 a skosxl:Label ;
     skosxl:literalForm "adoration of the three jewels"@en .
 
 diga_terms:928224254 a skosxl:Label ;
-    skosxl:literalForm "multiplication of buddha's image"@en .
+    skosxl:literalForm "multiplication of buddha’s image"@en .
 
 diga_terms:932844697 a skosxl:Label ;
     skosxl:literalForm "quest to enlighenment"@en .
@@ -2658,7 +2658,7 @@ diga_terms:965793988 a skosxl:Label ;
     skosxl:literalForm "lion hunt"@en .
 
 diga_terms:981315242 a skosxl:Label ;
-    skosxl:literalForm "interpretation of māyā's dream"@en .
+    skosxl:literalForm "interpretation of māyā’s dream"@en .
 
 diga_terms:994483802 a skosxl:Label ;
     skosxl:literalForm "buddha and a drummer"@en .
