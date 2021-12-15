@@ -12,6 +12,12 @@ diga_terms:1022713674 a skos:Concept ;
         diga_terms:4172392831 ;
     skosxl:prefLabel diga_terms:3659992932 .
 
+diga_terms:1030527749 a skos:Concept ;
+    dc:identifier "1030527749" ;
+    skos-thes:broaderGeneric diga_terms:1597736316 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3474026526 .
+
 diga_terms:1060623534 a skos:Concept ;
     dc:identifier "1060623534" ;
     skos-thes:broaderGeneric diga_terms:4248524679 ;
@@ -30,6 +36,18 @@ diga_terms:1178944365 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:2512202632 ;
     skosxl:prefLabel diga_terms:1646851819 .
+
+diga_terms:1192044568 a skos:Concept ;
+    dc:identifier "1192044568" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2797734031 .
+
+diga_terms:1199703358 a skos:Concept ;
+    dc:identifier "1199703358" ;
+    skos-thes:broaderGeneric diga_terms:2091634236 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2431274640 .
 
 diga_terms:1226219808 a skos:Concept ;
     dc:identifier "1226219808" ;
@@ -55,11 +73,11 @@ diga_terms:1305753188 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1628986852 .
 
-diga_terms:13969389 a skos:Concept ;
-    dc:identifier "13969389" ;
-    skos-thes:broaderGeneric diga_terms:4248524679 ;
+diga_terms:1353528149 a skos:Concept ;
+    dc:identifier "1353528149" ;
+    skos-thes:broaderGeneric diga_terms:1597736316 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:2983106937 .
+    skosxl:prefLabel diga_terms:2936411836 .
 
 diga_terms:1403923608 a skos:Concept ;
     dc:identifier "1403923608" ;
@@ -67,17 +85,17 @@ diga_terms:1403923608 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:22862334 .
 
-diga_terms:1458572917 a skos:Concept ;
-    dc:identifier "1458572917" ;
+diga_terms:1409207465 a skos:Concept ;
+    dc:identifier "1409207465" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:919965483 .
+    skosxl:prefLabel diga_terms:4031974760 .
 
-diga_terms:148160856 a skos:Concept ;
-    dc:identifier "148160856" ;
+diga_terms:1431952787 a skos:Concept ;
+    dc:identifier "1431952787" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:3175914216 .
+    skosxl:prefLabel diga_terms:2750366122 .
 
 diga_terms:1487763448 a skos:Concept ;
     dc:identifier "1487763448" ;
@@ -92,11 +110,11 @@ diga_terms:1492472258 a skos:Concept ;
     skosxl:altLabel diga_terms:2257716783 ;
     skosxl:prefLabel diga_terms:3002570507 .
 
-diga_terms:1508978276 a skos:Concept ;
-    dc:identifier "1508978276" ;
-    skos-thes:broaderGeneric diga_terms:1597736316 ;
+diga_terms:1510655692 a skos:Concept ;
+    dc:identifier "1510655692" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:1145180350 .
+    skosxl:prefLabel diga_terms:2448576310 .
 
 diga_terms:1521352192 a skos:Concept ;
     dc:identifier "1521352192" ;
@@ -104,23 +122,23 @@ diga_terms:1521352192 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2072897015 .
 
-diga_terms:1527084938 a skos:Concept ;
-    dc:identifier "1527084938" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:80792515 .
-
 diga_terms:152779623 a skos:Concept ;
     dc:identifier "152779623" ;
     skos-thes:broaderGeneric diga_terms:2498849496 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:971833421 .
 
-diga_terms:1531162881 a skos:Concept ;
-    dc:identifier "1531162881" ;
+diga_terms:1541643821 a skos:Concept ;
+    dc:identifier "1541643821" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:3689953626 .
+    skosxl:prefLabel diga_terms:343602301 .
+
+diga_terms:1559912493 a skos:Concept ;
+    dc:identifier "1559912493" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3579532787 .
 
 diga_terms:1605160344 a skos:Concept ;
     dc:identifier "1605160344" ;
@@ -129,23 +147,11 @@ diga_terms:1605160344 a skos:Concept ;
     skosxl:altLabel diga_terms:356046200 ;
     skosxl:prefLabel diga_terms:4212896351 .
 
-diga_terms:1629046404 a skos:Concept ;
-    dc:identifier "1629046404" ;
-    skos-thes:broaderGeneric diga_terms:1597736316 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:3981849555 .
-
 diga_terms:1634446600 a skos:Concept ;
     dc:identifier "1634446600" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:736579374 .
-
-diga_terms:1646415379 a skos:Concept ;
-    dc:identifier "1646415379" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:1845787324 .
 
 diga_terms:1658155629 a skos:Concept ;
     dc:identifier "1658155629" ;
@@ -160,11 +166,11 @@ diga_terms:1667908475 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:847369578 .
 
-diga_terms:1670584269 a skos:Concept ;
-    dc:identifier "1670584269" ;
+diga_terms:1692329699 a skos:Concept ;
+    dc:identifier "1692329699" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:2481986093 .
+    skosxl:prefLabel diga_terms:621612106 .
 
 diga_terms:1731899223 a skos:Concept ;
     dc:identifier "1731899223" ;
@@ -274,6 +280,12 @@ diga_terms:2080512262 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:76003607 .
 
+diga_terms:2085837477 a skos:Concept ;
+    dc:identifier "2085837477" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:495120081 .
+
 diga_terms:2096872333 a skos:Concept ;
     dc:identifier "2096872333" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
@@ -287,17 +299,23 @@ diga_terms:2102608472 a skos:Concept ;
     skosxl:altLabel diga_terms:2053253343 ;
     skosxl:prefLabel diga_terms:1644637745 .
 
+diga_terms:211814129 a skos:Concept ;
+    dc:identifier "211814129" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3505354942 .
+
+diga_terms:2122294876 a skos:Concept ;
+    dc:identifier "2122294876" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3188788882 .
+
 diga_terms:2133038983 a skos:Concept ;
     dc:identifier "2133038983" ;
     skos-thes:broaderGeneric diga_terms:2498849496 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2931674703 .
-
-diga_terms:2159169837 a skos:Concept ;
-    dc:identifier "2159169837" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:1084664827 .
 
 diga_terms:2183963758 a skos:Concept ;
     dc:identifier "2183963758" ;
@@ -323,11 +341,23 @@ diga_terms:2296160542 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1626734887 .
 
+diga_terms:2301477931 a skos:Concept ;
+    dc:identifier "2301477931" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1041054883 .
+
 diga_terms:2321377235 a skos:Concept ;
     dc:identifier "2321377235" ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:710397431 .
+
+diga_terms:2334059207 a skos:Concept ;
+    dc:identifier "2334059207" ;
+    skos-thes:broaderGeneric diga_terms:1597736316 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2361772226 .
 
 diga_terms:2362762919 a skos:Concept ;
     dc:identifier "2362762919" ;
@@ -371,35 +401,23 @@ diga_terms:2434087125 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3381652938 .
 
-diga_terms:2437747690 a skos:Concept ;
-    dc:identifier "2437747690" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:578093069 .
-
-diga_terms:243999023 a skos:Concept ;
-    dc:identifier "243999023" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:1423747690 .
-
 diga_terms:2445900539 a skos:Concept ;
     dc:identifier "2445900539" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1500773671 .
 
-diga_terms:2469882854 a skos:Concept ;
-    dc:identifier "2469882854" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:3625356418 .
-
 diga_terms:2486302449 a skos:Concept ;
     dc:identifier "2486302449" ;
     skos-thes:broaderGeneric diga_terms:2091634236 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1334492155 .
+
+diga_terms:2560472523 a skos:Concept ;
+    dc:identifier "2560472523" ;
+    skos-thes:broaderGeneric diga_terms:1597736316 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:916375054 .
 
 diga_terms:2564271676 a skos:Concept ;
     dc:identifier "2564271676" ;
@@ -412,6 +430,12 @@ diga_terms:2573023347 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:4248524679 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2390973599 .
+
+diga_terms:260419174 a skos:Concept ;
+    dc:identifier "260419174" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2890129091 .
 
 diga_terms:2627479104 a skos:Concept ;
     dc:identifier "2627479104" ;
@@ -450,24 +474,6 @@ diga_terms:2691457061 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3641476810 .
 
-diga_terms:2704119566 a skos:Concept ;
-    dc:identifier "2704119566" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:3961569482 .
-
-diga_terms:2775844560 a skos:Concept ;
-    dc:identifier "2775844560" ;
-    skos-thes:broaderGeneric diga_terms:1597736316 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:443414970 .
-
-diga_terms:2779263864 a skos:Concept ;
-    dc:identifier "2779263864" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:2462478601 .
-
 diga_terms:2789027545 a skos:Concept ;
     dc:identifier "2789027545" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
@@ -480,23 +486,11 @@ diga_terms:2813739400 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3682258908 .
 
-diga_terms:2830870974 a skos:Concept ;
-    dc:identifier "2830870974" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:2061558399 .
-
 diga_terms:2850620249 a skos:Concept ;
     dc:identifier "2850620249" ;
     skos-thes:broaderGeneric diga_terms:4248524679 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2072958238 .
-
-diga_terms:2852700045 a skos:Concept ;
-    dc:identifier "2852700045" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:457327430 .
 
 diga_terms:2853316163 a skos:Concept ;
     dc:identifier "2853316163" ;
@@ -510,6 +504,12 @@ diga_terms:2855978189 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3605814520 .
+
+diga_terms:2863313669 a skos:Concept ;
+    dc:identifier "2863313669" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:607603454 .
 
 diga_terms:2864152479 a skos:Concept ;
     dc:identifier "2864152479" ;
@@ -552,12 +552,6 @@ diga_terms:2919036229 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:2091634236 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2922108516 .
-
-diga_terms:292338472 a skos:Concept ;
-    dc:identifier "292338472" ;
-    skos-thes:broaderGeneric diga_terms:1597736316 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:59954926 .
 
 diga_terms:2932789722 a skos:Concept ;
     dc:identifier "2932789722" ;
@@ -639,12 +633,6 @@ diga_terms:3140348735 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1477188212 .
 
-diga_terms:3152493673 a skos:Concept ;
-    dc:identifier "3152493673" ;
-    skos-thes:broaderGeneric diga_terms:2091634236 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:2560377138 .
-
 diga_terms:3155962517 a skos:Concept ;
     dc:identifier "3155962517" ;
     skos-thes:broaderGeneric diga_terms:2498849496 ;
@@ -669,6 +657,12 @@ diga_terms:3210682816 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2273088957 .
 
+diga_terms:3243020536 a skos:Concept ;
+    dc:identifier "3243020536" ;
+    skos-thes:broaderGeneric diga_terms:4248524679 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1683143000 .
+
 diga_terms:3257335780 a skos:Concept ;
     dc:identifier "3257335780" ;
     skos-thes:broaderGeneric diga_terms:2498849496 ;
@@ -681,17 +675,11 @@ diga_terms:3265682941 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1452401505 .
 
-diga_terms:3286104303 a skos:Concept ;
-    dc:identifier "3286104303" ;
+diga_terms:3339255784 a skos:Concept ;
+    dc:identifier "3339255784" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:1162196618 .
-
-diga_terms:3319857938 a skos:Concept ;
-    dc:identifier "3319857938" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:2479310305 .
+    skosxl:prefLabel diga_terms:1077433635 .
 
 diga_terms:3348775331 a skos:Concept ;
     dc:identifier "3348775331" ;
@@ -744,6 +732,12 @@ diga_terms:3459275261 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1927097461 .
 
+diga_terms:3467385365 a skos:Concept ;
+    dc:identifier "3467385365" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:4101228641 .
+
 diga_terms:3495185963 a skos:Concept ;
     dc:identifier "3495185963" ;
     skos-thes:broaderGeneric diga_terms:4248524679 ;
@@ -757,29 +751,17 @@ diga_terms:3548119927 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1733608123 .
 
+diga_terms:3548571575 a skos:Concept ;
+    dc:identifier "3548571575" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3813558021 .
+
 diga_terms:3561400997 a skos:Concept ;
     dc:identifier "3561400997" ;
     skos-thes:broaderGeneric diga_terms:2498849496 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2271986089 .
-
-diga_terms:356877913 a skos:Concept ;
-    dc:identifier "356877913" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:2309716084 .
-
-diga_terms:3569315641 a skos:Concept ;
-    dc:identifier "3569315641" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:3133926393 .
-
-diga_terms:3585752272 a skos:Concept ;
-    dc:identifier "3585752272" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:651160285 .
 
 diga_terms:3587261361 a skos:Concept ;
     dc:identifier "3587261361" ;
@@ -799,23 +781,17 @@ diga_terms:3633127367 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3055633354 .
 
+diga_terms:3697757588 a skos:Concept ;
+    dc:identifier "3697757588" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:2513118211 .
+
 diga_terms:3767113786 a skos:Concept ;
     dc:identifier "3767113786" ;
     skos-thes:broaderGeneric diga_terms:4248524679 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3251277810 .
-
-diga_terms:3825462994 a skos:Concept ;
-    dc:identifier "3825462994" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:645842630 .
-
-diga_terms:3902203491 a skos:Concept ;
-    dc:identifier "3902203491" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:2838770043 .
 
 diga_terms:3914356312 a skos:Concept ;
     dc:identifier "3914356312" ;
@@ -855,6 +831,12 @@ diga_terms:395602993 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2740579081 .
 
+diga_terms:398064358 a skos:Concept ;
+    dc:identifier "398064358" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1202672761 .
+
 diga_terms:3992811822 a skos:Concept ;
     dc:identifier "3992811822" ;
     skos-thes:broaderGeneric diga_terms:2498849496 ;
@@ -879,6 +861,12 @@ diga_terms:4131398789 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:2335217424 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2673557631 .
+
+diga_terms:4147775857 a skos:Concept ;
+    dc:identifier "4147775857" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:621961486 .
 
 diga_terms:4151523512 a skos:Concept ;
     dc:identifier "4151523512" ;
@@ -905,12 +893,6 @@ diga_terms:4210748748 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:2068973591 ;
     skosxl:prefLabel diga_terms:3453774265 .
-
-diga_terms:4222131742 a skos:Concept ;
-    dc:identifier "4222131742" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:3381669513 .
 
 diga_terms:4223910160 a skos:Concept ;
     dc:identifier "4223910160" ;
@@ -944,17 +926,23 @@ diga_terms:4244490867 a skos:Concept ;
         diga_terms:2690804296 ;
     skosxl:prefLabel diga_terms:2929122152 .
 
+diga_terms:4254538884 a skos:Concept ;
+    dc:identifier "4254538884" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:1604402509 .
+
+diga_terms:4270216435 a skos:Concept ;
+    dc:identifier "4270216435" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:586330489 .
+
 diga_terms:4271552571 a skos:Concept ;
     dc:identifier "4271552571" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1630695558 .
-
-diga_terms:4276621895 a skos:Concept ;
-    dc:identifier "4276621895" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:177775225 .
 
 diga_terms:555433999 a skos:Concept ;
     dc:identifier "555433999" ;
@@ -962,11 +950,29 @@ diga_terms:555433999 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2081170269 .
 
+diga_terms:632325543 a skos:Concept ;
+    dc:identifier "632325543" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:384250800 .
+
+diga_terms:639938707 a skos:Concept ;
+    dc:identifier "639938707" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3149879394 .
+
 diga_terms:654283397 a skos:Concept ;
     dc:identifier "654283397" ;
     skos-thes:broaderGeneric diga_terms:2498849496 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:852737913 .
+
+diga_terms:681758381 a skos:Concept ;
+    dc:identifier "681758381" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:3670622025 .
 
 diga_terms:705043120 a skos:Concept ;
     dc:identifier "705043120" ;
@@ -1029,11 +1035,11 @@ diga_terms:805157630 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:464287823 .
 
-diga_terms:875409379 a skos:Concept ;
-    dc:identifier "875409379" ;
+diga_terms:85511418 a skos:Concept ;
+    dc:identifier "85511418" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:1884757744 .
+    skosxl:prefLabel diga_terms:1643667936 .
 
 diga_terms:916793808 a skos:Concept ;
     dc:identifier "916793808" ;
@@ -1052,12 +1058,6 @@ diga_terms:927345905 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:4248524679 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:130144970 .
-
-diga_terms:930240015 a skos:Concept ;
-    dc:identifier "930240015" ;
-    skos-thes:broaderGeneric diga_terms:849867655 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:3560061509 .
 
 diga_terms:932684811 a skos:Concept ;
     dc:identifier "932684811" ;
@@ -1098,20 +1098,20 @@ diga_terms:1014394708 a skosxl:Label ;
 diga_terms:1015316478 a skosxl:Label ;
     skosxl:literalForm "Kṛṣṇa"@en .
 
-diga_terms:1084664827 a skosxl:Label ;
-    skosxl:literalForm "Female devotee(s)"@en .
+diga_terms:1041054883 a skosxl:Label ;
+    skosxl:literalForm "Musician"@en .
+
+diga_terms:1077433635 a skosxl:Label ;
+    skosxl:literalForm "Sailor"@en .
 
 diga_terms:1125846973 a skosxl:Label ;
     skosxl:literalForm "Kumbhīra"@en .
 
-diga_terms:1145180350 a skosxl:Label ;
-    skosxl:literalForm "Demon(s)"@en .
-
-diga_terms:1162196618 a skosxl:Label ;
-    skosxl:literalForm "Feminine figure(s) with infant"@en .
-
 diga_terms:1168389241 a skosxl:Label ;
     skosxl:literalForm "Jaṭāyus"@en .
+
+diga_terms:1202672761 a skosxl:Label ;
+    skosxl:literalForm "Dancer"@en .
 
 diga_terms:1247412551 a skosxl:Label ;
     skosxl:literalForm "Bird (as deity)"@en .
@@ -1130,9 +1130,6 @@ diga_terms:1404399582 a skosxl:Label ;
 
 diga_terms:1406723346 a skosxl:Label ;
     skosxl:literalForm "Pañcaśikha"@en .
-
-diga_terms:1423747690 a skosxl:Label ;
-    skosxl:literalForm "Dancer(s)"@en .
 
 diga_terms:1438332780 a skosxl:Label ;
     skosxl:literalForm "Centauress"@en .
@@ -1170,6 +1167,9 @@ diga_terms:1548275013 a skosxl:Label ;
 diga_terms:1572638472 a skosxl:Label ;
     skosxl:literalForm "professions and roles"@en .
 
+diga_terms:1604402509 a skosxl:Label ;
+    skosxl:literalForm "Female guardian"@en .
+
 diga_terms:1612182254 a skosxl:Label ;
     skosxl:literalForm "Watermen"@en .
 
@@ -1182,6 +1182,9 @@ diga_terms:1628986852 a skosxl:Label ;
 diga_terms:1630695558 a skosxl:Label ;
     skosxl:literalForm "Bodhisattva"@en .
 
+diga_terms:1643667936 a skosxl:Label ;
+    skosxl:literalForm "Female devotee"@en .
+
 diga_terms:1644637745 a skosxl:Label ;
     skosxl:literalForm "Nagaradevatā"@en .
 
@@ -1191,14 +1194,14 @@ diga_terms:1646851819 a skosxl:Label ;
 diga_terms:1646865769 a skosxl:Label ;
     skosxl:literalForm "Young ascetic"@en .
 
+diga_terms:1683143000 a skosxl:Label ;
+    skosxl:literalForm "Brāhmaṇ"@en .
+
 diga_terms:1703185280 a skosxl:Label ;
     skosxl:literalForm "Agni"@en .
 
 diga_terms:1733608123 a skosxl:Label ;
     skosxl:literalForm "Buddha"@en .
-
-diga_terms:177775225 a skosxl:Label ;
-    skosxl:literalForm "Renunciant(s)"@en .
 
 diga_terms:1799958436 a skosxl:Label ;
     skosxl:literalForm "Sujātā"@en .
@@ -1206,17 +1209,11 @@ diga_terms:1799958436 a skosxl:Label ;
 diga_terms:1800647464 a skosxl:Label ;
     skosxl:literalForm "Śvetaketu"@en .
 
-diga_terms:1845787324 a skosxl:Label ;
-    skosxl:literalForm "Male devotee(s)"@en .
-
 diga_terms:1845890396 a skosxl:Label ;
     skosxl:literalForm "Aṅgulimāla"@en .
 
 diga_terms:1882439862 a skosxl:Label ;
     skosxl:literalForm "Sumedha"@en .
-
-diga_terms:1884757744 a skosxl:Label ;
-    skosxl:literalForm "Musician(s)"@en .
 
 diga_terms:1908960119 a skosxl:Label ;
     skosxl:literalForm "Deva"@en .
@@ -1241,9 +1238,6 @@ diga_terms:1988744051 a skosxl:Label ;
 
 diga_terms:2053253343 a skosxl:Label ;
     skosxl:literalForm "City Goddess"@en .
-
-diga_terms:2061558399 a skosxl:Label ;
-    skosxl:literalForm "Figure(s) riding an elephant"@en .
 
 diga_terms:2068973591 a skosxl:Label ;
     skosxl:literalForm "Thirty-Three gods"@en .
@@ -1287,8 +1281,8 @@ diga_terms:2273088957 a skosxl:Label ;
 diga_terms:22862334 a skosxl:Label ;
     skosxl:literalForm "Tutelary couple"@en .
 
-diga_terms:2309716084 a skosxl:Label ;
-    skosxl:literalForm "Spearman(men)"@en .
+diga_terms:2361772226 a skosxl:Label ;
+    skosxl:literalForm "Celestial being"@en .
 
 diga_terms:2388856584 a skosxl:Label ;
     skosxl:literalForm "deities and spirits"@en .
@@ -1299,26 +1293,23 @@ diga_terms:2390973599 a skosxl:Label ;
 diga_terms:2399875826 a skosxl:Label ;
     skosxl:literalForm "Suvarṇaprabhāsā"@en .
 
-diga_terms:2462478601 a skosxl:Label ;
-    skosxl:literalForm "Juvenile figure(s)"@en .
+diga_terms:2431274640 a skosxl:Label ;
+    skosxl:literalForm "Kiṃnara"@en .
+
+diga_terms:2448576310 a skosxl:Label ;
+    skosxl:literalForm "Male devotee"@en .
 
 diga_terms:2479060795 a skosxl:Label ;
     skosxl:literalForm "figures"@en .
 
-diga_terms:2479310305 a skosxl:Label ;
-    skosxl:literalForm "Female guardian(s)"@en .
-
-diga_terms:2481986093 a skosxl:Label ;
-    skosxl:literalForm "Rider(s)"@en .
-
 diga_terms:2512202632 a skosxl:Label ;
     skosxl:literalForm "Yaśodhā"@en .
 
+diga_terms:2513118211 a skosxl:Label ;
+    skosxl:literalForm "Figure on a chariot"@en .
+
 diga_terms:2524481845 a skosxl:Label ;
     skosxl:literalForm "Kāmeśvara"@en .
-
-diga_terms:2560377138 a skosxl:Label ;
-    skosxl:literalForm "Kiṃnara(s)"@en .
 
 diga_terms:2570212647 a skosxl:Label ;
     skosxl:literalForm "Bhūmi"@en .
@@ -1344,6 +1335,9 @@ diga_terms:2740579081 a skosxl:Label ;
 diga_terms:2747666843 a skosxl:Label ;
     skosxl:literalForm "Atlas/Atlantes"@en .
 
+diga_terms:2750366122 a skosxl:Label ;
+    skosxl:literalForm "Rider"@en .
+
 diga_terms:2758111019 a skosxl:Label ;
     skosxl:literalForm "Ardoxsho"@en .
 
@@ -1353,11 +1347,11 @@ diga_terms:2762065583 a skosxl:Label ;
 diga_terms:2786448249 a skosxl:Label ;
     skosxl:literalForm "Animal-headed deity"@en .
 
+diga_terms:2797734031 a skosxl:Label ;
+    skosxl:literalForm "Figure pulling a bull"@en .
+
 diga_terms:2815115262 a skosxl:Label ;
     skosxl:literalForm "Maitreya"@en .
-
-diga_terms:2838770043 a skosxl:Label ;
-    skosxl:literalForm "Couple(s)"@en .
 
 diga_terms:2848807250 a skosxl:Label ;
     skosxl:literalForm "Padmapāṇi"@en .
@@ -1371,6 +1365,9 @@ diga_terms:2867535262 a skosxl:Label ;
 diga_terms:2870883837 a skosxl:Label ;
     skosxl:literalForm "Māyā"@en .
 
+diga_terms:2890129091 a skosxl:Label ;
+    skosxl:literalForm "Male guardian"@en .
+
 diga_terms:2915770047 a skosxl:Label ;
     skosxl:literalForm "Pāñcika"@en .
 
@@ -1383,11 +1380,11 @@ diga_terms:2929122152 a skosxl:Label ;
 diga_terms:2931674703 a skosxl:Label ;
     skosxl:literalForm "Vijaya"@en .
 
+diga_terms:2936411836 a skosxl:Label ;
+    skosxl:literalForm "Nāga"@en .
+
 diga_terms:2973297758 a skosxl:Label ;
     skosxl:literalForm "Sundarananda"@en .
-
-diga_terms:2983106937 a skosxl:Label ;
-    skosxl:literalForm "Brāhmaṇ(s)"@en .
 
 diga_terms:2994511009 a skosxl:Label ;
     skosxl:literalForm "Bodhi-tree deity"@en .
@@ -1425,9 +1422,6 @@ diga_terms:3081122388 a skosxl:Label ;
 diga_terms:3124933645 a skosxl:Label ;
     skosxl:literalForm "Poseidon"@en .
 
-diga_terms:3133926393 a skosxl:Label ;
-    skosxl:literalForm "Female donor(s)"@en .
-
 diga_terms:3135576354 a skosxl:Label ;
     skosxl:literalForm "bodhisattva"@en .
 
@@ -1440,11 +1434,14 @@ diga_terms:3142120183 a skosxl:Label ;
 diga_terms:3145899254 a skosxl:Label ;
     skosxl:literalForm "Pharro"@en .
 
+diga_terms:3149879394 a skosxl:Label ;
+    skosxl:literalForm "Feminine figure with infant"@en .
+
 diga_terms:3156389930 a skosxl:Label ;
     skosxl:literalForm "Kālodāyī"@en .
 
-diga_terms:3175914216 a skosxl:Label ;
-    skosxl:literalForm "Sailor(s)"@en .
+diga_terms:3188788882 a skosxl:Label ;
+    skosxl:literalForm "Spearman"@en .
 
 diga_terms:3224690189 a skosxl:Label ;
     skosxl:literalForm "Mahākāśyapa"@en .
@@ -1476,9 +1473,6 @@ diga_terms:3343858199 a skosxl:Label ;
 diga_terms:3381652938 a skosxl:Label ;
     skosxl:literalForm "Priyaṃkara"@en .
 
-diga_terms:3381669513 a skosxl:Label ;
-    skosxl:literalForm "Soldier(s)"@en .
-
 diga_terms:3387952508 a skosxl:Label ;
     skosxl:literalForm "Chandaka"@en .
 
@@ -1487,6 +1481,9 @@ diga_terms:3416843866 a skosxl:Label ;
 
 diga_terms:3428298358 a skosxl:Label ;
     skosxl:literalForm "Śākyamuni"@en .
+
+diga_terms:343602301 a skosxl:Label ;
+    skosxl:literalForm "Feminine figure"@en .
 
 diga_terms:344103065 a skosxl:Label ;
     skosxl:literalForm "Ardochsho"@en .
@@ -1500,8 +1497,14 @@ diga_terms:344613362 a skosxl:Label ;
 diga_terms:3453774265 a skosxl:Label ;
     skosxl:literalForm "Trāyastriṃśa"@en .
 
+diga_terms:3474026526 a skosxl:Label ;
+    skosxl:literalForm "Demon"@en .
+
 diga_terms:3501037682 a skosxl:Label ;
     skosxl:literalForm "Brahmacārin"@en .
+
+diga_terms:3505354942 a skosxl:Label ;
+    skosxl:literalForm "Renunciant"@en .
 
 diga_terms:3528421314 a skosxl:Label ;
     skosxl:literalForm "Naigameśa (?)"@en .
@@ -1512,23 +1515,20 @@ diga_terms:3543275190 a skosxl:Label ;
 diga_terms:3548903978 a skosxl:Label ;
     skosxl:literalForm "pregnant woman"@en .
 
-diga_terms:3560061509 a skosxl:Label ;
-    skosxl:literalForm "Masculine figure(s)"@en .
-
 diga_terms:356046200 a skosxl:Label ;
     skosxl:literalForm "aged Silenus type"@en .
 
 diga_terms:3565495275 a skosxl:Label ;
     skosxl:literalForm "water deity"@en .
 
+diga_terms:3579532787 a skosxl:Label ;
+    skosxl:literalForm "Monk"@en .
+
 diga_terms:3599400028 a skosxl:Label ;
     skosxl:literalForm "Garuḍa"@en .
 
 diga_terms:3605814520 a skosxl:Label ;
     skosxl:literalForm "Hunter"@en .
-
-diga_terms:3625356418 a skosxl:Label ;
-    skosxl:literalForm "Monk(s)"@en .
 
 diga_terms:3640880296 a skosxl:Label ;
     skosxl:literalForm "Śuddhodana"@en .
@@ -1542,32 +1542,35 @@ diga_terms:3659992932 a skosxl:Label ;
 diga_terms:3668962240 a skosxl:Label ;
     skosxl:literalForm "Brahmā"@en .
 
+diga_terms:3670622025 a skosxl:Label ;
+    skosxl:literalForm "Couple"@en .
+
 diga_terms:3672647066 a skosxl:Label ;
     skosxl:literalForm "Subhadrā"@en .
 
 diga_terms:3682258908 a skosxl:Label ;
     skosxl:literalForm "Tyche"@en .
 
-diga_terms:3689953626 a skosxl:Label ;
-    skosxl:literalForm "Male guardian(s)"@en .
-
 diga_terms:3711631556 a skosxl:Label ;
     skosxl:literalForm "Siddhārtha"@en .
+
+diga_terms:3813558021 a skosxl:Label ;
+    skosxl:literalForm "Juvenile figure"@en .
+
+diga_terms:384250800 a skosxl:Label ;
+    skosxl:literalForm "Masculine figure"@en .
 
 diga_terms:387119368 a skosxl:Label ;
     skosxl:literalForm "Yaśodharā"@en .
 
-diga_terms:3961569482 a skosxl:Label ;
-    skosxl:literalForm "Figure(s) on a chariot"@en .
-
 diga_terms:3965521492 a skosxl:Label ;
     skosxl:literalForm "Monkey (as character)"@en .
 
-diga_terms:3981849555 a skosxl:Label ;
-    skosxl:literalForm "Nāga(s)"@en .
-
 diga_terms:3986972356 a skosxl:Label ;
     skosxl:literalForm "Athena"@en .
+
+diga_terms:4031974760 a skosxl:Label ;
+    skosxl:literalForm "Figure riding camel"@en .
 
 diga_terms:4036793313 a skosxl:Label ;
     skosxl:literalForm "generic mythological figures"@en .
@@ -1580,6 +1583,9 @@ diga_terms:4047722163 a skosxl:Label ;
 
 diga_terms:4073127900 a skosxl:Label ;
     skosxl:literalForm "Megha"@en .
+
+diga_terms:4101228641 a skosxl:Label ;
+    skosxl:literalForm "Figure riding an elephant"@en .
 
 diga_terms:4109547112 a skosxl:Label ;
     skosxl:literalForm "Megha"@en .
@@ -1620,14 +1626,11 @@ diga_terms:4282387739 a skosxl:Label ;
 diga_terms:433003511 a skosxl:Label ;
     skosxl:literalForm "Chakravartin"@en .
 
-diga_terms:443414970 a skosxl:Label ;
-    skosxl:literalForm "Māra’s daughter(s)"@en .
-
-diga_terms:457327430 a skosxl:Label ;
-    skosxl:literalForm "Figure(s) pulling a bull"@en .
-
 diga_terms:464287823 a skosxl:Label ;
     skosxl:literalForm "Yakṣī"@en .
+
+diga_terms:495120081 a skosxl:Label ;
+    skosxl:literalForm "Wreath-bearer"@en .
 
 diga_terms:497486275 a skosxl:Label ;
     skosxl:literalForm "Māra"@en .
@@ -1638,23 +1641,23 @@ diga_terms:517776110 a skosxl:Label ;
 diga_terms:568924702 a skosxl:Label ;
     skosxl:literalForm "Jaṭāyu"@en .
 
-diga_terms:578093069 a skosxl:Label ;
-    skosxl:literalForm "Acrobat(s)"@en .
+diga_terms:586330489 a skosxl:Label ;
+    skosxl:literalForm "Soldier"@en .
 
-diga_terms:59954926 a skosxl:Label ;
-    skosxl:literalForm "Celestial being(s)"@en .
+diga_terms:607603454 a skosxl:Label ;
+    skosxl:literalForm "Acrobat"@en .
+
+diga_terms:621612106 a skosxl:Label ;
+    skosxl:literalForm "Female donor"@en .
+
+diga_terms:621961486 a skosxl:Label ;
+    skosxl:literalForm "Male donor"@en .
 
 diga_terms:622435215 a skosxl:Label ;
     skosxl:literalForm "Lakṣmaṇa"@en .
 
 diga_terms:629926953 a skosxl:Label ;
     skosxl:literalForm "historical persons"@en .
-
-diga_terms:645842630 a skosxl:Label ;
-    skosxl:literalForm "Feminine figure(s)"@en .
-
-diga_terms:651160285 a skosxl:Label ;
-    skosxl:literalForm "Male donor(s)"@en .
 
 diga_terms:672652690 a skosxl:Label ;
     skosxl:literalForm "Trojan horse"@en .
@@ -1692,9 +1695,6 @@ diga_terms:76003607 a skosxl:Label ;
 diga_terms:802655671 a skosxl:Label ;
     skosxl:literalForm "human beings"@en .
 
-diga_terms:80792515 a skosxl:Label ;
-    skosxl:literalForm "Figure(s) riding camel(s)"@en .
-
 diga_terms:81071292 a skosxl:Label ;
     skosxl:literalForm "Earth goddess"@en .
 
@@ -1716,8 +1716,8 @@ diga_terms:88839936 a skosxl:Label ;
 diga_terms:889812255 a skosxl:Label ;
     skosxl:literalForm "Sea deity"@en .
 
-diga_terms:919965483 a skosxl:Label ;
-    skosxl:literalForm "Wreath-bearer(s)"@en .
+diga_terms:916375054 a skosxl:Label ;
+    skosxl:literalForm "Māra’s daughter"@en .
 
 diga_terms:971833421 a skosxl:Label ;
     skosxl:literalForm "Śibi"@en .
