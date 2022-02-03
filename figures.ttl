@@ -1087,274 +1087,274 @@ diga_terms:99768892 a skos:Concept ;
     skosxl:prefLabel diga_terms:4146522906 .
 
 diga_terms:1001825435 a skosxl:Label ;
-    skosxl:literalForm "Amorino"@en .
+    skosxl:literalForm "amorino"@en .
 
 diga_terms:1013446245 a skosxl:Label ;
     skosxl:literalForm "literay persons"@en .
 
 diga_terms:1014394708 a skosxl:Label ;
-    skosxl:literalForm "Jeweller"@en .
+    skosxl:literalForm "jeweller"@en .
 
 diga_terms:1015316478 a skosxl:Label ;
-    skosxl:literalForm "Kṛṣṇa"@en .
+    skosxl:literalForm "kṛṣṇa"@en .
 
 diga_terms:1041054883 a skosxl:Label ;
-    skosxl:literalForm "Musician"@en .
+    skosxl:literalForm "musician"@en .
 
 diga_terms:1077433635 a skosxl:Label ;
-    skosxl:literalForm "Sailor"@en .
+    skosxl:literalForm "sailor"@en .
 
 diga_terms:1125846973 a skosxl:Label ;
-    skosxl:literalForm "Kumbhīra"@en .
+    skosxl:literalForm "kumbhīra"@en .
 
 diga_terms:1168389241 a skosxl:Label ;
-    skosxl:literalForm "Jaṭāyus"@en .
+    skosxl:literalForm "jaṭāyus"@en .
 
 diga_terms:1202672761 a skosxl:Label ;
-    skosxl:literalForm "Dancer"@en .
+    skosxl:literalForm "dancer"@en .
 
 diga_terms:1247412551 a skosxl:Label ;
-    skosxl:literalForm "Bird (as deity)"@en .
+    skosxl:literalForm "bird (as deity)"@en .
 
 diga_terms:1274680711 a skosxl:Label ;
-    skosxl:literalForm "Warrior deity"@en .
+    skosxl:literalForm "warrior deity"@en .
 
 diga_terms:130144970 a skosxl:Label ;
-    skosxl:literalForm "Hārītī"@en .
+    skosxl:literalForm "hārītī"@en .
 
 diga_terms:1334492155 a skosxl:Label ;
-    skosxl:literalForm "Winged female figure"@en .
+    skosxl:literalForm "winged female figure"@en .
 
 diga_terms:1404399582 a skosxl:Label ;
-    skosxl:literalForm "Āṭavika"@en .
+    skosxl:literalForm "āṭavika"@en .
 
 diga_terms:1406723346 a skosxl:Label ;
-    skosxl:literalForm "Pañcaśikha"@en .
+    skosxl:literalForm "pañcaśikha"@en .
 
 diga_terms:1438332780 a skosxl:Label ;
-    skosxl:literalForm "Centauress"@en .
+    skosxl:literalForm "centauress"@en .
 
 diga_terms:1443018362 a skosxl:Label ;
-    skosxl:literalForm "Ājīvika"@en .
+    skosxl:literalForm "ājīvika"@en .
 
 diga_terms:1452401505 a skosxl:Label ;
-    skosxl:literalForm "Śalabhañjikā"@en .
+    skosxl:literalForm "śalabhañjikā"@en .
 
 diga_terms:1452775486 a skosxl:Label ;
-    skosxl:literalForm "Nagaradevatā"@en .
+    skosxl:literalForm "nagaradevatā"@en .
 
 diga_terms:1474246080 a skosxl:Label ;
     skosxl:literalForm "animals"@en .
 
 diga_terms:1477188212 a skosxl:Label ;
-    skosxl:literalForm "Beggar"@en .
+    skosxl:literalForm "beggar"@en .
 
 diga_terms:149405266 a skosxl:Label ;
-    skosxl:literalForm "Śuka"@en .
+    skosxl:literalForm "śuka"@en .
 
 diga_terms:1500773671 a skosxl:Label ;
-    skosxl:literalForm "Nun"@en .
+    skosxl:literalForm "nun"@en .
 
 diga_terms:1524766598 a skosxl:Label ;
-    skosxl:literalForm "Naradatta"@en .
+    skosxl:literalForm "naradatta"@en .
 
 diga_terms:1534075921 a skosxl:Label ;
-    skosxl:literalForm "Nanda"@en .
+    skosxl:literalForm "nanda"@en .
 
 diga_terms:1548275013 a skosxl:Label ;
-    skosxl:literalForm "Bhadravargīya ascetics"@en .
+    skosxl:literalForm "bhadravargīya ascetics"@en .
 
 diga_terms:1572638472 a skosxl:Label ;
     skosxl:literalForm "professions and roles"@en .
 
 diga_terms:1604402509 a skosxl:Label ;
-    skosxl:literalForm "Female guardian"@en .
+    skosxl:literalForm "female guardian"@en .
 
 diga_terms:1612182254 a skosxl:Label ;
-    skosxl:literalForm "Watermen"@en .
+    skosxl:literalForm "watermen"@en .
 
 diga_terms:1626734887 a skosxl:Label ;
-    skosxl:literalForm "Ānanda"@en .
+    skosxl:literalForm "ānanda"@en .
 
 diga_terms:1628986852 a skosxl:Label ;
-    skosxl:literalForm "Śiva"@en .
+    skosxl:literalForm "śiva"@en .
 
 diga_terms:1630695558 a skosxl:Label ;
-    skosxl:literalForm "Bodhisattva"@en .
+    skosxl:literalForm "bodhisattva"@en .
 
 diga_terms:1643667936 a skosxl:Label ;
-    skosxl:literalForm "Female devotee"@en .
+    skosxl:literalForm "female devotee"@en .
 
 diga_terms:1644637745 a skosxl:Label ;
-    skosxl:literalForm "Nagaradevatā"@en .
+    skosxl:literalForm "nagaradevatā"@en .
 
 diga_terms:1646851819 a skosxl:Label ;
-    skosxl:literalForm "Gopā"@en .
+    skosxl:literalForm "gopā"@en .
 
 diga_terms:1646865769 a skosxl:Label ;
-    skosxl:literalForm "Young ascetic"@en .
+    skosxl:literalForm "young ascetic"@en .
 
 diga_terms:1683143000 a skosxl:Label ;
-    skosxl:literalForm "Brāhmaṇ"@en .
+    skosxl:literalForm "brāhmaṇ"@en .
 
 diga_terms:1703185280 a skosxl:Label ;
-    skosxl:literalForm "Agni"@en .
+    skosxl:literalForm "agni"@en .
 
 diga_terms:1733608123 a skosxl:Label ;
-    skosxl:literalForm "Buddha"@en .
+    skosxl:literalForm "buddha"@en .
 
 diga_terms:1799958436 a skosxl:Label ;
-    skosxl:literalForm "Sujātā"@en .
+    skosxl:literalForm "sujātā"@en .
 
 diga_terms:1800647464 a skosxl:Label ;
-    skosxl:literalForm "Śvetaketu"@en .
+    skosxl:literalForm "śvetaketu"@en .
 
 diga_terms:1845890396 a skosxl:Label ;
-    skosxl:literalForm "Aṅgulimāla"@en .
+    skosxl:literalForm "aṅgulimāla"@en .
 
 diga_terms:1882439862 a skosxl:Label ;
-    skosxl:literalForm "Sumedha"@en .
+    skosxl:literalForm "sumedha"@en .
 
 diga_terms:1908960119 a skosxl:Label ;
-    skosxl:literalForm "Deva"@en .
+    skosxl:literalForm "deva"@en .
 
 diga_terms:1925614479 a skosxl:Label ;
-    skosxl:literalForm "Indra"@en .
+    skosxl:literalForm "indra"@en .
 
 diga_terms:1927097461 a skosxl:Label ;
-    skosxl:literalForm "Utpalavarṇā"@en .
+    skosxl:literalForm "utpalavarṇā"@en .
 
 diga_terms:1930560568 a skosxl:Label ;
-    skosxl:literalForm "Kanhasiri"@en .
+    skosxl:literalForm "kanhasiri"@en .
 
 diga_terms:1976848402 a skosxl:Label ;
-    skosxl:literalForm "Rāma"@en .
+    skosxl:literalForm "rāma"@en .
 
 diga_terms:1979313639 a skosxl:Label ;
-    skosxl:literalForm "Pṛṭvi"@en .
+    skosxl:literalForm "pṛṭvi"@en .
 
 diga_terms:1988744051 a skosxl:Label ;
-    skosxl:literalForm "Sītā"@en .
+    skosxl:literalForm "sītā"@en .
 
 diga_terms:2053253343 a skosxl:Label ;
-    skosxl:literalForm "City Goddess"@en .
+    skosxl:literalForm "city goddess"@en .
 
 diga_terms:2068973591 a skosxl:Label ;
-    skosxl:literalForm "Thirty-Three gods"@en .
+    skosxl:literalForm "thirty-three gods"@en .
 
 diga_terms:2072897015 a skosxl:Label ;
-    skosxl:literalForm "Devadatta"@en .
+    skosxl:literalForm "devadatta"@en .
 
 diga_terms:2072958238 a skosxl:Label ;
-    skosxl:literalForm "Dioscuri"@en .
+    skosxl:literalForm "dioscuri"@en .
 
 diga_terms:2081170269 a skosxl:Label ;
-    skosxl:literalForm "Winged male figure"@en .
+    skosxl:literalForm "winged male figure"@en .
 
 diga_terms:2083649574 a skosxl:Label ;
-    skosxl:literalForm "Udāyī"@en .
+    skosxl:literalForm "udāyī"@en .
 
 diga_terms:2097087928 a skosxl:Label ;
-    skosxl:literalForm "Ichthyocentaur  "@en .
+    skosxl:literalForm "ichthyocentaur  "@en .
 
 diga_terms:2138124534 a skosxl:Label ;
-    skosxl:literalForm "Rāhula"@en .
+    skosxl:literalForm "rāhula"@en .
 
 diga_terms:2149582147 a skosxl:Label ;
-    skosxl:literalForm "Ascetic"@en .
+    skosxl:literalForm "ascetic"@en .
 
 diga_terms:2170298577 a skosxl:Label ;
-    skosxl:literalForm "Śaṅkhakuñjara (dog as character)"@en .
+    skosxl:literalForm "śaṅkhakuñjara (dog as character)"@en .
 
 diga_terms:2250305976 a skosxl:Label ;
-    skosxl:literalForm "Anuruddhā"@en .
+    skosxl:literalForm "anuruddhā"@en .
 
 diga_terms:2257716783 a skosxl:Label ;
     skosxl:literalForm "female guardian"@en .
 
 diga_terms:2271986089 a skosxl:Label ;
-    skosxl:literalForm "Vaiśravaṇa"@en .
+    skosxl:literalForm "vaiśravaṇa"@en .
 
 diga_terms:2273088957 a skosxl:Label ;
-    skosxl:literalForm "Mṛgaśiras"@en .
+    skosxl:literalForm "mṛgaśiras"@en .
 
 diga_terms:22862334 a skosxl:Label ;
-    skosxl:literalForm "Tutelary couple"@en .
+    skosxl:literalForm "tutelary couple"@en .
 
 diga_terms:2361772226 a skosxl:Label ;
-    skosxl:literalForm "Celestial being"@en .
+    skosxl:literalForm "celestial being"@en .
 
 diga_terms:2388856584 a skosxl:Label ;
     skosxl:literalForm "deities and spirits"@en .
 
 diga_terms:2390973599 a skosxl:Label ;
-    skosxl:literalForm "Viśvakarmā"@en .
+    skosxl:literalForm "viśvakarmā"@en .
 
 diga_terms:2399875826 a skosxl:Label ;
-    skosxl:literalForm "Suvarṇaprabhāsā"@en .
+    skosxl:literalForm "suvarṇaprabhāsā"@en .
 
 diga_terms:2431274640 a skosxl:Label ;
-    skosxl:literalForm "Kiṃnara"@en .
+    skosxl:literalForm "kiṃnara"@en .
 
 diga_terms:2448576310 a skosxl:Label ;
-    skosxl:literalForm "Male devotee"@en .
+    skosxl:literalForm "male devotee"@en .
 
 diga_terms:2479060795 a skosxl:Label ;
     skosxl:literalForm "figures"@en .
 
 diga_terms:2512202632 a skosxl:Label ;
-    skosxl:literalForm "Yaśodhā"@en .
+    skosxl:literalForm "yaśodhā"@en .
 
 diga_terms:2513118211 a skosxl:Label ;
-    skosxl:literalForm "Figure on a chariot"@en .
+    skosxl:literalForm "figure on a chariot"@en .
 
 diga_terms:2524481845 a skosxl:Label ;
-    skosxl:literalForm "Kāmeśvara"@en .
+    skosxl:literalForm "kāmeśvara"@en .
 
 diga_terms:2570212647 a skosxl:Label ;
-    skosxl:literalForm "Bhūmi"@en .
+    skosxl:literalForm "bhūmi"@en .
 
 diga_terms:2658489711 a skosxl:Label ;
-    skosxl:literalForm "Triton"@en .
+    skosxl:literalForm "triton"@en .
 
 diga_terms:2673557631 a skosxl:Label ;
-    skosxl:literalForm "Avalokiteśvara"@en .
+    skosxl:literalForm "avalokiteśvara"@en .
 
 diga_terms:2685051639 a skosxl:Label ;
-    skosxl:literalForm "Heracles"@en .
+    skosxl:literalForm "heracles"@en .
 
 diga_terms:2686304831 a skosxl:Label ;
-    skosxl:literalForm "Harpocrates"@en .
+    skosxl:literalForm "harpocrates"@en .
 
 diga_terms:2690804296 a skosxl:Label ;
-    skosxl:literalForm "Kaladevala"@en .
+    skosxl:literalForm "kaladevala"@en .
 
 diga_terms:2740579081 a skosxl:Label ;
-    skosxl:literalForm "Six-armed god"@en .
+    skosxl:literalForm "six-armed god"@en .
 
 diga_terms:2747666843 a skosxl:Label ;
-    skosxl:literalForm "Atlas/Atlantes"@en .
+    skosxl:literalForm "atlas/atlantes"@en .
 
 diga_terms:2750366122 a skosxl:Label ;
-    skosxl:literalForm "Rider"@en .
+    skosxl:literalForm "rider"@en .
 
 diga_terms:2758111019 a skosxl:Label ;
-    skosxl:literalForm "Ardoxsho"@en .
+    skosxl:literalForm "ardoxsho"@en .
 
 diga_terms:2762065583 a skosxl:Label ;
-    skosxl:literalForm "Wind god"@en .
+    skosxl:literalForm "wind god"@en .
 
 diga_terms:2786448249 a skosxl:Label ;
-    skosxl:literalForm "Animal-headed deity"@en .
+    skosxl:literalForm "animal-headed deity"@en .
 
 diga_terms:2797734031 a skosxl:Label ;
-    skosxl:literalForm "Figure pulling a bull"@en .
+    skosxl:literalForm "figure pulling a bull"@en .
 
 diga_terms:2815115262 a skosxl:Label ;
-    skosxl:literalForm "Maitreya"@en .
+    skosxl:literalForm "maitreya"@en .
 
 diga_terms:2848807250 a skosxl:Label ;
-    skosxl:literalForm "Padmapāṇi"@en .
+    skosxl:literalForm "padmapāṇi"@en .
 
 diga_terms:2849575884 a skosxl:Label ;
     skosxl:literalForm "classes of persons"@en .
@@ -1363,364 +1363,364 @@ diga_terms:2867535262 a skosxl:Label ;
     skosxl:literalForm "buddha"@en .
 
 diga_terms:2870883837 a skosxl:Label ;
-    skosxl:literalForm "Māyā"@en .
+    skosxl:literalForm "māyā"@en .
 
 diga_terms:2890129091 a skosxl:Label ;
-    skosxl:literalForm "Male guardian"@en .
+    skosxl:literalForm "male guardian"@en .
 
 diga_terms:2915770047 a skosxl:Label ;
-    skosxl:literalForm "Pāñcika"@en .
+    skosxl:literalForm "pāñcika"@en .
 
 diga_terms:2922108516 a skosxl:Label ;
-    skosxl:literalForm "Centaurs"@en .
+    skosxl:literalForm "centaurs"@en .
 
 diga_terms:2929122152 a skosxl:Label ;
-    skosxl:literalForm "Asita"@en .
+    skosxl:literalForm "asita"@en .
 
 diga_terms:2931674703 a skosxl:Label ;
-    skosxl:literalForm "Vijaya"@en .
+    skosxl:literalForm "vijaya"@en .
 
 diga_terms:2936411836 a skosxl:Label ;
-    skosxl:literalForm "Nāga"@en .
+    skosxl:literalForm "nāga"@en .
 
 diga_terms:2973297758 a skosxl:Label ;
-    skosxl:literalForm "Sundarananda"@en .
+    skosxl:literalForm "sundarananda"@en .
 
 diga_terms:2994511009 a skosxl:Label ;
-    skosxl:literalForm "Bodhi-tree deity"@en .
+    skosxl:literalForm "bodhi-tree deity"@en .
 
 diga_terms:2996133551 a skosxl:Label ;
     skosxl:literalForm "fantastic animals and terioanthropomorphic figures"@en .
 
 diga_terms:3002570507 a skosxl:Label ;
-    skosxl:literalForm "Yavanī"@en .
+    skosxl:literalForm "yavanī"@en .
 
 diga_terms:3004992533 a skosxl:Label ;
-    skosxl:literalForm "Tritoness"@en .
+    skosxl:literalForm "tritoness"@en .
 
 diga_terms:301981093 a skosxl:Label ;
-    skosxl:literalForm "Viṣṇu"@en .
+    skosxl:literalForm "viṣṇu"@en .
 
 diga_terms:3021880752 a skosxl:Label ;
-    skosxl:literalForm "Amitābha"@en .
+    skosxl:literalForm "amitābha"@en .
 
 diga_terms:3022990619 a skosxl:Label ;
-    skosxl:literalForm "Piṅgala"@en .
+    skosxl:literalForm "piṅgala"@en .
 
 diga_terms:3045836876 a skosxl:Label ;
-    skosxl:literalForm "Lokapāla"@en .
+    skosxl:literalForm "lokapāla"@en .
 
 diga_terms:305301437 a skosxl:Label ;
-    skosxl:literalForm "Śrī"@en .
+    skosxl:literalForm "śrī"@en .
 
 diga_terms:3055633354 a skosxl:Label ;
-    skosxl:literalForm "Putto"@en .
+    skosxl:literalForm "putto"@en .
 
 diga_terms:3081122388 a skosxl:Label ;
-    skosxl:literalForm "Prakṛti"@en .
+    skosxl:literalForm "prakṛti"@en .
 
 diga_terms:3124933645 a skosxl:Label ;
-    skosxl:literalForm "Poseidon"@en .
+    skosxl:literalForm "poseidon"@en .
 
 diga_terms:3135576354 a skosxl:Label ;
     skosxl:literalForm "bodhisattva"@en .
 
 diga_terms:3140813519 a skosxl:Label ;
-    skosxl:literalForm "Bāvarī"@en .
+    skosxl:literalForm "bāvarī"@en .
 
 diga_terms:3142120183 a skosxl:Label ;
-    skosxl:literalForm "Kāśyapa"@en .
+    skosxl:literalForm "kāśyapa"@en .
 
 diga_terms:3145899254 a skosxl:Label ;
-    skosxl:literalForm "Pharro"@en .
+    skosxl:literalForm "pharro"@en .
 
 diga_terms:3149879394 a skosxl:Label ;
-    skosxl:literalForm "Feminine figure with infant"@en .
+    skosxl:literalForm "feminine figure with infant"@en .
 
 diga_terms:3156389930 a skosxl:Label ;
-    skosxl:literalForm "Kālodāyī"@en .
+    skosxl:literalForm "kālodāyī"@en .
 
 diga_terms:3188788882 a skosxl:Label ;
-    skosxl:literalForm "Spearman"@en .
+    skosxl:literalForm "spearman"@en .
 
 diga_terms:3224690189 a skosxl:Label ;
-    skosxl:literalForm "Mahākāśyapa"@en .
+    skosxl:literalForm "mahākāśyapa"@en .
 
 diga_terms:3238220867 a skosxl:Label ;
-    skosxl:literalForm "Mahāprajāpatī"@en .
+    skosxl:literalForm "mahāprajāpatī"@en .
 
 diga_terms:3240680188 a skosxl:Label ;
-    skosxl:literalForm "Bhū"@en .
+    skosxl:literalForm "bhū"@en .
 
 diga_terms:3242131617 a skosxl:Label ;
-    skosxl:literalForm "Mahārāja"@en .
+    skosxl:literalForm "mahārāja"@en .
 
 diga_terms:3251277810 a skosxl:Label ;
-    skosxl:literalForm "Fortuna"@en .
+    skosxl:literalForm "fortuna"@en .
 
 diga_terms:3254292080 a skosxl:Label ;
-    skosxl:literalForm "Dīpaṃkara"@en .
+    skosxl:literalForm "dīpaṃkara"@en .
 
 diga_terms:3286759592 a skosxl:Label ;
-    skosxl:literalForm "Kumara"@en .
+    skosxl:literalForm "kumara"@en .
 
 diga_terms:3301723871 a skosxl:Label ;
-    skosxl:literalForm "Yakṣa"@en .
+    skosxl:literalForm "yakṣa"@en .
 
 diga_terms:3343858199 a skosxl:Label ;
-    skosxl:literalForm "Elapatra"@en .
+    skosxl:literalForm "elapatra"@en .
 
 diga_terms:3381652938 a skosxl:Label ;
-    skosxl:literalForm "Priyaṃkara"@en .
+    skosxl:literalForm "priyaṃkara"@en .
 
 diga_terms:3387952508 a skosxl:Label ;
-    skosxl:literalForm "Chandaka"@en .
+    skosxl:literalForm "chandaka"@en .
 
 diga_terms:3416843866 a skosxl:Label ;
-    skosxl:literalForm "Viduṣaka"@en .
+    skosxl:literalForm "viduṣaka"@en .
 
 diga_terms:3428298358 a skosxl:Label ;
-    skosxl:literalForm "Śākyamuni"@en .
+    skosxl:literalForm "śākyamuni"@en .
 
 diga_terms:343602301 a skosxl:Label ;
-    skosxl:literalForm "Feminine figure"@en .
+    skosxl:literalForm "feminine figure"@en .
 
 diga_terms:344103065 a skosxl:Label ;
-    skosxl:literalForm "Ardochsho"@en .
+    skosxl:literalForm "ardochsho"@en .
 
 diga_terms:344332345 a skosxl:Label ;
-    skosxl:literalForm "Madrī"@en .
+    skosxl:literalForm "madrī"@en .
 
 diga_terms:344613362 a skosxl:Label ;
-    skosxl:literalForm "Sundarī"@en .
+    skosxl:literalForm "sundarī"@en .
 
 diga_terms:3453774265 a skosxl:Label ;
-    skosxl:literalForm "Trāyastriṃśa"@en .
+    skosxl:literalForm "trāyastriṃśa"@en .
 
 diga_terms:3474026526 a skosxl:Label ;
-    skosxl:literalForm "Demon"@en .
+    skosxl:literalForm "demon"@en .
 
 diga_terms:3501037682 a skosxl:Label ;
-    skosxl:literalForm "Brahmacārin"@en .
+    skosxl:literalForm "brahmacārin"@en .
 
 diga_terms:3505354942 a skosxl:Label ;
-    skosxl:literalForm "Renunciant"@en .
+    skosxl:literalForm "renunciant"@en .
 
 diga_terms:3528421314 a skosxl:Label ;
-    skosxl:literalForm "Naigameśa (?)"@en .
+    skosxl:literalForm "naigameśa (?)"@en .
 
 diga_terms:3543275190 a skosxl:Label ;
-    skosxl:literalForm "Bhallika"@en .
+    skosxl:literalForm "bhallika"@en .
 
 diga_terms:3548903978 a skosxl:Label ;
     skosxl:literalForm "pregnant woman"@en .
 
 diga_terms:356046200 a skosxl:Label ;
-    skosxl:literalForm "aged Silenus type"@en .
+    skosxl:literalForm "aged silenus type"@en .
 
 diga_terms:3565495275 a skosxl:Label ;
     skosxl:literalForm "water deity"@en .
 
 diga_terms:3579532787 a skosxl:Label ;
-    skosxl:literalForm "Monk"@en .
+    skosxl:literalForm "monk"@en .
 
 diga_terms:3599400028 a skosxl:Label ;
-    skosxl:literalForm "Garuḍa"@en .
+    skosxl:literalForm "garuḍa"@en .
 
 diga_terms:3605814520 a skosxl:Label ;
-    skosxl:literalForm "Hunter"@en .
+    skosxl:literalForm "hunter"@en .
 
 diga_terms:3640880296 a skosxl:Label ;
-    skosxl:literalForm "Śuddhodana"@en .
+    skosxl:literalForm "śuddhodana"@en .
 
 diga_terms:3641476810 a skosxl:Label ;
-    skosxl:literalForm "Zoomorphic goddess"@en .
+    skosxl:literalForm "zoomorphic goddess"@en .
 
 diga_terms:3659992932 a skosxl:Label ;
-    skosxl:literalForm "Skanda"@en .
+    skosxl:literalForm "skanda"@en .
 
 diga_terms:3668962240 a skosxl:Label ;
-    skosxl:literalForm "Brahmā"@en .
+    skosxl:literalForm "brahmā"@en .
 
 diga_terms:3670622025 a skosxl:Label ;
-    skosxl:literalForm "Couple"@en .
+    skosxl:literalForm "couple"@en .
 
 diga_terms:3672647066 a skosxl:Label ;
-    skosxl:literalForm "Subhadrā"@en .
+    skosxl:literalForm "subhadrā"@en .
 
 diga_terms:3682258908 a skosxl:Label ;
-    skosxl:literalForm "Tyche"@en .
+    skosxl:literalForm "tyche"@en .
 
 diga_terms:3711631556 a skosxl:Label ;
-    skosxl:literalForm "Siddhārtha"@en .
+    skosxl:literalForm "siddhārtha"@en .
 
 diga_terms:3813558021 a skosxl:Label ;
-    skosxl:literalForm "Juvenile figure"@en .
+    skosxl:literalForm "juvenile figure"@en .
 
 diga_terms:384250800 a skosxl:Label ;
-    skosxl:literalForm "Masculine figure"@en .
+    skosxl:literalForm "masculine figure"@en .
 
 diga_terms:387119368 a skosxl:Label ;
-    skosxl:literalForm "Yaśodharā"@en .
+    skosxl:literalForm "yaśodharā"@en .
 
 diga_terms:3965521492 a skosxl:Label ;
-    skosxl:literalForm "Monkey (as character)"@en .
+    skosxl:literalForm "monkey (as character)"@en .
 
 diga_terms:3986972356 a skosxl:Label ;
-    skosxl:literalForm "Athena"@en .
+    skosxl:literalForm "athena"@en .
 
 diga_terms:4031974760 a skosxl:Label ;
-    skosxl:literalForm "Figure riding camel"@en .
+    skosxl:literalForm "figure riding camel"@en .
 
 diga_terms:4036793313 a skosxl:Label ;
     skosxl:literalForm "generic mythological figures"@en .
 
 diga_terms:4038892917 a skosxl:Label ;
-    skosxl:literalForm "Śukamāṇava"@en .
+    skosxl:literalForm "śukamāṇava"@en .
 
 diga_terms:4047722163 a skosxl:Label ;
-    skosxl:literalForm "Apsarā"@en .
+    skosxl:literalForm "apsarā"@en .
 
 diga_terms:4073127900 a skosxl:Label ;
-    skosxl:literalForm "Megha"@en .
+    skosxl:literalForm "megha"@en .
 
 diga_terms:4101228641 a skosxl:Label ;
-    skosxl:literalForm "Figure riding an elephant"@en .
+    skosxl:literalForm "figure riding an elephant"@en .
 
 diga_terms:4109547112 a skosxl:Label ;
-    skosxl:literalForm "Megha"@en .
+    skosxl:literalForm "megha"@en .
 
 diga_terms:4146522906 a skosxl:Label ;
-    skosxl:literalForm "Genius"@en .
+    skosxl:literalForm "genius"@en .
 
 diga_terms:4162983170 a skosxl:Label ;
-    skosxl:literalForm "Kāśyapa ascetics"@en .
+    skosxl:literalForm "kāśyapa ascetics"@en .
 
 diga_terms:4172392831 a skosxl:Label ;
-    skosxl:literalForm "Kārttikeya"@en .
+    skosxl:literalForm "kārttikeya"@en .
 
 diga_terms:4183733673 a skosxl:Label ;
-    skosxl:literalForm "Maitrakanyaka"@en .
+    skosxl:literalForm "maitrakanyaka"@en .
 
 diga_terms:41891424 a skosxl:Label ;
-    skosxl:literalForm "Amrapālī"@en .
+    skosxl:literalForm "amrapālī"@en .
 
 diga_terms:4212896351 a skosxl:Label ;
-    skosxl:literalForm "Silenus"@en .
+    skosxl:literalForm "silenus"@en .
 
 diga_terms:4235184201 a skosxl:Label ;
-    skosxl:literalForm "Trapuṣa"@en .
+    skosxl:literalForm "trapuṣa"@en .
 
 diga_terms:4257952786 a skosxl:Label ;
-    skosxl:literalForm "Ajñātakauṇḍinya"@en .
+    skosxl:literalForm "ajñātakauṇḍinya"@en .
 
 diga_terms:426615219 a skosxl:Label ;
-    skosxl:literalForm "Kubera"@en .
+    skosxl:literalForm "kubera"@en .
 
 diga_terms:4282283970 a skosxl:Label ;
     skosxl:literalForm "water deities"@en .
 
 diga_terms:4282387739 a skosxl:Label ;
-    skosxl:literalForm "Vajrapāṇi"@en .
+    skosxl:literalForm "vajrapāṇi"@en .
 
 diga_terms:433003511 a skosxl:Label ;
-    skosxl:literalForm "Chakravartin"@en .
+    skosxl:literalForm "chakravartin"@en .
 
 diga_terms:464287823 a skosxl:Label ;
-    skosxl:literalForm "Yakṣī"@en .
+    skosxl:literalForm "yakṣī"@en .
 
 diga_terms:495120081 a skosxl:Label ;
-    skosxl:literalForm "Wreath-bearer"@en .
+    skosxl:literalForm "wreath-bearer"@en .
 
 diga_terms:497486275 a skosxl:Label ;
-    skosxl:literalForm "Māra"@en .
+    skosxl:literalForm "māra"@en .
 
 diga_terms:517776110 a skosxl:Label ;
-    skosxl:literalForm "Cassandra"@en .
+    skosxl:literalForm "cassandra"@en .
 
 diga_terms:568924702 a skosxl:Label ;
-    skosxl:literalForm "Jaṭāyu"@en .
+    skosxl:literalForm "jaṭāyu"@en .
 
 diga_terms:586330489 a skosxl:Label ;
-    skosxl:literalForm "Soldier"@en .
+    skosxl:literalForm "soldier"@en .
 
 diga_terms:607603454 a skosxl:Label ;
-    skosxl:literalForm "Acrobat"@en .
+    skosxl:literalForm "acrobat"@en .
 
 diga_terms:621612106 a skosxl:Label ;
-    skosxl:literalForm "Female donor"@en .
+    skosxl:literalForm "female donor"@en .
 
 diga_terms:621961486 a skosxl:Label ;
-    skosxl:literalForm "Male donor"@en .
+    skosxl:literalForm "male donor"@en .
 
 diga_terms:622435215 a skosxl:Label ;
-    skosxl:literalForm "Lakṣmaṇa"@en .
+    skosxl:literalForm "lakṣmaṇa"@en .
 
 diga_terms:629926953 a skosxl:Label ;
     skosxl:literalForm "historical persons"@en .
 
 diga_terms:672652690 a skosxl:Label ;
-    skosxl:literalForm "Trojan horse"@en .
+    skosxl:literalForm "trojan horse"@en .
 
 diga_terms:674691763 a skosxl:Label ;
-    skosxl:literalForm "City goddess"@en .
+    skosxl:literalForm "city goddess"@en .
 
 diga_terms:684906098 a skosxl:Label ;
-    skosxl:literalForm "Rāvaṇa"@en .
+    skosxl:literalForm "rāvaṇa"@en .
 
 diga_terms:687598980 a skosxl:Label ;
-    skosxl:literalForm "Śrīgupta"@en .
+    skosxl:literalForm "śrīgupta"@en .
 
 diga_terms:693197762 a skosxl:Label ;
-    skosxl:literalForm "Fabulous animal "@en .
+    skosxl:literalForm "fabulous animal "@en .
 
 diga_terms:710397431 a skosxl:Label ;
-    skosxl:literalForm "River god"@en .
+    skosxl:literalForm "river god"@en .
 
 diga_terms:736579374 a skosxl:Label ;
-    skosxl:literalForm "Archer"@en .
+    skosxl:literalForm "archer"@en .
 
 diga_terms:74329953 a skosxl:Label ;
     skosxl:literalForm "supra-human beings"@en .
 
 diga_terms:743322956 a skosxl:Label ;
-    skosxl:literalForm "Brahmacārin"@en .
+    skosxl:literalForm "brahmacārin"@en .
 
 diga_terms:755370100 a skosxl:Label ;
-    skosxl:literalForm "Dionysus"@en .
+    skosxl:literalForm "dionysus"@en .
 
 diga_terms:76003607 a skosxl:Label ;
-    skosxl:literalForm "Warrior"@en .
+    skosxl:literalForm "warrior"@en .
 
 diga_terms:802655671 a skosxl:Label ;
     skosxl:literalForm "human beings"@en .
 
 diga_terms:81071292 a skosxl:Label ;
-    skosxl:literalForm "Earth goddess"@en .
+    skosxl:literalForm "earth goddess"@en .
 
 diga_terms:847369578 a skosxl:Label ;
-    skosxl:literalForm "Viśvamitra"@en .
+    skosxl:literalForm "viśvamitra"@en .
 
 diga_terms:852737913 a skosxl:Label ;
-    skosxl:literalForm "Sudāya"@en .
+    skosxl:literalForm "sudāya"@en .
 
 diga_terms:864840849 a skosxl:Label ;
-    skosxl:literalForm "Kālika"@en .
+    skosxl:literalForm "kālika"@en .
 
 diga_terms:883393822 a skosxl:Label ;
-    skosxl:literalForm "Apalāla"@en .
+    skosxl:literalForm "apalāla"@en .
 
 diga_terms:88839936 a skosxl:Label ;
-    skosxl:literalForm "Śakra"@en .
+    skosxl:literalForm "śakra"@en .
 
 diga_terms:889812255 a skosxl:Label ;
-    skosxl:literalForm "Sea deity"@en .
+    skosxl:literalForm "sea deity"@en .
 
 diga_terms:916375054 a skosxl:Label ;
-    skosxl:literalForm "Māra’s daughter"@en .
+    skosxl:literalForm "māra’s daughter"@en .
 
 diga_terms:971833421 a skosxl:Label ;
-    skosxl:literalForm "Śibi"@en .
+    skosxl:literalForm "śibi"@en .
 
 diga_terms:3725270573 a skos:Concept ;
     dc:identifier "3725270573" ;
@@ -1729,7 +1729,7 @@ diga_terms:3725270573 a skos:Concept ;
     skosxl:prefLabel diga_terms:1013446245 .
 
 diga_terms:4023102238 a skosxl:Label ;
-    skosxl:literalForm "Ardokhsho"@en .
+    skosxl:literalForm "ardokhsho"@en .
 
 diga_terms:426016178 a skos:Concept ;
     dc:identifier "426016178" ;
