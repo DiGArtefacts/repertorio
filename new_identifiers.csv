@@ -1,38 +1,86 @@
 ,concept,it_str,en_str,id
-0,https://w3id.org/diga/terms/c_b0bbdbe7,veste monastica,monastic robe,2320100902
-1,https://w3id.org/diga/terms/c_c615f3d7,pettinatura monastica,monastic hair,545163129
-2,https://w3id.org/diga/terms/c_31e65c80,liuto,lute,3508558499
-3,https://w3id.org/diga/terms/c_9971ea14,"con pollice, indice e medio della mano dx. tesi, uniti","with right hand thumb, index and middle finger extended and joined",905621637
-4,https://w3id.org/diga/terms/c_1379d070,con mano dx. semichiusa con pollice e indice uniti per le punte,with right hand partially clenched with thumb and index finger joined at tips,2108185351
-5,https://w3id.org/diga/terms/c_c81bb8c2,il lavoro dello scultore,the sculptor's work,2642759048
-6,https://w3id.org/diga/terms/c_0d640c10,motivi decorativi,decorative motifs,2896914945
-7,https://w3id.org/diga/terms/c_ef524e8b,persone,people,234251970
-8,https://w3id.org/diga/terms/c_90b07019,fauna,fauna,3945627877
-9,https://w3id.org/diga/terms/c_41a4be3f,flora,flora,2298336107
-10,https://w3id.org/diga/terms/c_4ba24f3c,strumenti musicali,musical instruments,2054426851
-11,https://w3id.org/diga/terms/c_6c3d7bae,oggetti da cerimonia,ceremonial objects,3066298879
-12,https://w3id.org/diga/terms/c_7c1d4a8d,oggetti di vita quotidiana,everyday objects,1022807358
-13,https://w3id.org/diga/terms/c_81f28c3c,mobilio,furniture,573338218
-14,https://w3id.org/diga/terms/c_68962d06,mezzi di trasporto,means of transport,2251868554
-15,https://w3id.org/diga/terms/c_db8e50a9,nave,ship,1443780080
-16,https://w3id.org/diga/terms/c_b62cf088,barca,boat,4083475564
-17,https://w3id.org/diga/terms/c_a7cd0947,armi,weapons,3269212881
-18,https://w3id.org/diga/terms/c_96d20f5c,"lancia, giavellotto, tridente","spear, javelin, trident",1704937405
-19,https://w3id.org/diga/terms/c_cff8466e,"colonna e pilastro, semicolonna e parasta","column and pillar, semi-column and pilaster",292026662
-20,https://w3id.org/diga/terms/c_22e938b0,brahmano anziano,elderly brahmin,1963118738
-21,https://w3id.org/diga/terms/c_6e4023c8,asceta anziano,elderly ascetic,3231805110
-22,https://w3id.org/diga/terms/c_dfd86b01,asceta giovane,young ascetic,4161140608
-23,https://w3id.org/diga/terms/c_8fd9afde,brahmano giovane,young brahmin,2234494597
-24,https://w3id.org/diga/terms/c_6081519c,carro con cassa decorata,cart with decorated body,171881259
-25,https://w3id.org/diga/terms/c_f42bca53,carro con cassa alata,cart with winged decorated body,2669998381
-26,https://w3id.org/diga/terms/c_54313c41,timone laterale,side rudder,3361798727
-27,https://w3id.org/diga/terms/c_5879430c,scafo,hull,603997620
-28,https://w3id.org/diga/terms/c_1a47911b,braccio,shaft,1063048129
-29,https://w3id.org/diga/terms/c_a76aedfc,pala quadrata,square oar-blade,3360668993
-30,https://w3id.org/diga/terms/c_0840d643,prua,bow,3354158434
-31,https://w3id.org/diga/terms/c_3140e040,prua con acrostolio,bow with acrostilium,2184156646
-32,https://w3id.org/diga/terms/c_3cbfb085,acrostolio,acrostilium,1954977915
-33,https://w3id.org/diga/terms/c_794f3277,tavola da fasciame,hull plank,874988481
-34,https://w3id.org/diga/terms/c_9b99c454,placca,tenon,1449126805
-35,https://w3id.org/diga/terms/c_85f8dd29,timone laterale,side rudder,3361798727
-36,https://w3id.org/diga/terms/c_fc7b3ba1,barca fluviale,river boat,2058223302
+0,https://w3id.org/diga/terms/c_ab40f3d2,connessure labiali,lip dimples,648615685
+1,https://w3id.org/diga/terms/c_8a2a0463,vulva,vulva,524880040
+2,https://w3id.org/diga/terms/c_53d7423a,tridente,trident,1775892328
+3,https://w3id.org/diga/terms/c_cff8466e,"colonna e pilastro, semicolonna e parasta","column and pillar, semi-column and pilaster",292026662
+4,https://w3id.org/diga/terms/c_4a243ddb,ūṣṇīṣa separata,separated ūṣṇīṣa,2529761007
+5,https://w3id.org/diga/terms/c_19a96da9,ūṣṇīṣa non separata,not separated ūṣṇīṣa,520028207
+6,https://w3id.org/diga/terms/c_54353f04,dita,toes,3432778081
+7,https://w3id.org/diga/terms/c_54313c41,timone laterale,side rudder,3361798727
+8,https://w3id.org/diga/terms/c_5879430c,scafo,hull,603997620
+9,https://w3id.org/diga/terms/c_1379d070,gesto di conversazione/domanda con mano dx. semichiusa con pollice e indice uniti per le punte,gesture of conversation/question with right hand partially clenched with thumb and index finger joined at tips,3330229845
+10,https://w3id.org/diga/terms/c_ba118f4a,tunica lunga manicata,sleeved long tunic,350360457
+11,https://w3id.org/diga/terms/c_7c1d4a8d,oggetti di vita quotidiana,everyday objects,1022807358
+12,https://w3id.org/diga/terms/c_74c80d8f,figura femminile di tipo classico armato,armed female figure of classical type,4241843063
+13,https://w3id.org/diga/terms/c_c81bb8c2,il lavoro dello scultore,the sculptor's work,2642759048
+14,https://w3id.org/diga/terms/c_3cbfb085,acrostolio,acrostilium,1954977915
+15,https://w3id.org/diga/terms/c_c050830d,tenuta da guerriero,warrior attire,3721602185
+16,https://w3id.org/diga/terms/c_8ca9afcd,acroterio centrale,central acroterion,3828765841
+17,https://w3id.org/diga/terms/c_b62cf088,barca,boat,4083475564
+18,https://w3id.org/diga/terms/c_36150a46,pianta,sole,2005214624
+19,https://w3id.org/diga/terms/c_0553772c,"capitello a modanature orizzontali, con guscio e ovolo ","capital with horizontal mouldings, with cavetto and ovolo",763761960
+20,https://w3id.org/diga/terms/c_bc5f9792,"capitello a modanature orizzontali, con ovolo e guscio","capital composed of horizontal mouldings, with ovolo and cavetto",4109259957
+21,https://w3id.org/diga/terms/c_8b4f9ef2,labbro superiore,upper lip,1093246389
+22,https://w3id.org/diga/terms/c_a7cd0947,armi,weapons,3269212881
+23,https://w3id.org/diga/terms/c_2991f49a,labbro inferiore,lower lip,900626037
+24,https://w3id.org/diga/terms/c_b9db1d11,dorso della mano,back of the hand,1508321537
+25,https://w3id.org/diga/terms/c_78552843,falangi,phalanges,855444887
+26,https://w3id.org/diga/terms/c_41a4be3f,vegetazione,vegetation,473170543
+27,https://w3id.org/diga/terms/c_4ba24f3c,strumenti musicali,musical instruments,2054426851
+28,https://w3id.org/diga/terms/c_541fcc3c,omero,ambone,3862409682
+29,https://w3id.org/diga/terms/c_970e1043,brahmano,brahmin,4028105358
+30,https://w3id.org/diga/terms/c_db8e50a9,nave,ship,1443780080
+31,https://w3id.org/diga/terms/c_2c849814,scollatura rotonda,curved neckline,787989189
+32,https://w3id.org/diga/terms/c_0d640c10,motivi decorativi,decorative motifs,2896914945
+33,https://w3id.org/diga/terms/c_b112a85a,vestiti,clothes and accessories,1199973794
+34,https://w3id.org/diga/terms/c_1eda51d3,feritoia cruciforme,cruciform loophole,234364800
+35,https://w3id.org/diga/terms/c_444ce562,berretto frigio,Phrygian cap,1900316631
+36,https://w3id.org/diga/terms/c_58abf69e,base a scozia con doppia fila di fuseruole e perline,base of scotia type with double bead-and-reel row,1108359624
+37,https://w3id.org/diga/terms/c_48f7591d,scollatura ovale,oval neckline,390082197
+38,https://w3id.org/diga/terms/c_e7caf70a,chioma di albero,tree crown,3586984831
+39,https://w3id.org/diga/terms/c_9cb6371c,base a toro,base of torus type,3975005915
+40,https://w3id.org/diga/terms/c_0840d643,prua,prow,19497046
+41,https://w3id.org/diga/terms/c_22b0f56b,fusto,shaft,1621402559
+42,https://w3id.org/diga/terms/c_81f28c3c,mobilio,furniture,573338218
+43,https://w3id.org/diga/terms/c_d8ccc0ef,"abbigliamento, tenuta","dress, attire",3906619880
+44,https://w3id.org/diga/terms/c_ab416b34,scollatura a punta,v-shaped neckline,1404104470
+45,https://w3id.org/diga/terms/c_f42bca53,carro con cassa alata,cart with winged decorated body,2669998381
+46,https://w3id.org/diga/terms/c_22e938b0,brahmano anziano,elderly brahmin,1963118738
+47,https://w3id.org/diga/terms/c_6e4023c8,asceta anziano,elderly ascetic,3231805110
+48,https://w3id.org/diga/terms/c_a4f3469e,capitello,capital,2327276189
+49,https://w3id.org/diga/terms/c_7358b93c,"componenti di colonna e pilastro, semicolonna e parasta ","components of column and pillar, semi-column and pilaster",1390933319
+50,https://w3id.org/diga/terms/c_9af66eee,base di tipo gandharico-ionico,base of the ganhdaran-ionic type,1491773280
+51,https://w3id.org/diga/terms/c_3140e040,prua con acrostolio,prow with acrostilium,702506325
+52,https://w3id.org/diga/terms/c_b49c42a9,tricīvara,tricīvara,4129377204
+53,https://w3id.org/diga/terms/c_102a4e42,linea buccale,mouth fissure,3120113219
+54,https://w3id.org/diga/terms/c_dfd86b01,asceta giovane,young ascetic,4161140608
+55,https://w3id.org/diga/terms/c_cbb3b823,base,base,1297605701
+56,https://w3id.org/diga/terms/c_0d85417d,indice,index finger,184641349
+57,https://w3id.org/diga/terms/c_c8e9b236,palmo,palm,332029559
+58,https://w3id.org/diga/terms/c_c6e1b5f9,"capitello a modanature orizzontali, con ovolo","capital composed of horizontal mouldings, with ovolo",2953837672
+59,https://w3id.org/diga/terms/c_d5a121b1,pollice,thumb,1005968134
+60,https://w3id.org/diga/terms/c_097f5c5d,anulare,ring finger,261179852
+61,https://w3id.org/diga/terms/c_4acab2e4,bilancia,scale,810895029
+62,https://w3id.org/diga/terms/c_c68a1bf9,alluce,big toe,471145664
+63,https://w3id.org/diga/terms/c_b0f10fcd,dorso del piede,foot arch,4187838859
+64,https://w3id.org/diga/terms/c_96d20f5c,giavellotto,javelin,2631050290
+65,https://w3id.org/diga/terms/c_d028d788,tallone,heel,2762878302
+66,https://w3id.org/diga/terms/c_89a30d01,malleolo,malleolus,1954113910
+67,https://w3id.org/diga/terms/c_d503d4d8,acroterio angolare,angular acroterion,1810140875
+68,https://w3id.org/diga/terms/c_6f4c2302,medio,middle finger,3151964537
+69,https://w3id.org/diga/terms/c_eb6e9030,gioielli e ornamenti,jewels and ornaments,928905638
+70,https://w3id.org/diga/terms/c_d8b35636,mignolo,little finger,2397804815
+71,https://w3id.org/diga/terms/c_90b07019,animali,animals,406891803
+72,https://w3id.org/diga/terms/c_fc7b3ba1,barca fluviale,river boat,2058223302
+73,https://w3id.org/diga/terms/c_f47e2c00,capitello figurato gandharico-corinzio,figured gandharan-corinthian capital,1752812207
+74,https://w3id.org/diga/terms/c_b702b7bc,capitello gandharico-corinzio non figurato,not figured gandharan-corinthian capital,1751139500
+75,https://w3id.org/diga/terms/c_d25e8595,capitello non figurato gandharico-corinzio,not-figured gandharan-corinthian capital,3329055129
+76,https://w3id.org/diga/terms/c_ea55243c,base a scozia con fila di fuseruole e perline,base of scotia type with bead-and-reel row,1662467446
+77,https://w3id.org/diga/terms/c_68962d06,mezzi di trasporto,means of transport,2251868554
+78,https://w3id.org/diga/terms/c_6c3d7bae,oggetti da cerimonia,ceremonial objects,3066298879
+79,https://w3id.org/diga/terms/c_8fd9afde,brahmano giovane,young brahmin,2234494597
+80,https://w3id.org/diga/terms/c_6081519c,carro con cassa decorata,cart with decorated body,171881259
+81,https://w3id.org/diga/terms/c_cd3bb725,capitello a modanature orizzontali a listelli sovrapposti progressivamente aggettanti,capital composed of horizontal mouldings with superimposed projecting fillets,3901078763
+82,https://w3id.org/diga/terms/c_9971ea14,"gesto di conversazione/domanda con pollice, indice e medio della mano dx. tesi, uniti","gesture of conversation/question with right hand thumb, index and middle finger extended and joined",547371541
+83,https://w3id.org/diga/terms/c_936bb2ec,collana lunga traversa portata sulla spalla dx. con pietre ,long cross-necklace resting on the right shoulder with stones,2801773867
+84,https://w3id.org/diga/terms/c_e4f4d117,tipologie di capigliatura,hair types,1682195343
